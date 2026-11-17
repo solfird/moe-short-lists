@@ -12,6 +12,10 @@ version: "1.0"
 license: CC-BY-4.0
 repository-code: "https://github.com/solfird/moe-short-lists"
 doi: "10.5281/zenodo.24325064"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24325063"
+    description: "All versions of this report"
 keywords:
   - mixture of experts
   - expert routing
