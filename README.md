@@ -7,7 +7,7 @@
 
 Solfird AI Technical Report 2026-02 · November 2026 · Julien Simon
 
-[Report (PDF, 27 pages)](moe-short-lists.pdf) · DOI [10.5281/zenodo.24325064](https://doi.org/10.5281/zenodo.24325064) (version 1.0)
+[Report (PDF, 27 pages)](moe-short-lists.pdf) · DOI [10.5281/zenodo.24325064](https://doi.org/10.5281/zenodo.24325064) (version 1.0) · all versions: [10.5281/zenodo.24325063](https://doi.org/10.5281/zenodo.24325063)
 
 ## The result
 
