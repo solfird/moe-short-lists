@@ -1,0 +1,24 @@
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2490.68it/s]
+prompts 1200
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2061.89it/s]
+gemma_d300_static_short_n300_k24_s32.jsonl: 1114s, k=24 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 1740.38it/s]
+prompts 1200
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 1869.54it/s]
+nemotron_d300_static_short_n300_k16_s32.jsonl: 979s, k=16 of 128
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 5278.07it/s]
+prompts 1200
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 5330.84it/s]
+qwen36_d300_static_short_n300_k24_s32.jsonl: 717s, k=24 of 256
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 4336.54it/s]
+layers scaled: 30
+gemma_r0.75_ends64_short_n300_k0_s32.jsonl: 1012s, k=0 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2616.37it/s]
+layers scaled: 30
+gemma_r0.75_ends64_short_n300_k24_s32.jsonl: 1156s, k=24 of 128
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 4328.78it/s]
+layers scaled: 40
+qwen36_r0.75_ends64_short_n300_k0_s32.jsonl: 1039s, k=0 of 256
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 4489.73it/s]
+layers scaled: 40
+qwen36_r0.75_ends64_short_n300_k24_s32.jsonl: 1131s, k=24 of 256

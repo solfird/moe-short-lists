@@ -1,0 +1,17 @@
+{
+ "model": "mlx-community/gemma-4-26b-a4b-it-4bit",
+ "snapshot": "0d77464eeb233a2da68ebf9d7dc4edaac7db956d",
+ "mlx": "0.32.4",
+ "mlx_lm": "0.32.2",
+ "python": "3.13.15",
+ "git_commit": "64d8d78dda10ed8094e2c537820c7ad7d97a3c6f",
+ "git_dirty": false,
+ "start": "2026-10-31T21:58:35+01:00",
+ "tag": "gemma_pl_pad",
+ "router": null,
+ "delta": null,
+ "frac": 0.0,
+ "k": 0,
+ "s": 32,
+ "n": 200
+}

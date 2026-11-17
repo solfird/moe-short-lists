@@ -1,0 +1,18 @@
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2340.83it/s]
+gemma_d300_short_n300_k0_s32.jsonl: 1050s, k=0 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2906.86it/s]
+gemma_d300_ends64_short_n300_k16_s32.jsonl: 1176s, k=16 of 128
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 4202.99it/s]
+qwen36_d300_short_n300_k0_s32.jsonl: 1060s, k=0 of 256
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 3256.78it/s]
+qwen36_d300_ends64_short_n300_k32_s32.jsonl: 1139s, k=32 of 256
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2763.41it/s]
+nemotron_d300_short_n300_k0_s32.jsonl: 857s, k=0 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2807.06it/s]
+nemotron_d300_ends64_short_n300_k16_s32.jsonl: 1008s, k=16 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2816.86it/s]
+gemma_d300_short_n300_k16_s32.jsonl: 1312s, k=16 of 128
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 3113.97it/s]
+qwen36_d300_short_n300_k32_s32.jsonl: 643s, k=32 of 256
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2159.01it/s]
+nemotron_d300_short_n300_k16_s32.jsonl: 990s, k=16 of 128

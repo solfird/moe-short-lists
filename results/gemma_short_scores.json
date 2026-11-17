@@ -1,0 +1,57 @@
+[
+ {
+  "run": "gemma_short_k0_s32",
+  "sum_rougeL_ref": 0.2208741186498329,
+  "sum_rougeL_teacher": 1.0,
+  "qa_em": 0.39,
+  "qa_f1": 0.6861294386130166,
+  "cls_acc": 0.85,
+  "rew_rougeL_teacher": 1.0,
+  "loads_per_layer": null,
+  "n": 360
+ },
+ {
+  "run": "gemma_short_k16_s32",
+  "sum_rougeL_ref": 0.05352399280452276,
+  "sum_rougeL_teacher": 0.07110096344356885,
+  "qa_em": 0.2,
+  "qa_f1": 0.4666721970563822,
+  "cls_acc": 0.82,
+  "rew_rougeL_teacher": 0.29755652870585453,
+  "loads_per_layer": 25.94675925925926,
+  "n": 360
+ },
+ {
+  "run": "gemma_short_k32_s32",
+  "sum_rougeL_ref": 0.18165889014903577,
+  "sum_rougeL_teacher": 0.34157081379266124,
+  "qa_em": 0.32,
+  "qa_f1": 0.6468282051028047,
+  "cls_acc": 0.86,
+  "rew_rougeL_teacher": 0.6246484431858688,
+  "loads_per_layer": 43.550185185185185,
+  "n": 360
+ },
+ {
+  "run": "gemma_short_k64_s32",
+  "sum_rougeL_ref": 0.23024650713508116,
+  "sum_rougeL_teacher": 0.6073772735098957,
+  "qa_em": 0.27,
+  "qa_f1": 0.6441860297052113,
+  "cls_acc": 0.85,
+  "rew_rougeL_teacher": 0.755637056946233,
+  "loads_per_layer": 74.22675925925927,
+  "n": 360
+ },
+ {
+  "run": "gemma_short_k8_s32",
+  "sum_rougeL_ref": 0.02494829036390906,
+  "sum_rougeL_teacher": 0.03485633632262323,
+  "qa_em": 0.0,
+  "qa_f1": 0.07788382320836358,
+  "cls_acc": 0.34,
+  "rew_rougeL_teacher": 0.06552834548236944,
+  "loads_per_layer": 13.87175925925926,
+  "n": 360
+ }
+]

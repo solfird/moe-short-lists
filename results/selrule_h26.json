@@ -1,0 +1,124 @@
+{
+ "selection": true,
+ "content": false,
+ "suffices": false,
+ "verdict": "selection",
+ "models": {
+  "gemma": {
+   "plain_first": 0.92,
+   "plain_unmasked_accuracy": 0.835,
+   "sel": {
+    "mean": 0.635,
+    "lo": 0.57,
+    "hi": 0.7001249999999992,
+    "n": 200
+   },
+   "rep": {
+    "mean": 0.305,
+    "lo": 0.245,
+    "hi": 0.37,
+    "n": 200
+   },
+   "aft": {
+    "mean": 0.015,
+    "lo": 0.0,
+    "hi": 0.035,
+    "n": 200
+   },
+   "sel_first": 0.635,
+   "arms": {
+    "pad": {
+     "prompt_tokens": 622.925,
+     "first": 0.0,
+     "lcs": 0.006722222222222223,
+     "masked_accuracy": 0.025,
+     "unmasked_accuracy": 0.71,
+     "kept": 0.035211267605633804
+    },
+    "sel": {
+     "prompt_tokens": 622.925,
+     "first": 0.635,
+     "lcs": 0.6132070707070707,
+     "masked_accuracy": 0.48,
+     "unmasked_accuracy": 0.71,
+     "kept": 0.676056338028169
+    },
+    "rep": {
+     "prompt_tokens": 758.66,
+     "first": 0.305,
+     "lcs": 0.42339646464646463,
+     "masked_accuracy": 0.6,
+     "unmasked_accuracy": 0.86,
+     "kept": 0.6976744186046512
+    },
+    "aft": {
+     "prompt_tokens": 622.97,
+     "first": 0.015,
+     "lcs": 0.025888888888888885,
+     "masked_accuracy": 0.06,
+     "unmasked_accuracy": 0.265,
+     "kept": 0.22641509433962262
+    }
+   },
+   "aft_interpretable": false
+  },
+  "qwen36": {
+   "plain_first": 0.88,
+   "plain_unmasked_accuracy": 0.875,
+   "sel": {
+    "mean": 0.58,
+    "lo": 0.515,
+    "hi": 0.65,
+    "n": 200
+   },
+   "rep": {
+    "mean": 0.0,
+    "lo": 0.0,
+    "hi": 0.0,
+    "n": 200
+   },
+   "aft": {
+    "mean": 0.005,
+    "lo": 0.0,
+    "hi": 0.015,
+    "n": 200
+   },
+   "sel_first": 0.58,
+   "arms": {
+    "pad": {
+     "prompt_tokens": 621.1,
+     "first": 0.0,
+     "lcs": 0.0,
+     "masked_accuracy": 0.005,
+     "unmasked_accuracy": 0.39,
+     "kept": 0.01282051282051282
+    },
+    "sel": {
+     "prompt_tokens": 621.1,
+     "first": 0.58,
+     "lcs": 0.5816666666666667,
+     "masked_accuracy": 0.7,
+     "unmasked_accuracy": 0.39,
+     "kept": 1.7948717948717947
+    },
+    "rep": {
+     "prompt_tokens": 754.085,
+     "first": 0.0,
+     "lcs": 0.0,
+     "masked_accuracy": 0.0,
+     "unmasked_accuracy": 0.865,
+     "kept": 0.0
+    },
+    "aft": {
+     "prompt_tokens": 621.1,
+     "first": 0.005,
+     "lcs": 0.0047619047619047615,
+     "masked_accuracy": 0.015,
+     "unmasked_accuracy": 0.355,
+     "kept": 0.04225352112676056
+    }
+   },
+   "aft_interpretable": false
+  }
+ }
+}

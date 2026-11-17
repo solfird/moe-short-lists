@@ -1,0 +1,6 @@
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 3550.88it/s]
+gemma_d300_ends64_short_n300_k24_s32.jsonl: 1163s, k=24 of 128
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 3557.91it/s]
+qwen36_d300_ends64_short_n300_k24_s32.jsonl: 1137s, k=24 of 256
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 3430.27it/s]
+qwen36_d300_ends64_short_n300_k48_s32.jsonl: 1129s, k=48 of 256

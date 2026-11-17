@@ -1,0 +1,17 @@
+{
+ "model": "mlx-community/gemma-4-26b-a4b-it-4bit",
+ "snapshot": "0d77464eeb233a2da68ebf9d7dc4edaac7db956d",
+ "mlx": "0.32.4",
+ "mlx_lm": "0.32.2",
+ "python": "3.13.15",
+ "git_commit": "8e21c636dd16ca6f34cfb76395831079894dcbd7",
+ "git_dirty": true,
+ "start": "2026-11-14T18:20:05+01:00",
+ "tag": "gemma_d600",
+ "router": null,
+ "delta": null,
+ "frac": 0.1875,
+ "k": 24,
+ "s": 32,
+ "n": 300
+}

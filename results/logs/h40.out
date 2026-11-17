@@ -1,0 +1,31 @@
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 3593.17it/s]
+clsprobe_gemma_k24_untrained_ends.jsonl
+clsprobe_gemma_k24_untrained_ends_rot.jsonl
+clsprobe_gemma_k24_untrained_ends_rot2.jsonl
+clsprobe_gemma_k24_untrained_ends_rot3.jsonl
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 4260.77it/s]
+Repo card metadata block was not found. Setting CardData to empty.
+clsprobe_emotion_gemma_k0.jsonl
+clsprobe_emotion_gemma_k0_rot.jsonl
+clsprobe_emotion_gemma_k24_untrained_ends.jsonl
+clsprobe_emotion_gemma_k24_untrained_ends_rot.jsonl
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 4211.99it/s]
+clsprobe_nemotron_k16_untrained_ends.jsonl
+clsprobe_nemotron_k16_untrained_ends_rot.jsonl
+clsprobe_nemotron_k16_untrained_ends_rot2.jsonl
+clsprobe_nemotron_k16_untrained_ends_rot3.jsonl
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 3251.15it/s]
+Repo card metadata block was not found. Setting CardData to empty.
+clsprobe_emotion_nemotron_k0.jsonl
+clsprobe_emotion_nemotron_k0_rot.jsonl
+clsprobe_emotion_nemotron_k16_untrained_ends.jsonl
+clsprobe_emotion_nemotron_k16_untrained_ends_rot.jsonl
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 3747.14it/s]
+clsprobe_qwen36_k24_untrained_ends.jsonl
+clsprobe_qwen36_k24_untrained_ends_rot.jsonl
+clsprobe_qwen36_k24_untrained_ends_rot2.jsonl
+clsprobe_qwen36_k24_untrained_ends_rot3.jsonl
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 4455.07it/s]
+Repo card metadata block was not found. Setting CardData to empty.
+clsprobe_emotion_qwen36_k24_untrained_ends.jsonl
+clsprobe_emotion_qwen36_k24_untrained_ends_rot.jsonl

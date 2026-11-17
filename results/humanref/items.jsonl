@@ -1,0 +1,600 @@
+{"id": 0, "set": "xsum", "i": 32639063, "src": "Gold", "human": false}
+{"id": 1, "set": "xsum", "i": 11254244, "src": "Gold", "human": true}
+{"id": 2, "set": "summeval", "i": 94, "src": 14, "score": 5.0, "human": true}
+{"id": 3, "set": "xsum", "i": 33894974, "src": "PtGen", "human": true}
+{"id": 4, "set": "xsum", "i": 41017946, "src": "PtGen", "human": false}
+{"id": 5, "set": "summeval", "i": 5, "src": 8, "score": 1.6666666666666667, "human": false}
+{"id": 6, "set": "xsum", "i": 37861972, "src": "TConvS2S", "human": false}
+{"id": 7, "set": "xsum", "i": 35867345, "src": "BERTS2S", "human": false}
+{"id": 8, "set": "summeval", "i": 59, "src": 13, "score": 3.0, "human": false}
+{"id": 9, "set": "summeval", "i": 0, "src": 5, "score": 5.0, "human": true}
+{"id": 10, "set": "xsum", "i": 36811337, "src": "TranS2S", "human": true}
+{"id": 11, "set": "xsum", "i": 38313922, "src": "PtGen", "human": false}
+{"id": 12, "set": "summeval", "i": 97, "src": 0, "score": 1.6666666666666667, "human": false}
+{"id": 13, "set": "summeval", "i": 41, "src": 15, "score": 5.0, "human": true}
+{"id": 14, "set": "summeval", "i": 32, "src": 13, "score": 5.0, "human": true}
+{"id": 15, "set": "summeval", "i": 26, "src": 14, "score": 2.6666666666666665, "human": false}
+{"id": 16, "set": "summeval", "i": 76, "src": 15, "score": 2.6666666666666665, "human": false}
+{"id": 17, "set": "xsum", "i": 25754437, "src": "BERTS2S", "human": true}
+{"id": 18, "set": "xsum", "i": 22121705, "src": "PtGen", "human": true}
+{"id": 19, "set": "summeval", "i": 87, "src": 3, "score": 5.0, "human": true}
+{"id": 20, "set": "xsum", "i": 26603920, "src": "TConvS2S", "human": false}
+{"id": 21, "set": "xsum", "i": 27487425, "src": "TranS2S", "human": true}
+{"id": 22, "set": "summeval", "i": 96, "src": 12, "score": 5.0, "human": true}
+{"id": 23, "set": "summeval", "i": 86, "src": 14, "score": 3.6666666666666665, "human": false}
+{"id": 24, "set": "xsum", "i": 38828777, "src": "BERTS2S", "human": true}
+{"id": 25, "set": "summeval", "i": 41, "src": 8, "score": 2.0, "human": false}
+{"id": 26, "set": "summeval", "i": 28, "src": 8, "score": 2.0, "human": false}
+{"id": 27, "set": "xsum", "i": 38535210, "src": "BERTS2S", "human": false}
+{"id": 28, "set": "xsum", "i": 39073171, "src": "Gold", "human": false}
+{"id": 29, "set": "xsum", "i": 30410314, "src": "TranS2S", "human": false}
+{"id": 30, "set": "xsum", "i": 26481454, "src": "PtGen", "human": false}
+{"id": 31, "set": "summeval", "i": 21, "src": 0, "score": 2.3333333333333335, "human": false}
+{"id": 32, "set": "xsum", "i": 36151192, "src": "PtGen", "human": false}
+{"id": 33, "set": "xsum", "i": 37376607, "src": "TranS2S", "human": false}
+{"id": 34, "set": "xsum", "i": 36228472, "src": "BERTS2S", "human": true}
+{"id": 35, "set": "summeval", "i": 99, "src": 7, "score": 5.0, "human": true}
+{"id": 36, "set": "summeval", "i": 28, "src": 14, "score": 1.6666666666666667, "human": false}
+{"id": 37, "set": "summeval", "i": 13, "src": 4, "score": 5.0, "human": true}
+{"id": 38, "set": "summeval", "i": 64, "src": 15, "score": 4.0, "human": false}
+{"id": 39, "set": "summeval", "i": 90, "src": 6, "score": 5.0, "human": true}
+{"id": 40, "set": "xsum", "i": 22776080, "src": "TConvS2S", "human": false}
+{"id": 41, "set": "summeval", "i": 29, "src": 8, "score": 2.3333333333333335, "human": false}
+{"id": 42, "set": "summeval", "i": 58, "src": 8, "score": 2.0, "human": false}
+{"id": 43, "set": "summeval", "i": 97, "src": 15, "score": 5.0, "human": true}
+{"id": 44, "set": "summeval", "i": 30, "src": 12, "score": 5.0, "human": true}
+{"id": 45, "set": "summeval", "i": 36, "src": 8, "score": 1.6666666666666667, "human": false}
+{"id": 46, "set": "xsum", "i": 39137666, "src": "TConvS2S", "human": true}
+{"id": 47, "set": "summeval", "i": 37, "src": 9, "score": 2.6666666666666665, "human": false}
+{"id": 48, "set": "xsum", "i": 38072178, "src": "PtGen", "human": true}
+{"id": 49, "set": "xsum", "i": 25667298, "src": "TranS2S", "human": false}
+{"id": 50, "set": "xsum", "i": 34902406, "src": "PtGen", "human": true}
+{"id": 51, "set": "xsum", "i": 29558868, "src": "BERTS2S", "human": true}
+{"id": 52, "set": "summeval", "i": 77, "src": 11, "score": 5.0, "human": true}
+{"id": 53, "set": "summeval", "i": 18, "src": 5, "score": 2.6666666666666665, "human": false}
+{"id": 54, "set": "xsum", "i": 40064844, "src": "BERTS2S", "human": false}
+{"id": 55, "set": "xsum", "i": 38902811, "src": "TranS2S", "human": false}
+{"id": 56, "set": "summeval", "i": 11, "src": 14, "score": 2.3333333333333335, "human": false}
+{"id": 57, "set": "xsum", "i": 34379049, "src": "BERTS2S", "human": true}
+{"id": 58, "set": "xsum", "i": 39302525, "src": "TranS2S", "human": true}
+{"id": 59, "set": "xsum", "i": 38156497, "src": "PtGen", "human": false}
+{"id": 60, "set": "summeval", "i": 31, "src": 8, "score": 2.0, "human": false}
+{"id": 61, "set": "summeval", "i": 2, "src": 13, "score": 5.0, "human": true}
+{"id": 62, "set": "summeval", "i": 41, "src": 13, "score": 5.0, "human": true}
+{"id": 63, "set": "summeval", "i": 91, "src": 14, "score": 2.6666666666666665, "human": false}
+{"id": 64, "set": "xsum", "i": 37580920, "src": "TConvS2S", "human": false}
+{"id": 65, "set": "summeval", "i": 89, "src": 4, "score": 5.0, "human": true}
+{"id": 66, "set": "summeval", "i": 6, "src": 4, "score": 5.0, "human": true}
+{"id": 67, "set": "xsum", "i": 21812349, "src": "Gold", "human": true}
+{"id": 68, "set": "xsum", "i": 34902406, "src": "TranS2S", "human": true}
+{"id": 69, "set": "summeval", "i": 1, "src": 0, "score": 1.3333333333333333, "human": false}
+{"id": 70, "set": "xsum", "i": 39838747, "src": "TConvS2S", "human": false}
+{"id": 71, "set": "xsum", "i": 19411364, "src": "BERTS2S", "human": true}
+{"id": 72, "set": "summeval", "i": 94, "src": 8, "score": 5.0, "human": true}
+{"id": 73, "set": "summeval", "i": 62, "src": 0, "score": 1.6666666666666667, "human": false}
+{"id": 74, "set": "summeval", "i": 79, "src": 9, "score": 2.0, "human": false}
+{"id": 75, "set": "xsum", "i": 40730842, "src": "PtGen", "human": true}
+{"id": 76, "set": "xsum", "i": 31211562, "src": "TranS2S", "human": false}
+{"id": 77, "set": "summeval", "i": 30, "src": 9, "score": 5.0, "human": true}
+{"id": 78, "set": "summeval", "i": 26, "src": 8, "score": 1.3333333333333333, "human": false}
+{"id": 79, "set": "xsum", "i": 32780434, "src": "BERTS2S", "human": false}
+{"id": 80, "set": "xsum", "i": 38360939, "src": "Gold", "human": true}
+{"id": 81, "set": "xsum", "i": 36307647, "src": "Gold", "human": true}
+{"id": 82, "set": "xsum", "i": 36186291, "src": "TranS2S", "human": true}
+{"id": 83, "set": "xsum", "i": 27886442, "src": "Gold", "human": true}
+{"id": 84, "set": "xsum", "i": 34875703, "src": "PtGen", "human": false}
+{"id": 85, "set": "xsum", "i": 33580318, "src": "PtGen", "human": false}
+{"id": 86, "set": "summeval", "i": 20, "src": 15, "score": 2.0, "human": false}
+{"id": 87, "set": "summeval", "i": 34, "src": 3, "score": 5.0, "human": true}
+{"id": 88, "set": "summeval", "i": 38, "src": 12, "score": 5.0, "human": true}
+{"id": 89, "set": "summeval", "i": 90, "src": 14, "score": 2.6666666666666665, "human": false}
+{"id": 90, "set": "xsum", "i": 38029488, "src": "TranS2S", "human": true}
+{"id": 91, "set": "xsum", "i": 39619574, "src": "PtGen", "human": false}
+{"id": 92, "set": "summeval", "i": 17, "src": 8, "score": 1.6666666666666667, "human": false}
+{"id": 93, "set": "xsum", "i": 35365124, "src": "BERTS2S", "human": false}
+{"id": 94, "set": "summeval", "i": 86, "src": 6, "score": 5.0, "human": true}
+{"id": 95, "set": "xsum", "i": 34028485, "src": "TranS2S", "human": false}
+{"id": 96, "set": "xsum", "i": 31184967, "src": "Gold", "human": true}
+{"id": 97, "set": "xsum", "i": 36764885, "src": "Gold", "human": false}
+{"id": 98, "set": "summeval", "i": 39, "src": 9, "score": 5.0, "human": true}
+{"id": 99, "set": "xsum", "i": 36980863, "src": "PtGen", "human": false}
+{"id": 100, "set": "summeval", "i": 73, "src": 14, "score": 2.6666666666666665, "human": false}
+{"id": 101, "set": "summeval", "i": 34, "src": 8, "score": 1.3333333333333333, "human": false}
+{"id": 102, "set": "summeval", "i": 29, "src": 13, "score": 5.0, "human": true}
+{"id": 103, "set": "xsum", "i": 38072178, "src": "BERTS2S", "human": true}
+{"id": 104, "set": "summeval", "i": 43, "src": 10, "score": 5.0, "human": true}
+{"id": 105, "set": "xsum", "i": 36606952, "src": "PtGen", "human": true}
+{"id": 106, "set": "summeval", "i": 32, "src": 0, "score": 1.3333333333333333, "human": false}
+{"id": 107, "set": "summeval", "i": 71, "src": 3, "score": 5.0, "human": true}
+{"id": 108, "set": "summeval", "i": 77, "src": 13, "score": 2.3333333333333335, "human": false}
+{"id": 109, "set": "xsum", "i": 33026574, "src": "BERTS2S", "human": true}
+{"id": 110, "set": "summeval", "i": 18, "src": 13, "score": 2.3333333333333335, "human": false}
+{"id": 111, "set": "summeval", "i": 66, "src": 14, "score": 2.0, "human": false}
+{"id": 112, "set": "summeval", "i": 57, "src": 8, "score": 1.3333333333333333, "human": false}
+{"id": 113, "set": "summeval", "i": 17, "src": 5, "score": 5.0, "human": true}
+{"id": 114, "set": "summeval", "i": 19, "src": 13, "score": 5.0, "human": true}
+{"id": 115, "set": "summeval", "i": 77, "src": 2, "score": 5.0, "human": true}
+{"id": 116, "set": "xsum", "i": 38878996, "src": "TConvS2S", "human": false}
+{"id": 117, "set": "summeval", "i": 14, "src": 8, "score": 1.0, "human": false}
+{"id": 118, "set": "xsum", "i": 33310810, "src": "TConvS2S", "human": false}
+{"id": 119, "set": "xsum", "i": 38000100, "src": "Gold", "human": true}
+{"id": 120, "set": "xsum", "i": 39355356, "src": "PtGen", "human": false}
+{"id": 121, "set": "xsum", "i": 12502158, "src": "BERTS2S", "human": false}
+{"id": 122, "set": "xsum", "i": 10238849, "src": "BERTS2S", "human": false}
+{"id": 123, "set": "summeval", "i": 12, "src": 5, "score": 5.0, "human": true}
+{"id": 124, "set": "summeval", "i": 94, "src": 4, "score": 1.3333333333333333, "human": false}
+{"id": 125, "set": "summeval", "i": 84, "src": 6, "score": 5.0, "human": true}
+{"id": 126, "set": "xsum", "i": 34868820, "src": "BERTS2S", "human": false}
+{"id": 127, "set": "xsum", "i": 39538081, "src": "PtGen", "human": true}
+{"id": 128, "set": "xsum", "i": 35621849, "src": "BERTS2S", "human": true}
+{"id": 129, "set": "summeval", "i": 42, "src": 8, "score": 2.6666666666666665, "human": false}
+{"id": 130, "set": "summeval", "i": 20, "src": 12, "score": 5.0, "human": true}
+{"id": 131, "set": "summeval", "i": 31, "src": 0, "score": 1.3333333333333333, "human": false}
+{"id": 132, "set": "xsum", "i": 37301780, "src": "Gold", "human": false}
+{"id": 133, "set": "xsum", "i": 38231741, "src": "TConvS2S", "human": true}
+{"id": 134, "set": "xsum", "i": 40035729, "src": "TranS2S", "human": true}
+{"id": 135, "set": "xsum", "i": 37064876, "src": "TranS2S", "human": false}
+{"id": 136, "set": "summeval", "i": 5, "src": 14, "score": 2.3333333333333335, "human": false}
+{"id": 137, "set": "summeval", "i": 70, "src": 8, "score": 1.3333333333333333, "human": false}
+{"id": 138, "set": "xsum", "i": 21297406, "src": "PtGen", "human": false}
+{"id": 139, "set": "summeval", "i": 21, "src": 8, "score": 1.6666666666666667, "human": false}
+{"id": 140, "set": "xsum", "i": 29704402, "src": "TConvS2S", "human": false}
+{"id": 141, "set": "summeval", "i": 35, "src": 11, "score": 5.0, "human": true}
+{"id": 142, "set": "summeval", "i": 29, "src": 0, "score": 1.0, "human": false}
+{"id": 143, "set": "summeval", "i": 65, "src": 8, "score": 1.6666666666666667, "human": false}
+{"id": 144, "set": "xsum", "i": 26481454, "src": "Gold", "human": true}
+{"id": 145, "set": "summeval", "i": 18, "src": 8, "score": 1.3333333333333333, "human": false}
+{"id": 146, "set": "summeval", "i": 6, "src": 15, "score": 4.0, "human": false}
+{"id": 147, "set": "xsum", "i": 34379049, "src": "TranS2S", "human": false}
+{"id": 148, "set": "summeval", "i": 33, "src": 0, "score": 2.6666666666666665, "human": false}
+{"id": 149, "set": "summeval", "i": 27, "src": 8, "score": 2.0, "human": false}
+{"id": 150, "set": "summeval", "i": 58, "src": 9, "score": 5.0, "human": true}
+{"id": 151, "set": "xsum", "i": 37665125, "src": "TranS2S", "human": false}
+{"id": 152, "set": "summeval", "i": 87, "src": 8, "score": 1.6666666666666667, "human": false}
+{"id": 153, "set": "summeval", "i": 39, "src": 7, "score": 5.0, "human": true}
+{"id": 154, "set": "summeval", "i": 35, "src": 14, "score": 1.6666666666666667, "human": false}
+{"id": 155, "set": "summeval", "i": 74, "src": 14, "score": 5.0, "human": true}
+{"id": 156, "set": "xsum", "i": 40162271, "src": "TConvS2S", "human": false}
+{"id": 157, "set": "xsum", "i": 33894974, "src": "TranS2S", "human": false}
+{"id": 158, "set": "summeval", "i": 91, "src": 9, "score": 5.0, "human": true}
+{"id": 159, "set": "summeval", "i": 36, "src": 4, "score": 5.0, "human": true}
+{"id": 160, "set": "summeval", "i": 87, "src": 0, "score": 5.0, "human": true}
+{"id": 161, "set": "summeval", "i": 99, "src": 1, "score": 2.0, "human": false}
+{"id": 162, "set": "xsum", "i": 39840178, "src": "Gold", "human": true}
+{"id": 163, "set": "summeval", "i": 69, "src": 1, "score": 5.0, "human": true}
+{"id": 164, "set": "xsum", "i": 34962856, "src": "PtGen", "human": false}
+{"id": 165, "set": "summeval", "i": 52, "src": 14, "score": 5.0, "human": true}
+{"id": 166, "set": "summeval", "i": 99, "src": 10, "score": 5.0, "human": true}
+{"id": 167, "set": "xsum", "i": 36098182, "src": "TranS2S", "human": true}
+{"id": 168, "set": "xsum", "i": 12720805, "src": "PtGen", "human": true}
+{"id": 169, "set": "xsum", "i": 21367591, "src": "BERTS2S", "human": true}
+{"id": 170, "set": "xsum", "i": 33303666, "src": "TranS2S", "human": true}
+{"id": 171, "set": "summeval", "i": 51, "src": 9, "score": 5.0, "human": true}
+{"id": 172, "set": "summeval", "i": 51, "src": 6, "score": 5.0, "human": true}
+{"id": 173, "set": "summeval", "i": 22, "src": 8, "score": 1.3333333333333333, "human": false}
+{"id": 174, "set": "xsum", "i": 36504868, "src": "Gold", "human": false}
+{"id": 175, "set": "xsum", "i": 35441528, "src": "TConvS2S", "human": true}
+{"id": 176, "set": "summeval", "i": 13, "src": 8, "score": 1.6666666666666667, "human": false}
+{"id": 177, "set": "xsum", "i": 35366927, "src": "BERTS2S", "human": true}
+{"id": 178, "set": "summeval", "i": 50, "src": 0, "score": 1.6666666666666667, "human": false}
+{"id": 179, "set": "summeval", "i": 56, "src": 10, "score": 5.0, "human": true}
+{"id": 180, "set": "summeval", "i": 23, "src": 12, "score": 5.0, "human": true}
+{"id": 181, "set": "summeval", "i": 12, "src": 0, "score": 2.3333333333333335, "human": false}
+{"id": 182, "set": "xsum", "i": 25667298, "src": "PtGen", "human": true}
+{"id": 183, "set": "summeval", "i": 56, "src": 0, "score": 2.6666666666666665, "human": false}
+{"id": 184, "set": "summeval", "i": 24, "src": 5, "score": 5.0, "human": true}
+{"id": 185, "set": "xsum", "i": 38013436, "src": "TConvS2S", "human": true}
+{"id": 186, "set": "summeval", "i": 33, "src": 13, "score": 2.0, "human": false}
+{"id": 187, "set": "xsum", "i": 30620122, "src": "Gold", "human": true}
+{"id": 188, "set": "summeval", "i": 2, "src": 8, "score": 2.0, "human": false}
+{"id": 189, "set": "summeval", "i": 38, "src": 6, "score": 5.0, "human": true}
+{"id": 190, "set": "summeval", "i": 43, "src": 0, "score": 2.0, "human": false}
+{"id": 191, "set": "summeval", "i": 7, "src": 1, "score": 5.0, "human": true}
+{"id": 192, "set": "xsum", "i": 40354741, "src": "BERTS2S", "human": true}
+{"id": 193, "set": "summeval", "i": 23, "src": 7, "score": 5.0, "human": true}
+{"id": 194, "set": "summeval", "i": 85, "src": 11, "score": 5.0, "human": true}
+{"id": 195, "set": "xsum", "i": 38434966, "src": "PtGen", "human": false}
+{"id": 196, "set": "xsum", "i": 35186370, "src": "PtGen", "human": true}
+{"id": 197, "set": "xsum", "i": 38998611, "src": "Gold", "human": false}
+{"id": 198, "set": "xsum", "i": 37646354, "src": "TConvS2S", "human": true}
+{"id": 199, "set": "summeval", "i": 49, "src": 5, "score": 5.0, "human": true}
+{"id": 200, "set": "summeval", "i": 6, "src": 0, "score": 1.0, "human": false}
+{"id": 201, "set": "xsum", "i": 34932083, "src": "BERTS2S", "human": true}
+{"id": 202, "set": "summeval", "i": 31, "src": 6, "score": 5.0, "human": true}
+{"id": 203, "set": "summeval", "i": 51, "src": 8, "score": 1.6666666666666667, "human": false}
+{"id": 204, "set": "xsum", "i": 34537106, "src": "TConvS2S", "human": true}
+{"id": 205, "set": "xsum", "i": 36407661, "src": "TranS2S", "human": false}
+{"id": 206, "set": "xsum", "i": 41109988, "src": "BERTS2S", "human": true}
+{"id": 207, "set": "xsum", "i": 33361110, "src": "BERTS2S", "human": true}
+{"id": 208, "set": "summeval", "i": 30, "src": 5, "score": 5.0, "human": true}
+{"id": 209, "set": "summeval", "i": 63, "src": 0, "score": 2.3333333333333335, "human": false}
+{"id": 210, "set": "xsum", "i": 26481454, "src": "TranS2S", "human": false}
+{"id": 211, "set": "xsum", "i": 35058593, "src": "PtGen", "human": false}
+{"id": 212, "set": "xsum", "i": 38535210, "src": "TConvS2S", "human": false}
+{"id": 213, "set": "xsum", "i": 17746549, "src": "TConvS2S", "human": false}
+{"id": 214, "set": "xsum", "i": 25078479, "src": "Gold", "human": false}
+{"id": 215, "set": "summeval", "i": 79, "src": 0, "score": 3.6666666666666665, "human": false}
+{"id": 216, "set": "xsum", "i": 36186291, "src": "BERTS2S", "human": true}
+{"id": 217, "set": "xsum", "i": 34787720, "src": "PtGen", "human": false}
+{"id": 218, "set": "summeval", "i": 95, "src": 0, "score": 2.0, "human": false}
+{"id": 219, "set": "summeval", "i": 99, "src": 8, "score": 2.6666666666666665, "human": false}
+{"id": 220, "set": "summeval", "i": 69, "src": 8, "score": 2.6666666666666665, "human": false}
+{"id": 221, "set": "xsum", "i": 35512241, "src": "Gold", "human": true}
+{"id": 222, "set": "summeval", "i": 36, "src": 1, "score": 5.0, "human": true}
+{"id": 223, "set": "summeval", "i": 27, "src": 14, "score": 5.0, "human": true}
+{"id": 224, "set": "summeval", "i": 32, "src": 8, "score": 3.0, "human": false}
+{"id": 225, "set": "xsum", "i": 31874668, "src": "BERTS2S", "human": true}
+{"id": 226, "set": "summeval", "i": 88, "src": 4, "score": 5.0, "human": true}
+{"id": 227, "set": "summeval", "i": 91, "src": 0, "score": 2.6666666666666665, "human": false}
+{"id": 228, "set": "summeval", "i": 70, "src": 12, "score": 5.0, "human": true}
+{"id": 229, "set": "xsum", "i": 24653569, "src": "TConvS2S", "human": true}
+{"id": 230, "set": "xsum", "i": 38385834, "src": "Gold", "human": true}
+{"id": 231, "set": "xsum", "i": 36766227, "src": "Gold", "human": false}
+{"id": 232, "set": "summeval", "i": 10, "src": 15, "score": 2.6666666666666665, "human": false}
+{"id": 233, "set": "xsum", "i": 40999859, "src": "Gold", "human": true}
+{"id": 234, "set": "summeval", "i": 80, "src": 14, "score": 1.6666666666666667, "human": false}
+{"id": 235, "set": "xsum", "i": 25940979, "src": "PtGen", "human": false}
+{"id": 236, "set": "summeval", "i": 6, "src": 6, "score": 2.6666666666666665, "human": false}
+{"id": 237, "set": "summeval", "i": 95, "src": 13, "score": 5.0, "human": true}
+{"id": 238, "set": "xsum", "i": 21812349, "src": "BERTS2S", "human": true}
+{"id": 239, "set": "summeval", "i": 80, "src": 2, "score": 5.0, "human": true}
+{"id": 240, "set": "xsum", "i": 36098182, "src": "PtGen", "human": true}
+{"id": 241, "set": "xsum", "i": 22080945, "src": "Gold", "human": false}
+{"id": 242, "set": "summeval", "i": 22, "src": 0, "score": 1.3333333333333333, "human": false}
+{"id": 243, "set": "xsum", "i": 34758160, "src": "Gold", "human": true}
+{"id": 244, "set": "xsum", "i": 30581848, "src": "PtGen", "human": true}
+{"id": 245, "set": "xsum", "i": 39479405, "src": "Gold", "human": false}
+{"id": 246, "set": "xsum", "i": 38156497, "src": "BERTS2S", "human": false}
+{"id": 247, "set": "summeval", "i": 58, "src": 12, "score": 2.6666666666666665, "human": false}
+{"id": 248, "set": "xsum", "i": 34874405, "src": "PtGen", "human": true}
+{"id": 249, "set": "xsum", "i": 35205472, "src": "TConvS2S", "human": true}
+{"id": 250, "set": "xsum", "i": 36151192, "src": "TConvS2S", "human": false}
+{"id": 251, "set": "summeval", "i": 78, "src": 0, "score": 4.0, "human": false}
+{"id": 252, "set": "summeval", "i": 31, "src": 7, "score": 3.0, "human": false}
+{"id": 253, "set": "summeval", "i": 10, "src": 10, "score": 5.0, "human": true}
+{"id": 254, "set": "xsum", "i": 39687051, "src": "TConvS2S", "human": false}
+{"id": 255, "set": "summeval", "i": 90, "src": 0, "score": 2.3333333333333335, "human": false}
+{"id": 256, "set": "summeval", "i": 35, "src": 0, "score": 1.6666666666666667, "human": false}
+{"id": 257, "set": "xsum", "i": 32289288, "src": "BERTS2S", "human": false}
+{"id": 258, "set": "summeval", "i": 80, "src": 8, "score": 2.6666666666666665, "human": false}
+{"id": 259, "set": "summeval", "i": 52, "src": 10, "score": 5.0, "human": true}
+{"id": 260, "set": "xsum", "i": 11254244, "src": "PtGen", "human": false}
+{"id": 261, "set": "summeval", "i": 67, "src": 0, "score": 1.6666666666666667, "human": false}
+{"id": 262, "set": "xsum", "i": 34837471, "src": "PtGen", "human": false}
+{"id": 263, "set": "xsum", "i": 36151192, "src": "TranS2S", "human": false}
+{"id": 264, "set": "summeval", "i": 15, "src": 15, "score": 5.0, "human": true}
+{"id": 265, "set": "xsum", "i": 37676654, "src": "TranS2S", "human": false}
+{"id": 266, "set": "summeval", "i": 81, "src": 3, "score": 5.0, "human": true}
+{"id": 267, "set": "summeval", "i": 10, "src": 7, "score": 5.0, "human": true}
+{"id": 268, "set": "summeval", "i": 61, "src": 0, "score": 1.6666666666666667, "human": false}
+{"id": 269, "set": "summeval", "i": 71, "src": 9, "score": 5.0, "human": true}
+{"id": 270, "set": "xsum", "i": 35230953, "src": "TConvS2S", "human": false}
+{"id": 271, "set": "xsum", "i": 39302525, "src": "PtGen", "human": false}
+{"id": 272, "set": "summeval", "i": 23, "src": 14, "score": 3.6666666666666665, "human": false}
+{"id": 273, "set": "xsum", "i": 28260767, "src": "BERTS2S", "human": true}
+{"id": 274, "set": "xsum", "i": 34902406, "src": "BERTS2S", "human": false}
+{"id": 275, "set": "xsum", "i": 17692709, "src": "BERTS2S", "human": false}
+{"id": 276, "set": "summeval", "i": 59, "src": 0, "score": 1.0, "human": false}
+{"id": 277, "set": "xsum", "i": 28813677, "src": "TConvS2S", "human": false}
+{"id": 278, "set": "xsum", "i": 40354741, "src": "Gold", "human": true}
+{"id": 279, "set": "summeval", "i": 44, "src": 4, "score": 5.0, "human": true}
+{"id": 280, "set": "xsum", "i": 32535850, "src": "TranS2S", "human": true}
+{"id": 281, "set": "summeval", "i": 24, "src": 6, "score": 5.0, "human": true}
+{"id": 282, "set": "summeval", "i": 56, "src": 12, "score": 5.0, "human": true}
+{"id": 283, "set": "xsum", "i": 40519819, "src": "Gold", "human": false}
+{"id": 284, "set": "summeval", "i": 50, "src": 5, "score": 5.0, "human": true}
+{"id": 285, "set": "summeval", "i": 15, "src": 14, "score": 5.0, "human": true}
+{"id": 286, "set": "summeval", "i": 18, "src": 0, "score": 4.0, "human": false}
+{"id": 287, "set": "xsum", "i": 36890360, "src": "TranS2S", "human": false}
+{"id": 288, "set": "summeval", "i": 86, "src": 7, "score": 5.0, "human": true}
+{"id": 289, "set": "summeval", "i": 94, "src": 6, "score": 5.0, "human": true}
+{"id": 290, "set": "xsum", "i": 33770226, "src": "Gold", "human": false}
+{"id": 291, "set": "summeval", "i": 9, "src": 1, "score": 2.3333333333333335, "human": false}
+{"id": 292, "set": "summeval", "i": 19, "src": 11, "score": 5.0, "human": true}
+{"id": 293, "set": "xsum", "i": 12720805, "src": "Gold", "human": true}
+{"id": 294, "set": "xsum", "i": 35186370, "src": "TranS2S", "human": true}
+{"id": 295, "set": "summeval", "i": 66, "src": 12, "score": 2.6666666666666665, "human": false}
+{"id": 296, "set": "summeval", "i": 64, "src": 13, "score": 1.6666666666666667, "human": false}
+{"id": 297, "set": "xsum", "i": 28460838, "src": "TConvS2S", "human": false}
+{"id": 298, "set": "xsum", "i": 35519902, "src": "TConvS2S", "human": false}
+{"id": 299, "set": "xsum", "i": 19411364, "src": "PtGen", "human": true}
+{"id": 300, "set": "xsum", "i": 38433121, "src": "PtGen", "human": true}
+{"id": 301, "set": "xsum", "i": 38259550, "src": "BERTS2S", "human": false}
+{"id": 302, "set": "xsum", "i": 38416455, "src": "TConvS2S", "human": true}
+{"id": 303, "set": "xsum", "i": 35186370, "src": "Gold", "human": false}
+{"id": 304, "set": "summeval", "i": 10, "src": 12, "score": 5.0, "human": true}
+{"id": 305, "set": "xsum", "i": 36186291, "src": "Gold", "human": true}
+{"id": 306, "set": "xsum", "i": 33775471, "src": "PtGen", "human": true}
+{"id": 307, "set": "xsum", "i": 29337469, "src": "PtGen", "human": false}
+{"id": 308, "set": "summeval", "i": 14, "src": 10, "score": 5.0, "human": true}
+{"id": 309, "set": "xsum", "i": 30902827, "src": "TConvS2S", "human": false}
+{"id": 310, "set": "summeval", "i": 63, "src": 15, "score": 2.0, "human": false}
+{"id": 311, "set": "summeval", "i": 16, "src": 0, "score": 1.6666666666666667, "human": false}
+{"id": 312, "set": "xsum", "i": 34028888, "src": "Gold", "human": true}
+{"id": 313, "set": "summeval", "i": 48, "src": 5, "score": 5.0, "human": true}
+{"id": 314, "set": "summeval", "i": 46, "src": 9, "score": 5.0, "human": true}
+{"id": 315, "set": "xsum", "i": 38424244, "src": "PtGen", "human": false}
+{"id": 316, "set": "summeval", "i": 67, "src": 8, "score": 1.0, "human": false}
+{"id": 317, "set": "xsum", "i": 33851212, "src": "TranS2S", "human": false}
+{"id": 318, "set": "xsum", "i": 38442554, "src": "Gold", "human": false}
+{"id": 319, "set": "summeval", "i": 52, "src": 3, "score": 5.0, "human": true}
+{"id": 320, "set": "xsum", "i": 39960898, "src": "Gold", "human": true}
+{"id": 321, "set": "xsum", "i": 39363182, "src": "PtGen", "human": true}
+{"id": 322, "set": "xsum", "i": 38863308, "src": "BERTS2S", "human": false}
+{"id": 323, "set": "summeval", "i": 86, "src": 8, "score": 2.0, "human": false}
+{"id": 324, "set": "summeval", "i": 84, "src": 2, "score": 5.0, "human": true}
+{"id": 325, "set": "xsum", "i": 36154083, "src": "PtGen", "human": true}
+{"id": 326, "set": "xsum", "i": 34932083, "src": "Gold", "human": true}
+{"id": 327, "set": "xsum", "i": 38348599, "src": "TConvS2S", "human": true}
+{"id": 328, "set": "xsum", "i": 40734994, "src": "Gold", "human": false}
+{"id": 329, "set": "summeval", "i": 92, "src": 8, "score": 1.6666666666666667, "human": false}
+{"id": 330, "set": "xsum", "i": 33775471, "src": "Gold", "human": true}
+{"id": 331, "set": "summeval", "i": 90, "src": 5, "score": 5.0, "human": true}
+{"id": 332, "set": "summeval", "i": 4, "src": 7, "score": 5.0, "human": true}
+{"id": 333, "set": "summeval", "i": 95, "src": 11, "score": 5.0, "human": true}
+{"id": 334, "set": "summeval", "i": 38, "src": 0, "score": 1.3333333333333333, "human": false}
+{"id": 335, "set": "summeval", "i": 30, "src": 10, "score": 5.0, "human": true}
+{"id": 336, "set": "xsum", "i": 38442554, "src": "TConvS2S", "human": true}
+{"id": 337, "set": "summeval", "i": 45, "src": 1, "score": 1.3333333333333333, "human": false}
+{"id": 338, "set": "xsum", "i": 38947045, "src": "Gold", "human": true}
+{"id": 339, "set": "summeval", "i": 34, "src": 14, "score": 2.3333333333333335, "human": false}
+{"id": 340, "set": "summeval", "i": 16, "src": 7, "score": 5.0, "human": true}
+{"id": 341, "set": "xsum", "i": 36307647, "src": "BERTS2S", "human": true}
+{"id": 342, "set": "summeval", "i": 11, "src": 0, "score": 1.3333333333333333, "human": false}
+{"id": 343, "set": "xsum", "i": 30581848, "src": "TConvS2S", "human": false}
+{"id": 344, "set": "summeval", "i": 10, "src": 13, "score": 1.0, "human": false}
+{"id": 345, "set": "xsum", "i": 37068311, "src": "BERTS2S", "human": true}
+{"id": 346, "set": "summeval", "i": 98, "src": 12, "score": 5.0, "human": true}
+{"id": 347, "set": "xsum", "i": 34028485, "src": "Gold", "human": true}
+{"id": 348, "set": "xsum", "i": 36567415, "src": "PtGen", "human": true}
+{"id": 349, "set": "xsum", "i": 31874668, "src": "PtGen", "human": true}
+{"id": 350, "set": "summeval", "i": 44, "src": 5, "score": 5.0, "human": true}
+{"id": 351, "set": "xsum", "i": 35007832, "src": "PtGen", "human": true}
+{"id": 352, "set": "summeval", "i": 60, "src": 12, "score": 5.0, "human": true}
+{"id": 353, "set": "xsum", "i": 36986766, "src": "BERTS2S", "human": false}
+{"id": 354, "set": "xsum", "i": 39302525, "src": "Gold", "human": false}
+{"id": 355, "set": "summeval", "i": 40, "src": 8, "score": 1.6666666666666667, "human": false}
+{"id": 356, "set": "xsum", "i": 35604758, "src": "BERTS2S", "human": true}
+{"id": 357, "set": "summeval", "i": 8, "src": 0, "score": 1.0, "human": false}
+{"id": 358, "set": "summeval", "i": 21, "src": 1, "score": 5.0, "human": true}
+{"id": 359, "set": "xsum", "i": 35007832, "src": "TConvS2S", "human": true}
+{"id": 360, "set": "xsum", "i": 39538081, "src": "BERTS2S", "human": false}
+{"id": 361, "set": "xsum", "i": 38284840, "src": "PtGen", "human": true}
+{"id": 362, "set": "xsum", "i": 28813677, "src": "BERTS2S", "human": true}
+{"id": 363, "set": "xsum", "i": 13699161, "src": "PtGen", "human": true}
+{"id": 364, "set": "summeval", "i": 75, "src": 15, "score": 5.0, "human": true}
+{"id": 365, "set": "xsum", "i": 38445826, "src": "Gold", "human": true}
+{"id": 366, "set": "summeval", "i": 75, "src": 0, "score": 1.6666666666666667, "human": false}
+{"id": 367, "set": "summeval", "i": 3, "src": 0, "score": 2.3333333333333335, "human": false}
+{"id": 368, "set": "summeval", "i": 58, "src": 13, "score": 5.0, "human": true}
+{"id": 369, "set": "summeval", "i": 52, "src": 9, "score": 5.0, "human": true}
+{"id": 370, "set": "xsum", "i": 36108563, "src": "TConvS2S", "human": false}
+{"id": 371, "set": "xsum", "i": 32289288, "src": "TConvS2S", "human": false}
+{"id": 372, "set": "xsum", "i": 21367591, "src": "TConvS2S", "human": false}
+{"id": 373, "set": "xsum", "i": 34028888, "src": "TConvS2S", "human": false}
+{"id": 374, "set": "summeval", "i": 2, "src": 7, "score": 5.0, "human": true}
+{"id": 375, "set": "summeval", "i": 57, "src": 13, "score": 2.6666666666666665, "human": false}
+{"id": 376, "set": "xsum", "i": 38429461, "src": "Gold", "human": true}
+{"id": 377, "set": "xsum", "i": 40782974, "src": "TranS2S", "human": true}
+{"id": 378, "set": "summeval", "i": 5, "src": 0, "score": 1.0, "human": false}
+{"id": 379, "set": "summeval", "i": 93, "src": 8, "score": 5.0, "human": true}
+{"id": 380, "set": "xsum", "i": 38650016, "src": "TConvS2S", "human": true}
+{"id": 381, "set": "xsum", "i": 38231741, "src": "PtGen", "human": true}
+{"id": 382, "set": "summeval", "i": 0, "src": 1, "score": 2.3333333333333335, "human": false}
+{"id": 383, "set": "xsum", "i": 36070356, "src": "PtGen", "human": false}
+{"id": 384, "set": "xsum", "i": 36982573, "src": "Gold", "human": true}
+{"id": 385, "set": "summeval", "i": 39, "src": 0, "score": 1.3333333333333333, "human": false}
+{"id": 386, "set": "summeval", "i": 60, "src": 8, "score": 1.6666666666666667, "human": false}
+{"id": 387, "set": "xsum", "i": 19677896, "src": "Gold", "human": true}
+{"id": 388, "set": "xsum", "i": 32193224, "src": "TConvS2S", "human": false}
+{"id": 389, "set": "xsum", "i": 21297406, "src": "Gold", "human": false}
+{"id": 390, "set": "xsum", "i": 37567287, "src": "BERTS2S", "human": false}
+{"id": 391, "set": "summeval", "i": 64, "src": 2, "score": 5.0, "human": true}
+{"id": 392, "set": "summeval", "i": 75, "src": 9, "score": 5.0, "human": true}
+{"id": 393, "set": "xsum", "i": 38313922, "src": "TranS2S", "human": false}
+{"id": 394, "set": "summeval", "i": 66, "src": 0, "score": 1.3333333333333333, "human": false}
+{"id": 395, "set": "xsum", "i": 38385834, "src": "PtGen", "human": true}
+{"id": 396, "set": "summeval", "i": 50, "src": 12, "score": 5.0, "human": true}
+{"id": 397, "set": "summeval", "i": 90, "src": 2, "score": 5.0, "human": true}
+{"id": 398, "set": "summeval", "i": 85, "src": 0, "score": 2.6666666666666665, "human": false}
+{"id": 399, "set": "summeval", "i": 26, "src": 13, "score": 1.6666666666666667, "human": false}
+{"id": 400, "set": "xsum", "i": 33605312, "src": "TConvS2S", "human": false}
+{"id": 401, "set": "summeval", "i": 39, "src": 5, "score": 5.0, "human": true}
+{"id": 402, "set": "xsum", "i": 37003904, "src": "TConvS2S", "human": true}
+{"id": 403, "set": "xsum", "i": 37718111, "src": "Gold", "human": true}
+{"id": 404, "set": "summeval", "i": 56, "src": 1, "score": 5.0, "human": true}
+{"id": 405, "set": "xsum", "i": 39106759, "src": "TranS2S", "human": true}
+{"id": 406, "set": "summeval", "i": 91, "src": 2, "score": 5.0, "human": true}
+{"id": 407, "set": "xsum", "i": 35174007, "src": "PtGen", "human": true}
+{"id": 408, "set": "xsum", "i": 38618021, "src": "TranS2S", "human": false}
+{"id": 409, "set": "summeval", "i": 5, "src": 9, "score": 5.0, "human": true}
+{"id": 410, "set": "summeval", "i": 14, "src": 7, "score": 2.3333333333333335, "human": false}
+{"id": 411, "set": "summeval", "i": 85, "src": 8, "score": 1.6666666666666667, "human": false}
+{"id": 412, "set": "xsum", "i": 37676654, "src": "Gold", "human": false}
+{"id": 413, "set": "summeval", "i": 64, "src": 8, "score": 1.6666666666666667, "human": false}
+{"id": 414, "set": "xsum", "i": 28409684, "src": "BERTS2S", "human": false}
+{"id": 415, "set": "summeval", "i": 92, "src": 9, "score": 5.0, "human": true}
+{"id": 416, "set": "xsum", "i": 30045991, "src": "Gold", "human": false}
+{"id": 417, "set": "xsum", "i": 36924899, "src": "TranS2S", "human": false}
+{"id": 418, "set": "xsum", "i": 30011712, "src": "PtGen", "human": true}
+{"id": 419, "set": "xsum", "i": 14944413, "src": "PtGen", "human": true}
+{"id": 420, "set": "summeval", "i": 94, "src": 5, "score": 5.0, "human": true}
+{"id": 421, "set": "summeval", "i": 1, "src": 8, "score": 2.0, "human": false}
+{"id": 422, "set": "summeval", "i": 52, "src": 8, "score": 2.0, "human": false}
+{"id": 423, "set": "xsum", "i": 27593801, "src": "BERTS2S", "human": true}
+{"id": 424, "set": "summeval", "i": 21, "src": 15, "score": 5.0, "human": true}
+{"id": 425, "set": "xsum", "i": 32604766, "src": "PtGen", "human": false}
+{"id": 426, "set": "summeval", "i": 47, "src": 8, "score": 1.0, "human": false}
+{"id": 427, "set": "summeval", "i": 10, "src": 14, "score": 2.6666666666666665, "human": false}
+{"id": 428, "set": "xsum", "i": 38433121, "src": "Gold", "human": true}
+{"id": 429, "set": "summeval", "i": 82, "src": 7, "score": 5.0, "human": true}
+{"id": 430, "set": "summeval", "i": 92, "src": 3, "score": 5.0, "human": true}
+{"id": 431, "set": "summeval", "i": 70, "src": 6, "score": 5.0, "human": true}
+{"id": 432, "set": "xsum", "i": 37643139, "src": "PtGen", "human": false}
+{"id": 433, "set": "xsum", "i": 40973665, "src": "TConvS2S", "human": true}
+{"id": 434, "set": "xsum", "i": 35460960, "src": "TConvS2S", "human": false}
+{"id": 435, "set": "xsum", "i": 30620122, "src": "PtGen", "human": false}
+{"id": 436, "set": "summeval", "i": 42, "src": 0, "score": 3.6666666666666665, "human": false}
+{"id": 437, "set": "summeval", "i": 67, "src": 3, "score": 1.3333333333333333, "human": false}
+{"id": 438, "set": "xsum", "i": 34932083, "src": "PtGen", "human": true}
+{"id": 439, "set": "xsum", "i": 37639801, "src": "TConvS2S", "human": true}
+{"id": 440, "set": "xsum", "i": 30011712, "src": "Gold", "human": false}
+{"id": 441, "set": "xsum", "i": 35441528, "src": "Gold", "human": true}
+{"id": 442, "set": "xsum", "i": 36523607, "src": "Gold", "human": true}
+{"id": 443, "set": "summeval", "i": 78, "src": 4, "score": 5.0, "human": true}
+{"id": 444, "set": "summeval", "i": 53, "src": 14, "score": 2.0, "human": false}
+{"id": 445, "set": "xsum", "i": 37934404, "src": "PtGen", "human": false}
+{"id": 446, "set": "xsum", "i": 32684708, "src": "Gold", "human": true}
+{"id": 447, "set": "summeval", "i": 6, "src": 13, "score": 5.0, "human": true}
+{"id": 448, "set": "summeval", "i": 82, "src": 8, "score": 5.0, "human": true}
+{"id": 449, "set": "summeval", "i": 35, "src": 10, "score": 5.0, "human": true}
+{"id": 450, "set": "xsum", "i": 32780434, "src": "TConvS2S", "human": false}
+{"id": 451, "set": "summeval", "i": 40, "src": 7, "score": 5.0, "human": true}
+{"id": 452, "set": "xsum", "i": 35151818, "src": "PtGen", "human": false}
+{"id": 453, "set": "xsum", "i": 40100044, "src": "Gold", "human": true}
+{"id": 454, "set": "summeval", "i": 41, "src": 0, "score": 1.6666666666666667, "human": false}
+{"id": 455, "set": "summeval", "i": 78, "src": 6, "score": 5.0, "human": true}
+{"id": 456, "set": "summeval", "i": 54, "src": 0, "score": 3.6666666666666665, "human": false}
+{"id": 457, "set": "summeval", "i": 80, "src": 10, "score": 5.0, "human": true}
+{"id": 458, "set": "xsum", "i": 38004959, "src": "TConvS2S", "human": false}
+{"id": 459, "set": "xsum", "i": 38234212, "src": "PtGen", "human": true}
+{"id": 460, "set": "xsum", "i": 19411364, "src": "TConvS2S", "human": false}
+{"id": 461, "set": "summeval", "i": 61, "src": 12, "score": 5.0, "human": true}
+{"id": 462, "set": "xsum", "i": 24622070, "src": "BERTS2S", "human": true}
+{"id": 463, "set": "xsum", "i": 36992561, "src": "PtGen", "human": false}
+{"id": 464, "set": "summeval", "i": 23, "src": 6, "score": 5.0, "human": true}
+{"id": 465, "set": "summeval", "i": 42, "src": 1, "score": 5.0, "human": true}
+{"id": 466, "set": "xsum", "i": 30991145, "src": "Gold", "human": true}
+{"id": 467, "set": "xsum", "i": 34248931, "src": "TConvS2S", "human": false}
+{"id": 468, "set": "summeval", "i": 80, "src": 0, "score": 1.0, "human": false}
+{"id": 469, "set": "xsum", "i": 24140346, "src": "TConvS2S", "human": false}
+{"id": 470, "set": "xsum", "i": 35389959, "src": "BERTS2S", "human": false}
+{"id": 471, "set": "summeval", "i": 0, "src": 14, "score": 1.3333333333333333, "human": false}
+{"id": 472, "set": "xsum", "i": 33303666, "src": "Gold", "human": true}
+{"id": 473, "set": "summeval", "i": 17, "src": 1, "score": 5.0, "human": true}
+{"id": 474, "set": "xsum", "i": 33435482, "src": "TConvS2S", "human": false}
+{"id": 475, "set": "xsum", "i": 22399596, "src": "TranS2S", "human": true}
+{"id": 476, "set": "xsum", "i": 37676654, "src": "BERTS2S", "human": true}
+{"id": 477, "set": "summeval", "i": 92, "src": 4, "score": 5.0, "human": true}
+{"id": 478, "set": "xsum", "i": 36513793, "src": "Gold", "human": false}
+{"id": 479, "set": "summeval", "i": 30, "src": 14, "score": 5.0, "human": true}
+{"id": 480, "set": "summeval", "i": 50, "src": 3, "score": 5.0, "human": true}
+{"id": 481, "set": "xsum", "i": 36181635, "src": "BERTS2S", "human": true}
+{"id": 482, "set": "summeval", "i": 71, "src": 0, "score": 3.6666666666666665, "human": false}
+{"id": 483, "set": "summeval", "i": 96, "src": 8, "score": 1.3333333333333333, "human": false}
+{"id": 484, "set": "summeval", "i": 95, "src": 15, "score": 5.0, "human": true}
+{"id": 485, "set": "xsum", "i": 34875703, "src": "BERTS2S", "human": false}
+{"id": 486, "set": "summeval", "i": 84, "src": 13, "score": 3.0, "human": false}
+{"id": 487, "set": "summeval", "i": 77, "src": 4, "score": 5.0, "human": true}
+{"id": 488, "set": "xsum", "i": 37939562, "src": "Gold", "human": true}
+{"id": 489, "set": "xsum", "i": 36070356, "src": "Gold", "human": false}
+{"id": 490, "set": "summeval", "i": 20, "src": 4, "score": 5.0, "human": true}
+{"id": 491, "set": "xsum", "i": 32684708, "src": "BERTS2S", "human": true}
+{"id": 492, "set": "summeval", "i": 75, "src": 10, "score": 5.0, "human": true}
+{"id": 493, "set": "summeval", "i": 67, "src": 13, "score": 5.0, "human": true}
+{"id": 494, "set": "xsum", "i": 32639063, "src": "BERTS2S", "human": false}
+{"id": 495, "set": "xsum", "i": 33435482, "src": "BERTS2S", "human": true}
+{"id": 496, "set": "summeval", "i": 53, "src": 0, "score": 2.0, "human": false}
+{"id": 497, "set": "xsum", "i": 33303666, "src": "TConvS2S", "human": true}
+{"id": 498, "set": "xsum", "i": 38691554, "src": "BERTS2S", "human": true}
+{"id": 499, "set": "xsum", "i": 26917428, "src": "Gold", "human": false}
+{"id": 500, "set": "summeval", "i": 14, "src": 4, "score": 5.0, "human": true}
+{"id": 501, "set": "xsum", "i": 33770226, "src": "PtGen", "human": true}
+{"id": 502, "set": "summeval", "i": 4, "src": 14, "score": 2.6666666666666665, "human": false}
+{"id": 503, "set": "summeval", "i": 62, "src": 15, "score": 5.0, "human": true}
+{"id": 504, "set": "summeval", "i": 12, "src": 14, "score": 2.6666666666666665, "human": false}
+{"id": 505, "set": "xsum", "i": 40064844, "src": "PtGen", "human": true}
+{"id": 506, "set": "xsum", "i": 34636537, "src": "TranS2S", "human": false}
+{"id": 507, "set": "xsum", "i": 32943295, "src": "TConvS2S", "human": false}
+{"id": 508, "set": "xsum", "i": 38072178, "src": "TranS2S", "human": true}
+{"id": 509, "set": "xsum", "i": 32943295, "src": "Gold", "human": true}
+{"id": 510, "set": "xsum", "i": 32285834, "src": "TConvS2S", "human": false}
+{"id": 511, "set": "xsum", "i": 17692709, "src": "TranS2S", "human": false}
+{"id": 512, "set": "xsum", "i": 38213759, "src": "TranS2S", "human": false}
+{"id": 513, "set": "summeval", "i": 1, "src": 14, "score": 2.3333333333333335, "human": false}
+{"id": 514, "set": "xsum", "i": 33775471, "src": "BERTS2S", "human": true}
+{"id": 515, "set": "summeval", "i": 90, "src": 8, "score": 2.0, "human": false}
+{"id": 516, "set": "summeval", "i": 69, "src": 0, "score": 4.0, "human": false}
+{"id": 517, "set": "summeval", "i": 98, "src": 14, "score": 1.6666666666666667, "human": false}
+{"id": 518, "set": "xsum", "i": 38000100, "src": "BERTS2S", "human": true}
+{"id": 519, "set": "xsum", "i": 38895565, "src": "PtGen", "human": false}
+{"id": 520, "set": "summeval", "i": 86, "src": 10, "score": 5.0, "human": true}
+{"id": 521, "set": "summeval", "i": 91, "src": 15, "score": 2.6666666666666665, "human": false}
+{"id": 522, "set": "summeval", "i": 20, "src": 14, "score": 5.0, "human": true}
+{"id": 523, "set": "summeval", "i": 15, "src": 11, "score": 5.0, "human": true}
+{"id": 524, "set": "summeval", "i": 85, "src": 4, "score": 5.0, "human": true}
+{"id": 525, "set": "xsum", "i": 25078479, "src": "TConvS2S", "human": false}
+{"id": 526, "set": "xsum", "i": 40730842, "src": "BERTS2S", "human": false}
+{"id": 527, "set": "summeval", "i": 33, "src": 2, "score": 5.0, "human": true}
+{"id": 528, "set": "summeval", "i": 56, "src": 8, "score": 1.6666666666666667, "human": false}
+{"id": 529, "set": "summeval", "i": 43, "src": 14, "score": 1.0, "human": false}
+{"id": 530, "set": "summeval", "i": 71, "src": 8, "score": 1.6666666666666667, "human": false}
+{"id": 531, "set": "summeval", "i": 72, "src": 0, "score": 2.3333333333333335, "human": false}
+{"id": 532, "set": "summeval", "i": 14, "src": 0, "score": 2.6666666666666665, "human": false}
+{"id": 533, "set": "xsum", "i": 38284840, "src": "Gold", "human": true}
+{"id": 534, "set": "xsum", "i": 25940979, "src": "Gold", "human": false}
+{"id": 535, "set": "xsum", "i": 40713520, "src": "Gold", "human": false}
+{"id": 536, "set": "xsum", "i": 40782974, "src": "Gold", "human": false}
+{"id": 537, "set": "summeval", "i": 62, "src": 14, "score": 1.6666666666666667, "human": false}
+{"id": 538, "set": "summeval", "i": 76, "src": 0, "score": 1.6666666666666667, "human": false}
+{"id": 539, "set": "xsum", "i": 35389959, "src": "Gold", "human": true}
+{"id": 540, "set": "summeval", "i": 7, "src": 11, "score": 5.0, "human": true}
+{"id": 541, "set": "summeval", "i": 10, "src": 8, "score": 2.6666666666666665, "human": false}
+{"id": 542, "set": "xsum", "i": 35526361, "src": "Gold", "human": true}
+{"id": 543, "set": "summeval", "i": 19, "src": 10, "score": 5.0, "human": true}
+{"id": 544, "set": "xsum", "i": 32684708, "src": "TConvS2S", "human": false}
+{"id": 545, "set": "xsum", "i": 35867345, "src": "TConvS2S", "human": false}
+{"id": 546, "set": "xsum", "i": 38429319, "src": "TConvS2S", "human": true}
+{"id": 547, "set": "summeval", "i": 46, "src": 7, "score": 5.0, "human": true}
+{"id": 548, "set": "summeval", "i": 24, "src": 12, "score": 5.0, "human": true}
+{"id": 549, "set": "xsum", "i": 33026574, "src": "Gold", "human": false}
+{"id": 550, "set": "summeval", "i": 30, "src": 1, "score": 5.0, "human": true}
+{"id": 551, "set": "summeval", "i": 9, "src": 8, "score": 2.6666666666666665, "human": false}
+{"id": 552, "set": "summeval", "i": 0, "src": 0, "score": 1.0, "human": false}
+{"id": 553, "set": "summeval", "i": 8, "src": 15, "score": 4.0, "human": false}
+{"id": 554, "set": "summeval", "i": 48, "src": 1, "score": 5.0, "human": true}
+{"id": 555, "set": "xsum", "i": 28260767, "src": "TConvS2S", "human": true}
+{"id": 556, "set": "summeval", "i": 36, "src": 14, "score": 2.6666666666666665, "human": false}
+{"id": 557, "set": "xsum", "i": 36468433, "src": "Gold", "human": true}
+{"id": 558, "set": "xsum", "i": 39363182, "src": "TranS2S", "human": false}
+{"id": 559, "set": "summeval", "i": 66, "src": 11, "score": 5.0, "human": true}
+{"id": 560, "set": "xsum", "i": 40519819, "src": "PtGen", "human": true}
+{"id": 561, "set": "summeval", "i": 85, "src": 5, "score": 5.0, "human": true}
+{"id": 562, "set": "summeval", "i": 45, "src": 5, "score": 5.0, "human": true}
+{"id": 563, "set": "xsum", "i": 18294275, "src": "BERTS2S", "human": false}
+{"id": 564, "set": "summeval", "i": 18, "src": 12, "score": 5.0, "human": true}
+{"id": 565, "set": "summeval", "i": 64, "src": 0, "score": 2.0, "human": false}
+{"id": 566, "set": "xsum", "i": 34060105, "src": "Gold", "human": false}
+{"id": 567, "set": "xsum", "i": 35445872, "src": "BERTS2S", "human": false}
+{"id": 568, "set": "xsum", "i": 36490416, "src": "BERTS2S", "human": false}
+{"id": 569, "set": "xsum", "i": 12502158, "src": "TranS2S", "human": false}
+{"id": 570, "set": "summeval", "i": 55, "src": 13, "score": 1.6666666666666667, "human": false}
+{"id": 571, "set": "xsum", "i": 40519819, "src": "TranS2S", "human": true}
+{"id": 572, "set": "xsum", "i": 36992561, "src": "Gold", "human": true}
+{"id": 573, "set": "xsum", "i": 37068311, "src": "TranS2S", "human": true}
+{"id": 574, "set": "summeval", "i": 66, "src": 8, "score": 5.0, "human": true}
+{"id": 575, "set": "xsum", "i": 35139462, "src": "TranS2S", "human": false}
+{"id": 576, "set": "xsum", "i": 38730833, "src": "TranS2S", "human": false}
+{"id": 577, "set": "xsum", "i": 38000100, "src": "TranS2S", "human": true}
+{"id": 578, "set": "summeval", "i": 46, "src": 2, "score": 5.0, "human": true}
+{"id": 579, "set": "summeval", "i": 35, "src": 1, "score": 5.0, "human": true}
+{"id": 580, "set": "xsum", "i": 39653192, "src": "BERTS2S", "human": true}
+{"id": 581, "set": "summeval", "i": 1, "src": 13, "score": 4.0, "human": false}
+{"id": 582, "set": "xsum", "i": 36147508, "src": "TranS2S", "human": false}
+{"id": 583, "set": "summeval", "i": 67, "src": 15, "score": 1.6666666666666667, "human": false}
+{"id": 584, "set": "summeval", "i": 82, "src": 15, "score": 5.0, "human": true}
+{"id": 585, "set": "summeval", "i": 3, "src": 11, "score": 5.0, "human": true}
+{"id": 586, "set": "summeval", "i": 29, "src": 15, "score": 1.6666666666666667, "human": false}
+{"id": 587, "set": "summeval", "i": 94, "src": 13, "score": 5.0, "human": true}
+{"id": 588, "set": "xsum", "i": 37303942, "src": "PtGen", "human": false}
+{"id": 589, "set": "summeval", "i": 54, "src": 8, "score": 2.3333333333333335, "human": false}
+{"id": 590, "set": "xsum", "i": 34045697, "src": "BERTS2S", "human": true}
+{"id": 591, "set": "xsum", "i": 32289288, "src": "Gold", "human": false}
+{"id": 592, "set": "xsum", "i": 40033716, "src": "Gold", "human": true}
+{"id": 593, "set": "xsum", "i": 13699161, "src": "TranS2S", "human": true}
+{"id": 594, "set": "xsum", "i": 34141727, "src": "Gold", "human": false}
+{"id": 595, "set": "xsum", "i": 36537817, "src": "Gold", "human": false}
+{"id": 596, "set": "summeval", "i": 5, "src": 1, "score": 3.0, "human": false}
+{"id": 597, "set": "summeval", "i": 16, "src": 4, "score": 5.0, "human": true}
+{"id": 598, "set": "xsum", "i": 16779938, "src": "Gold", "human": true}
+{"id": 599, "set": "xsum", "i": 36615816, "src": "Gold", "human": true}

@@ -1,0 +1,8 @@
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 3097.71it/s]
+gemma_pl_pad_short_n200_k0_s32.jsonl: 117s, k=0 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2289.84it/s]
+gemma_pl_pad_short_n200_k16_s32.jsonl: 127s, k=16 of 128
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 3698.25it/s]
+qwen36_pl_pad_short_n200_k0_s32.jsonl: 92s, k=0 of 256
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 2241.82it/s]
+qwen36_pl_pad_short_n200_k32_s32.jsonl: 101s, k=32 of 256

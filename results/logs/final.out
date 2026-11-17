@@ -1,0 +1,38 @@
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2855.40it/s]
+gemma_d600_short_n300_k0_s32.jsonl: 1125s, k=0 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 4359.08it/s]
+gemma_d600_ends64_short_n300_k24_s32.jsonl: 1190s, k=24 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 519.64it/s]
+sum_cnn_gemma_d600_k48.jsonl
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 3837.42it/s]
+sum_xsum_gemma_d0_k0.jsonl
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 4282.52it/s]
+sum_xsum_gemma_d0_k24.jsonl
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 3721.65it/s]
+sum_xsum_gemma_d0_k48.jsonl
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 4387.81it/s]
+nemotron_d600_short_n300_k0_s32.jsonl: 1018s, k=0 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2906.86it/s]
+nemotron_d600_ends64_short_n300_k16_s32.jsonl: 1153s, k=16 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2904.24it/s]
+sum_cnn_nemotron_d600_k48.jsonl
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 4393.78it/s]
+sum_xsum_nemotron_d0_k0.jsonl
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 3850.46it/s]
+sum_xsum_nemotron_d0_k16.jsonl
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 3068.48it/s]
+sum_xsum_nemotron_d0_k48.jsonl
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 5602.86it/s]
+qwen36_d600_short_n300_k0_s32.jsonl: 1282s, k=0 of 256
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 5195.26it/s]
+qwen36_d600_ends64_short_n300_k24_s32.jsonl: 1270s, k=24 of 256
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 2917.71it/s]
+sum_cnn_qwen36_d600_k128.jsonl
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 3138.67it/s]
+sum_xsum_qwen36_d0_k0.jsonl
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 3983.95it/s]
+sum_xsum_qwen36_d0_k24.jsonl
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 3691.95it/s]
+sum_xsum_qwen36_d0_k128.jsonl
+2700 answers 54 batches
+1800 answers 36 batches

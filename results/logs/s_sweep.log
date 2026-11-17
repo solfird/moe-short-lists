@@ -1,0 +1,5 @@
+== start 08:36:41
+gemma_gsm8k_k16_s64: 70/200 correct
+gemma_gsm8k_k16_s128: 34/200 correct
+gemma_gsm8k_k16_s0: 7/200 correct
+== done 09:23:58

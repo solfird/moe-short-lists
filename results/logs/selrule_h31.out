@@ -1,0 +1,24 @@
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2624.72it/s]
+gemma_ends64_short_n300_k12_s32.jsonl: 1215s, k=12 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 3030.35it/s]
+nemotron_ends64_short_n300_k12_s32.jsonl: 1021s, k=12 of 128
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 3059.90it/s]
+qwen36_ends64_short_n300_k24_s32.jsonl: 1099s, k=24 of 256
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2615.07it/s]
+gemma_ends64_short_n300_k24_s32.jsonl: 1099s, k=24 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2709.32it/s]
+nemotron_ends64_short_n300_k24_s32.jsonl: 937s, k=24 of 128
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 4647.26it/s]
+qwen36_ends64_short_n300_k48_s32.jsonl: 1104s, k=48 of 256
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2599.35it/s]
+gemma_ends64_short_n300_k8_s32.jsonl: 1187s, k=8 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2523.34it/s]
+nemotron_ends64_short_n300_k8_s32.jsonl: 1033s, k=8 of 128
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 3929.70it/s]
+qwen36_ends64_short_n300_k16_s32.jsonl: 1065s, k=16 of 256
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2442.10it/s]
+gemma_ends64_short_n300_k32_s32.jsonl: 1063s, k=32 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2630.81it/s]
+nemotron_ends64_short_n300_k32_s32.jsonl: 920s, k=32 of 128
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 3269.99it/s]
+qwen36_ends64_short_n300_k64_s32.jsonl: 1160s, k=64 of 256

@@ -1,0 +1,17 @@
+{
+ "model": "mlx-community/gemma-4-26b-a4b-it-4bit",
+ "snapshot": "0d77464eeb233a2da68ebf9d7dc4edaac7db956d",
+ "mlx": "0.32.4",
+ "mlx_lm": "0.32.2",
+ "python": "3.13.15",
+ "git_commit": "0d6be4083eea9ea6eb9c52ed05f0431bb9591d6f",
+ "git_dirty": false,
+ "start": "2026-11-03T05:15:39+01:00",
+ "tag": "gemma_d300_exposure13",
+ "router": null,
+ "delta": null,
+ "frac": 0.125,
+ "k": 16,
+ "s": 32,
+ "n": 300
+}

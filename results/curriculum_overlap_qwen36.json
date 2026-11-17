@@ -1,0 +1,38 @@
+[
+ {
+  "layer": 0,
+  "same_token": 0.004104584315314241,
+  "shared_energy": 0.0349782992125256,
+  "other_token_floor": 0.0034233133774250746
+ },
+ {
+  "layer": 6,
+  "same_token": 0.0015113018869286066,
+  "shared_energy": 0.03278909852815559,
+  "other_token_floor": 0.001567173982039094
+ },
+ {
+  "layer": 13,
+  "same_token": 0.0021589079591350924,
+  "shared_energy": 0.033447879875893705,
+  "other_token_floor": 0.0006618490442633629
+ },
+ {
+  "layer": 20,
+  "same_token": 0.007318532523640897,
+  "shared_energy": 0.037909552731434815,
+  "other_token_floor": 0.0016209400491788983
+ },
+ {
+  "layer": 26,
+  "same_token": 0.0020921258532964337,
+  "shared_energy": 0.03339017545658862,
+  "other_token_floor": 0.000990060856565833
+ },
+ {
+  "layer": 33,
+  "same_token": 0.0038415201878905236,
+  "shared_energy": 0.034686236147535965,
+  "other_token_floor": 0.0032038488425314426
+ }
+]

@@ -1,0 +1,24 @@
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2947.30it/s]
+gemma_pl_sel_short_n200_k16_s32.jsonl: 134s, k=16 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 4288.22it/s]
+gemma_pl_rep_short_n200_k0_s32.jsonl: 170s, k=0 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 1820.44it/s]
+gemma_pl_rep_short_n200_k16_s32.jsonl: 140s, k=16 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2509.31it/s]
+gemma_pl_aft_short_n200_k0_s32.jsonl: 116s, k=0 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 3547.28it/s]
+gemma_pl_aft_short_n200_k16_s32.jsonl: 140s, k=16 of 128
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 1660.76it/s]
+qwen36_pl_sel_short_n200_k32_s32.jsonl: 94s, k=32 of 256
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 4860.89it/s]
+qwen36_pl_rep_short_n200_k0_s32.jsonl: 115s, k=0 of 256
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 1791.06it/s]
+qwen36_pl_rep_short_n200_k32_s32.jsonl: 123s, k=32 of 256
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 1635.59it/s]
+qwen36_pl_aft_short_n200_k0_s32.jsonl: 99s, k=0 of 256
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 2401.59it/s]
+qwen36_pl_aft_short_n200_k32_s32.jsonl: 105s, k=32 of 256
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2177.84it/s]
+gemma_tail64_short_n300_k16_s32.jsonl: 1309s, k=16 of 128
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 3274.41it/s]
+qwen36_tail64_short_n300_k32_s32.jsonl: 1205s, k=32 of 256

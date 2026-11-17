@@ -1,0 +1,16 @@
+{
+ "model": "mlx-community/Qwen3-30B-A3B-Instruct-2507-4bit",
+ "snapshot": "e9675aa3ca5f900ccef55267914466d55ab325fa",
+ "mlx": "0.32.4",
+ "mlx_lm": "0.32.2",
+ "python": "3.13.15",
+ "git_commit": "8d8954967d17a4ae93a53719194595389bd04efc",
+ "git_dirty": false,
+ "start": "2026-10-27T20:18:53+01:00",
+ "tag": null,
+ "router": null,
+ "frac": 0.375,
+ "k": 48,
+ "s": 32,
+ "n": 300
+}

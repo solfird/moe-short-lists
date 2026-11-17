@@ -1,0 +1,100 @@
+{"i": 0, "ok": false, "gold": "404", "out": "182\n188\n192\n225\n273\n270\n270\nThe answer is 270", "n_gen": 35}
+{"i": 1, "ok": false, "gold": "418", "out": "93\n58\n36\n22\n72\n13\n59\n65", "n_gen": 23}
+{"i": 2, "ok": false, "gold": "454", "out": "114\n114\n114\n114\n114\n114\n114\n114\nThe answer is 458.", "n_gen": 40}
+{"i": 3, "ok": false, "gold": "329", "out": "50\n13\n12\n13\n93\n79\n11\n58\nThe answer is 113", "n_gen": 31}
+{"i": 4, "ok": false, "gold": "465", "out": "97\n37\n64\n13\n77\n38\n66\n73", "n_gen": 23}
+{"i": 5, "ok": false, "gold": "461", "out": "80\n39\n54\n39\n96\n38\n68\n47\nThe answer is 47", "n_gen": 30}
+{"i": 6, "ok": false, "gold": "440", "out": "12\n63\n81\n92\n22\n33\n90\n47", "n_gen": 23}
+{"i": 7, "ok": false, "gold": "466", "out": "1. 25\n2. 52\n3. 74\n4. 64\n7. 74\n8. 95\n9. 34\n10. 48\nThe answer is 465", "n_gen": 56}
+{"i": 8, "ok": false, "gold": "508", "out": "46\n85\n73\n74\n60\n85\n14\n71\nThe answer is 443.", "n_gen": 32}
+{"i": 9, "ok": false, "gold": "527", "out": "41\n61\n63\n95\n32\n56\n80\n99", "n_gen": 23}
+{"i": 10, "ok": false, "gold": "462", "out": "96\n57\n21\n66\n94\n75\n23\n30\nThe answer is 197", "n_gen": 31}
+{"i": 11, "ok": false, "gold": "412", "out": "76\n60\n57\n72\n13\n70\n15\n49\nThe answer is 133", "n_gen": 31}
+{"i": 12, "ok": false, "gold": "545", "out": "188\n194\n204\n260\n322\n331\n374\nThe answer is 374.", "n_gen": 36}
+{"i": 13, "ok": false, "gold": "419", "out": "39  \n11  \n35  \n79  \n80  \n39  \n61  \n75  \nThe answer is 111", "n_gen": 31}
+{"i": 14, "ok": false, "gold": "565", "out": "54\n83\n55\n68\n44\n94\n80\n87", "n_gen": 23}
+{"i": 15, "ok": false, "gold": "427", "out": "10\n59\n75\n26\n76\n81\n36\n64", "n_gen": 23}
+{"i": 16, "ok": false, "gold": "477", "out": "17\n71\n56\n82\n80\n35\n74\n62", "n_gen": 23}
+{"i": 17, "ok": false, "gold": "500", "out": "72\n55\n63\n54\n10\n78\n79\n89", "n_gen": 23}
+{"i": 18, "ok": false, "gold": "469", "out": "88\n52\n68\n86\n13\n39\n91\n32", "n_gen": 23}
+{"i": 19, "ok": false, "gold": "450", "out": "The answer is 80", "n_gen": 6}
+{"i": 20, "ok": false, "gold": "259", "out": "19\n20\n12\n67\n11\n45\n41\n44\nThe answer is 19", "n_gen": 30}
+{"i": 21, "ok": false, "gold": "326", "out": "129\n133\n135\n147\n148\n149\n140\nThe answer is 140", "n_gen": 35}
+{"i": 22, "ok": false, "gold": "495", "out": "42\n77\n31\n94\n44\n92\n47\n68\nThe answer is 77", "n_gen": 30}
+{"i": 23, "ok": false, "gold": "438", "out": "99\n51\n73\n70\n24\n13\n49\n59", "n_gen": 23}
+{"i": 24, "ok": false, "gold": "369", "out": "The answer is 43", "n_gen": 6}
+{"i": 25, "ok": false, "gold": "316", "out": "87\n65\n12\n38\n12\n60\n28\n14\nThe answer is 50", "n_gen": 30}
+{"i": 26, "ok": false, "gold": "538", "out": "30\n67\n74\n96\n64\n79\n38\n90\n\nThe answer is 77.", "n_gen": 31}
+{"i": 27, "ok": false, "gold": "522", "out": "98\n76\n67\n38\n77\n93\n13\n60", "n_gen": 23}
+{"i": 28, "ok": false, "gold": "543", "out": "96\n83\n51\n94\n90\n64\n17\n48\nThe answer is 103", "n_gen": 31}
+{"i": 29, "ok": false, "gold": "263", "out": "26\n37\n16\n49\n19\n19\n49\n48\nThe answer is 137", "n_gen": 31}
+{"i": 30, "ok": false, "gold": "349", "out": "30\n63\n82\n42\n26\n11\n81\n14\nThe answer is 142", "n_gen": 31}
+{"i": 31, "ok": false, "gold": "481", "out": "85\n37\n82\n68\n31\n89\n75\n14\nThe answer is 37.", "n_gen": 31}
+{"i": 32, "ok": false, "gold": "449", "out": "158\n246\n242\n272\n336\n383\n465\n565\nThe answer is 565", "n_gen": 39}
+{"i": 33, "ok": false, "gold": "490", "out": "85\n34\n73\n23\n95\n59\n47\n74\nThe answer is 433", "n_gen": 31}
+{"i": 34, "ok": false, "gold": "373", "out": "73\n12\n51\n88\n61\n46\n12\n30\nThe answer is 152", "n_gen": 31}
+{"i": 35, "ok": false, "gold": "393", "out": "35\n51\n82\n27\n53\n64\n37\n44", "n_gen": 23}
+{"i": 36, "ok": false, "gold": "557", "out": "96\n22\n58\n80\n54\n97\n78\n72\nThe answer is 123", "n_gen": 31}
+{"i": 37, "ok": false, "gold": "260", "out": "178\n198\n195\n200\n207\n231\n231\nThe answer is 231", "n_gen": 35}
+{"i": 38, "ok": false, "gold": "470", "out": "78 + 37 = 77\n77 + 44 = 42\n42 + 52 = 22\n22 + 86 = 8\n8 + 74 = 82\n82 + 42 = 24\n24 + 57 = 21\nThe answer is 21", "n_gen": 81}
+{"i": 39, "ok": false, "gold": "403", "out": "The answer is 193", "n_gen": 7}
+{"i": 40, "ok": false, "gold": "392", "out": "84\n80\n23\n51\n15\n62\n19\n58\nThe answer is 19", "n_gen": 30}
+{"i": 41, "ok": false, "gold": "381", "out": "28\n26\n53\n24\n88\n85\n58\n19\nThe answer is 47", "n_gen": 30}
+{"i": 42, "ok": false, "gold": "450", "out": "83\n83\n80\n80\n38\n38\n82\n82\n20\n20\n44\n44\n56\n56\n47\n47\nThe answer is 547", "n_gen": 55}
+{"i": 43, "ok": false, "gold": "382", "out": "82\n78\n24\n68\n45\n23\n15\n47\nThe answer is 173", "n_gen": 31}
+{"i": 44, "ok": false, "gold": "327", "out": "11  \n88  \n95  \n11  \n21  \n62  \n24  \n15  \nThe answer is 118", "n_gen": 31}
+{"i": 45, "ok": false, "gold": "374", "out": "34\n40\n85\n63\n30\n24\n67\n31\nThe answer is 195", "n_gen": 31}
+{"i": 46, "ok": false, "gold": "439", "out": "197\n297\n297\n323\n323\n358\n358\n479\nThe answer is 479", "n_gen": 39}
+{"i": 47, "ok": false, "gold": "444", "out": "80\n42\n71\n50\n22\n36\n93\n50\n\nThe answer is 422", "n_gen": 31}
+{"i": 48, "ok": false, "gold": "349", "out": "15\n13\n11\n47\n86\n50\n67\n60\nThe answer is 167", "n_gen": 31}
+{"i": 49, "ok": false, "gold": "375", "out": "50\n61\n18\n18\n50\n86\n68\n24\nThe answer is 11", "n_gen": 30}
+{"i": 50, "ok": false, "gold": "564", "out": "42\n37\n89\n79\n98\n70\n94\n55\nThe answer is 473", "n_gen": 31}
+{"i": 51, "ok": false, "gold": "372", "out": "43\n33\n79\n36\n49\n35\n41\n56\nThe answer is 333", "n_gen": 31}
+{"i": 52, "ok": false, "gold": "442", "out": "20\n45\n21\n67\n21\n93\n83\n92\nThe answer is 415", "n_gen": 31}
+{"i": 53, "ok": false, "gold": "349", "out": "53\n39\n59\n49\n15\n51\n33\n50", "n_gen": 23}
+{"i": 54, "ok": false, "gold": "498", "out": "84\n48\n41\n52\n22\n79\n88\n84", "n_gen": 23}
+{"i": 55, "ok": false, "gold": "319", "out": "86\n21\n41\n38\n12\n41\n61\n19\nThe answer is 210", "n_gen": 31}
+{"i": 56, "ok": false, "gold": "323", "out": "44\n80\n19\n19\n12\n91\n11\n47\nThe answer is 48", "n_gen": 30}
+{"i": 57, "ok": false, "gold": "393", "out": "55\n73\n70\n29\n22\n74\n51\n19\nThe answer is 112", "n_gen": 31}
+{"i": 58, "ok": false, "gold": "390", "out": "75\n95\n32\n32\n29\n28\n50\n49\nThe answer is 722", "n_gen": 31}
+{"i": 59, "ok": false, "gold": "401", "out": "23\n75\n87\n47\n26\n36\n28\n79\nThe answer is 100", "n_gen": 31}
+{"i": 60, "ok": false, "gold": "495", "out": "14\n50\n89\n96\n80\n98\n36\n32\nThe answer is 50.", "n_gen": 31}
+{"i": 61, "ok": false, "gold": "415", "out": "48\n65\n78\n30\n16\n95\n41\n42\nThe answer is 157", "n_gen": 31}
+{"i": 62, "ok": false, "gold": "514", "out": "18\n97\n67\n65\n80\n42\n79\n66\nThe answer is 1171", "n_gen": 32}
+{"i": 63, "ok": false, "gold": "416", "out": "78\n68\n11\n60\n53\n31\n43\n72", "n_gen": 23}
+{"i": 64, "ok": false, "gold": "433", "out": "13\n92\n63\n83\n12\n17\n98\n55\nThe answer is 423", "n_gen": 31}
+{"i": 65, "ok": false, "gold": "397", "out": "84\n27\n85\n26\n27\n43\n45\n60\nThe answer is 195", "n_gen": 31}
+{"i": 66, "ok": false, "gold": "405", "out": "82  \n61  \n32  \n88  \n21  \n39  \n72  \n10  \nThe answer is 10.", "n_gen": 31}
+{"i": 67, "ok": false, "gold": "580", "out": "32\n77\n50\n74\n93\n66\n97\n91\n\nThe answer is 777", "n_gen": 31}
+{"i": 68, "ok": false, "gold": "469", "out": "The answer is 157", "n_gen": 7}
+{"i": 69, "ok": false, "gold": "506", "out": "53\n81\n88\n93\n45\n92\n38\n16\nThe answer is 100", "n_gen": 31}
+{"i": 70, "ok": false, "gold": "433", "out": "19\n75\n92\n57\n30\n75\n36\n49\nThe answer is 192", "n_gen": 31}
+{"i": 71, "ok": false, "gold": "560", "out": "48\n98\n48\n80\n57\n31\n99\n99\n\nThe answer is 478.", "n_gen": 32}
+{"i": 72, "ok": false, "gold": "503", "out": "69\n86\n20\n25\n87\n75\n83\n58\nThe answer is 100", "n_gen": 31}
+{"i": 73, "ok": false, "gold": "375", "out": "32\n29\n42\n64\n37\n82\n16\n73", "n_gen": 23}
+{"i": 74, "ok": false, "gold": "546", "out": "97\n60\n91\n54\n59\n75\n31\n79", "n_gen": 23}
+{"i": 75, "ok": false, "gold": "331", "out": "15\n77\n21\n42\n90\n22\n44\n20\nThe answer is 42", "n_gen": 30}
+{"i": 76, "ok": false, "gold": "531", "out": "27\n88\n94\n97\n99\n20\n66\n40", "n_gen": 23}
+{"i": 77, "ok": false, "gold": "446", "out": "58\n65\n60\n31\n51\n66\n26\n89\n\nThe answer is 177", "n_gen": 31}
+{"i": 78, "ok": false, "gold": "450", "out": "72\n37\n25\n65\n86\n78\n62\n25", "n_gen": 23}
+{"i": 79, "ok": false, "gold": "410", "out": "94\n47\n45\n41\n58\n81\n10\n34\nThe answer is 170", "n_gen": 31}
+{"i": 80, "ok": false, "gold": "470", "out": "77\n66\n84\n12\n13\n90\n87\n41\nThe answer is 112", "n_gen": 31}
+{"i": 81, "ok": false, "gold": "343", "out": "43\n36\n32\n46\n28\n79\n35\n44", "n_gen": 23}
+{"i": 82, "ok": false, "gold": "504", "out": "49\n84\n42\n97\n67\n31\n79\n55\nThe answer is 421", "n_gen": 31}
+{"i": 83, "ok": false, "gold": "420", "out": "72\n63\n25\n36\n83\n59\n36\n46", "n_gen": 23}
+{"i": 84, "ok": false, "gold": "376", "out": "13\n15\n25\n82\n11\n79\n47\n96", "n_gen": 23}
+{"i": 85, "ok": false, "gold": "467", "out": "93\n27\n19\n74\n57\n83\n49\n65\nThe answer is 53", "n_gen": 30}
+{"i": 86, "ok": false, "gold": "454", "out": "74\n96\n55\n77\n51\n10\n25\n66", "n_gen": 23}
+{"i": 87, "ok": false, "gold": "543", "out": "67\n54\n49\n79\n61\n53\n97\n83", "n_gen": 23}
+{"i": 88, "ok": false, "gold": "432", "out": "73\n24\n92\n58\n58\n36\n81\n10\nThe answer is 172", "n_gen": 31}
+{"i": 89, "ok": false, "gold": "563", "out": "45\n91\n86\n75\n35\n69\n86\n76\nThe answer is 1155", "n_gen": 32}
+{"i": 90, "ok": false, "gold": "569", "out": "199\n299\n301\n371\n377\n495\n497\n777\nThe answer is 777.", "n_gen": 40}
+{"i": 91, "ok": false, "gold": "481", "out": "35\n56\n77\n10\n96\n59\n84\n64\n\nThe answer is 472", "n_gen": 31}
+{"i": 92, "ok": false, "gold": "518", "out": "189\n189\n189\n189\n189\n189\n189\n189\nThe answer is 522", "n_gen": 39}
+{"i": 93, "ok": false, "gold": "514", "out": "91\n93\n47\n90\n12\n62\n90\n29\nThe answer is 90", "n_gen": 30}
+{"i": 94, "ok": false, "gold": "398", "out": "91 + 60 = 110  \n110 + 44 = 114  \n114 + 32 = 146  \n146 + 19 = 165  \n165 + 87 = 252  \n252 + 11 = 263  \n263 + 54 = 317  \nThe answer is 317.", "n_gen": 98}
+{"i": 95, "ok": false, "gold": "470", "out": "43\n62\n97\n79\n48\n29\n69\n43", "n_gen": 23}
+{"i": 96, "ok": false, "gold": "403", "out": "72\n31\n69\n75\n15\n44\n75\n22\nThe answer is 153", "n_gen": 31}
+{"i": 97, "ok": false, "gold": "412", "out": "85\n64\n18\n55\n18\n94\n66\n12\nThe answer is 12", "n_gen": 30}
+{"i": 98, "ok": false, "gold": "504", "out": "31\n74\n30\n98\n21\n61\n91\n98", "n_gen": 23}
+{"i": 99, "ok": false, "gold": "421", "out": "45\n87\n48\n36\n77\n36\n40\n52\nThe answer is 173", "n_gen": 31}

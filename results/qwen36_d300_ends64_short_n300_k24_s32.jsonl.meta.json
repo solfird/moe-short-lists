@@ -1,0 +1,17 @@
+{
+ "model": "mlx-community/Qwen3.6-35B-A3B-4bit",
+ "snapshot": "38740b847e4cb78f352aba30aa41c76e08e6eb46",
+ "mlx": "0.32.4",
+ "mlx_lm": "0.32.2",
+ "python": "3.13.15",
+ "git_commit": "577e7daf75bdc9b6907d9256baff1b493317135e",
+ "git_dirty": false,
+ "start": "2026-11-01T08:44:21+01:00",
+ "tag": "qwen36_d300_ends64",
+ "router": null,
+ "delta": null,
+ "frac": 0.09375,
+ "k": 24,
+ "s": 32,
+ "n": 300
+}

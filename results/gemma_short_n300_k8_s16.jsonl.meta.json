@@ -1,0 +1,16 @@
+{
+ "model": "mlx-community/gemma-4-26b-a4b-it-4bit",
+ "snapshot": "0d77464eeb233a2da68ebf9d7dc4edaac7db956d",
+ "mlx": "0.32.4",
+ "mlx_lm": "0.32.2",
+ "python": "3.13.15",
+ "git_commit": "8d8954967d17a4ae93a53719194595389bd04efc",
+ "git_dirty": false,
+ "start": "2026-10-27T20:57:06+01:00",
+ "tag": null,
+ "router": null,
+ "frac": 0.0625,
+ "k": 8,
+ "s": 16,
+ "n": 300
+}

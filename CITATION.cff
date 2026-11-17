@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this report, its data or its scripts, please cite the report as below."
+title: "Classification and Short QA Survive, Summaries and Math Break: Running a Frozen Mixture-of-Experts Model on a Short List of Experts"
+type: software
+authors:
+  - family-names: Simon
+    given-names: Julien
+    affiliation: Solfird AI
+    email: julien@solfird.ai
+    orcid: "https://orcid.org/0009-0006-6966-4923"
+version: "1.0"
+license: CC-BY-4.0
+repository-code: "https://github.com/solfird/moe-short-lists"
+doi: "10.5281/zenodo.24325064"
+keywords:
+  - mixture of experts
+  - expert routing
+  - frozen models
+  - inference
+  - summarization
+  - model-based evaluation
+  - Gemma 4
+  - Nemotron
+  - Qwen3.6
+preferred-citation:
+  type: report
+  title: "Classification and Short QA Survive, Summaries and Math Break: Running a Frozen Mixture-of-Experts Model on a Short List of Experts"
+  authors:
+    - family-names: Simon
+      given-names: Julien
+      affiliation: Solfird AI
+  institution:
+    name: Solfird AI
+  number: "Solfird AI Technical Report 2026-02"
+  doi: "10.5281/zenodo.24325064"
+  year: 2026
+  month: 11

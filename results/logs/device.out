@@ -1,0 +1,20 @@
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 3259.48it/s]
+full 0 active MB 13545 peak MB 14624 tok/s 51.7
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 4533.40it/s]
+masked 24 active MB 13545 peak MB 14243 tok/s 48.2
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2589.40it/s]
+compact 24 active MB 1294 peak MB 4290 tok/s 38.9
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 3304.94it/s]
+masked 48 active MB 13545 peak MB 14243 tok/s 50.7
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 4304.50it/s]
+compact 48 active MB 1294 peak MB 6604 tok/s 35.3
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2256.94it/s]
+full 0 active MB 13545 peak MB 14624 tok/s 50.7
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 4173.44it/s]
+masked 24 active MB 13545 peak MB 14243 tok/s 50.0
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2712.30it/s]
+compact 24 active MB 1294 peak MB 4290 tok/s 40.9
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2007.61it/s]
+masked 48 active MB 13545 peak MB 14243 tok/s 39.1
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 3621.71it/s]
+compact 48 active MB 1294 peak MB 6588 tok/s 28.2

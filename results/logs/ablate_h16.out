@@ -1,0 +1,38 @@
+.                                                                        [100%]
+1 passed, 11 deselected in 4.77s
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2731.38it/s]
+layers scaled: 30
+gemma_a0.75_short_n300_k0_s32.jsonl: 1061s, k=0 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 3325.38it/s]
+layers scaled: 30
+gemma_a0.50_short_n300_k0_s32.jsonl: 1429s, k=0 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2379.34it/s]
+layers scaled: 30
+gemma_a0.25_short_n300_k0_s32.jsonl: 1395s, k=0 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2508.11it/s]
+layers scaled: 30
+gemma_a0.00_short_n300_k0_s32.jsonl: 1377s, k=0 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 1730.04it/s]
+layers scaled: 30
+gemma_a0.75_short_n300_k32_s64.jsonl: 1193s, k=32 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2478.90it/s]
+layers scaled: 30
+gemma_a0.50_short_n300_k32_s64.jsonl: 1373s, k=32 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2343.06it/s]
+layers scaled: 30
+gemma_a0.25_short_n300_k32_s64.jsonl: 1402s, k=32 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2599.99it/s]
+layers scaled: 30
+gemma_a0.00_short_n300_k32_s64.jsonl: 1484s, k=32 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 1431.60it/s]
+layers scaled: 30
+gemma_a0.75_short_n300_k16_s64.jsonl: 1453s, k=16 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2242.70it/s]
+layers scaled: 30
+gemma_a0.50_short_n300_k16_s64.jsonl: 1496s, k=16 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2909.48it/s]
+layers scaled: 30
+gemma_a0.25_short_n300_k16_s64.jsonl: 1551s, k=16 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2736.90it/s]
+layers scaled: 30
+gemma_a0.00_short_n300_k16_s64.jsonl: 1533s, k=16 of 128

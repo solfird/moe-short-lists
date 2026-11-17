@@ -1,0 +1,17 @@
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2565.32it/s]
+gemma_gsm8k_k16_s32: 75/200 correct
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 3579.06it/s]
+gemma_gsm8k_k32_s32: 133/200 correct
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 3880.38it/s]
+gemma_gsm8k_k64_s32: 176/200 correct
+Fetching 14 files:   0%|          | 0/14 [00:00<?, ?it/s]Fetching 14 files: 100%|██████████| 14/14 [00:00<00:00, 2963.57it/s]
+200/200 general_qa prompt=17 gen=384 655s
+Fetching 14 files:   0%|          | 0/14 [00:00<?, ?it/s]Fetching 14 files: 100%|██████████| 14/14 [00:00<00:00, 4648.53it/s]
+qwen_gsm8k_k0_s32: 180/200 correct
+Fetching 14 files:   0%|          | 0/14 [00:00<?, ?it/s]Fetching 14 files: 100%|██████████| 14/14 [00:00<00:00, 4913.83it/s]
+qwen_gsm8k_k16_s32: 8/200 correct
+Fetching 14 files:   0%|          | 0/14 [00:00<?, ?it/s]Fetching 14 files: 100%|██████████| 14/14 [00:00<00:00, 4510.35it/s]
+qwen_gsm8k_k32_s32: 76/200 correct
+Fetching 14 files:   0%|          | 0/14 [00:00<?, ?it/s]Fetching 14 files: 100%|██████████| 14/14 [00:00<00:00, 2712.50it/s]
+qwen_gsm8k_k64_s32: 121/200 correct
+done

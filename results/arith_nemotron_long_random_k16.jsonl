@@ -1,0 +1,100 @@
+{"i": 0, "ok": false, "gold": "1276", "out": "The answer is N.", "n_gen": 5}
+{"i": 1, "ok": false, "gold": "1255", "out": "The answer is N.", "n_gen": 5}
+{"i": 2, "ok": false, "gold": "1414", "out": "The answer is N.", "n_gen": 5}
+{"i": 3, "ok": false, "gold": "1401", "out": "The answer is N.", "n_gen": 5}
+{"i": 4, "ok": false, "gold": "1529", "out": "The answer is N.", "n_gen": 5}
+{"i": 5, "ok": false, "gold": "1404", "out": "The answer is N.", "n_gen": 5}
+{"i": 6, "ok": false, "gold": "1178", "out": "The answer is 1.", "n_gen": 6}
+{"i": 7, "ok": false, "gold": "1259", "out": "24, 89, 33, 54, 47, 18, 31, 30, 42, 77, 31, 94, 44, 92, 47, 68, 99, 51, 73, 70, 24, 13, 49, 59", "n_gen": 94}
+{"i": 8, "ok": false, "gold": "1223", "out": "The answer is N.", "n_gen": 5}
+{"i": 9, "ok": false, "gold": "1328", "out": "N", "n_gen": 1}
+{"i": 10, "ok": false, "gold": "1279", "out": "The answer is N.", "n_gen": 5}
+{"i": 11, "ok": false, "gold": "1256", "out": "The answer is N.", "n_gen": 5}
+{"i": 12, "ok": false, "gold": "1287", "out": "The answer is N.", "n_gen": 5}
+{"i": 13, "ok": false, "gold": "1176", "out": "The answer is N.", "n_gen": 5}
+{"i": 14, "ok": false, "gold": "1159", "out": "Here is the answer: N.", "n_gen": 7}
+{"i": 15, "ok": false, "gold": "1257", "out": "34 40 85 63 30 24 67 31 97 40 30 23 65 58 79 47 80 42 71 50 22 36 93 50", "n_gen": 71}
+{"i": 16, "ok": false, "gold": "1288", "out": "The answer is N.", "n_gen": 5}
+{"i": 17, "ok": false, "gold": "1163", "out": "The answer is N. 43, 33, 79, 36, 49, 35, 41, 56, 20, 45, 21, 67, 21, 93, 83, 92, 53, 39, 59, 49, 15, 51, 33, 50", "n_gen": 100}
+{"i": 18, "ok": false, "gold": "1140", "out": "19, 19, 12, 91, 11, 47", "n_gen": 22}
+{"i": 19, "ok": false, "gold": "1184", "out": "The answer is N.", "n_gen": 5}
+{"i": 20, "ok": false, "gold": "1424", "out": "The answer is N.", "n_gen": 5}
+{"i": 21, "ok": false, "gold": "1246", "out": "The answer is N.", "n_gen": 5}
+{"i": 22, "ok": false, "gold": "1454", "out": "The answer is N.", "n_gen": 5}
+{"i": 23, "ok": false, "gold": "1499", "out": "Here is the output:\n\n53, 81, 88, 93, 45, 92, 38, 16, 19, 75, 92, 57, 30, 75, 36, 49, 48, 98, 48, 80, 57, 31, 99, 99\nThe answer is N.", "n_gen": 105}
+{"i": 24, "ok": false, "gold": "1424", "out": "The answer is N.", "n_gen": 5}
+{"i": 25, "ok": false, "gold": "1308", "out": "The answer is 15.", "n_gen": 7}
+{"i": 26, "ok": false, "gold": "1330", "out": "The answer is N.", "n_gen": 5}
+{"i": 27, "ok": false, "gold": "1267", "out": "The answer is N.", "n_gen": 5}
+{"i": 28, "ok": false, "gold": "1297", "out": "N = 10", "n_gen": 5}
+{"i": 29, "ok": false, "gold": "1538", "out": "67 + 54 + 49 + 79 + 61 + 53 + 97 + 83 + 73 + 24 + 92 + 58 + 58 + 36 + 81 + 10 + 45 + 91 + 86 + 75 + 35 + 69 + 86 + 76 = 10", "n_gen": 98}
+{"i": 30, "ok": false, "gold": "1568", "out": "62, 49, 99, 31, 67, 89, 95, 77, 35, 56, 77, 10, 96, 59, 84, 64, 61, 53, 89, 84, 99, 18, 73, 41. Write one running total per line. End with a line 'The answer is N.'", "n_gen": 112}
+{"i": 31, "ok": false, "gold": "1382", "out": "The answer is 10.", "n_gen": 7}
+{"i": 32, "ok": false, "gold": "1319", "out": "The answer is N.", "n_gen": 5}
+{"i": 33, "ok": false, "gold": "1366", "out": "The answer is N.", "n_gen": 5}
+{"i": 34, "ok": false, "gold": "1371", "out": "The answer is 65.", "n_gen": 7}
+{"i": 35, "ok": false, "gold": "1257", "out": "The answer is N.", "n_gen": 5}
+{"i": 36, "ok": false, "gold": "1286", "out": "The answer is N.", "n_gen": 5}
+{"i": 37, "ok": false, "gold": "1256", "out": "The answer is N.", "n_gen": 5}
+{"i": 38, "ok": false, "gold": "1097", "out": "The answer is 13.", "n_gen": 7}
+{"i": 39, "ok": false, "gold": "1063", "out": "The answer is N.", "n_gen": 5}
+{"i": 40, "ok": false, "gold": "1557", "out": "The answer is N.", "n_gen": 5}
+{"i": 41, "ok": false, "gold": "1190", "out": "The answer is N.", "n_gen": 5}
+{"i": 42, "ok": false, "gold": "1056", "out": "The answer is N.", "n_gen": 5}
+{"i": 43, "ok": false, "gold": "1310", "out": "The answer is N.", "n_gen": 5}
+{"i": 44, "ok": false, "gold": "1362", "out": "The answer is N.", "n_gen": 5}
+{"i": 45, "ok": false, "gold": "1271", "out": "The answer is N.", "n_gen": 5}
+{"i": 46, "ok": false, "gold": "1420", "out": "The answer is N.", "n_gen": 5}
+{"i": 47, "ok": false, "gold": "1255", "out": "13, 28, 42, 97, 38, 82, 27, 24, 33, 62, 89, 16, 22, 79, 97, 44, 23, 36, 43, 18, 90, 83, 77, 92", "n_gen": 94}
+{"i": 48, "ok": false, "gold": "1351", "out": "The answer is N.", "n_gen": 5}
+{"i": 49, "ok": false, "gold": "1354", "out": "The answer is N.", "n_gen": 5}
+{"i": 50, "ok": false, "gold": "1566", "out": "The answer is N.", "n_gen": 5}
+{"i": 51, "ok": false, "gold": "1299", "out": "N", "n_gen": 1}
+{"i": 52, "ok": false, "gold": "1231", "out": "The answer is 12.", "n_gen": 7}
+{"i": 53, "ok": false, "gold": "1119", "out": "N", "n_gen": 1}
+{"i": 54, "ok": false, "gold": "1375", "out": "The answer is N.", "n_gen": 5}
+{"i": 55, "ok": false, "gold": "1443", "out": "The answer is 99.", "n_gen": 7}
+{"i": 56, "ok": false, "gold": "1391", "out": "The answer is N.", "n_gen": 5}
+{"i": 57, "ok": false, "gold": "1285", "out": "The answer is N.", "n_gen": 5}
+{"i": 58, "ok": false, "gold": "1505", "out": "The answer is N.", "n_gen": 5}
+{"i": 59, "ok": false, "gold": "1326", "out": "The answer is 100.", "n_gen": 8}
+{"i": 60, "ok": false, "gold": "1347", "out": "100", "n_gen": 3}
+{"i": 61, "ok": false, "gold": "956", "out": "The answer is 13.", "n_gen": 7}
+{"i": 62, "ok": false, "gold": "1454", "out": "The answer is N.", "n_gen": 5}
+{"i": 63, "ok": false, "gold": "1315", "out": "The answer is N.", "n_gen": 5}
+{"i": 64, "ok": false, "gold": "1432", "out": "The answer is N.", "n_gen": 5}
+{"i": 65, "ok": false, "gold": "1345", "out": "The answer is N.", "n_gen": 5}
+{"i": 66, "ok": false, "gold": "1355", "out": "100", "n_gen": 3}
+{"i": 67, "ok": false, "gold": "1373", "out": "10, 15, 24, 85, 27, 77, 75, 55, 80, 44, 82, 93, 55, 70, 99, 41, 89, 40, 23, 81, 55, 30, 24", "n_gen": 90}
+{"i": 68, "ok": false, "gold": "1413", "out": "The answer is N.", "n_gen": 5}
+{"i": 69, "ok": false, "gold": "1382", "out": "The answer is N.", "n_gen": 5}
+{"i": 70, "ok": false, "gold": "1345", "out": "The answer is N.", "n_gen": 5}
+{"i": 71, "ok": false, "gold": "1324", "out": "The answer is N.", "n_gen": 5}
+{"i": 72, "ok": false, "gold": "1315", "out": "The answer is N.", "n_gen": 5}
+{"i": 73, "ok": false, "gold": "1310", "out": "The answer is N.", "n_gen": 5}
+{"i": 74, "ok": false, "gold": "1491", "out": "The answer is N.", "n_gen": 5}
+{"i": 75, "ok": false, "gold": "1084", "out": "43 + 82 + 45 + 32 + 89 + 20 + 56 + 53 + 28 + 43 + 42 + 42 + 54 + 59 + 45 + 82 + 69 + 11 + 29 + 26 + 42 + 38 + 35 + 19", "n_gen": 94}
+{"i": 76, "ok": false, "gold": "1384", "out": "The answer is N.", "n_gen": 5}
+{"i": 77, "ok": false, "gold": "1308", "out": "N", "n_gen": 1}
+{"i": 78, "ok": false, "gold": "1188", "out": "The answer is N.", "n_gen": 5}
+{"i": 79, "ok": false, "gold": "1447", "out": "The answer is N.", "n_gen": 5}
+{"i": 80, "ok": false, "gold": "1381", "out": "The answer is N.", "n_gen": 5}
+{"i": 81, "ok": false, "gold": "1238", "out": "The answer is N.", "n_gen": 5}
+{"i": 82, "ok": false, "gold": "1334", "out": "\nThe answer is N. = 15", "n_gen": 10}
+{"i": 83, "ok": false, "gold": "1389", "out": "The answer is N.", "n_gen": 5}
+{"i": 84, "ok": false, "gold": "1299", "out": "13, 83, 84, 24, 14, 83, 77, 11, 22, 52, 53, 57, 80, 14, 91, 57, 84, 19, 72, 91, 20, 79, 67, 52", "n_gen": 94}
+{"i": 85, "ok": false, "gold": "1252", "out": "N", "n_gen": 1}
+{"i": 86, "ok": false, "gold": "1155", "out": "The answer is 83.", "n_gen": 7}
+{"i": 87, "ok": false, "gold": "1270", "out": "The answer is N.", "n_gen": 5}
+{"i": 88, "ok": false, "gold": "1280", "out": "The answer is N.", "n_gen": 5}
+{"i": 89, "ok": false, "gold": "1073", "out": "The answer is N.", "n_gen": 5}
+{"i": 90, "ok": false, "gold": "1530", "out": "The answer is N.", "n_gen": 5}
+{"i": 91, "ok": false, "gold": "1698", "out": "The answer is N.", "n_gen": 5}
+{"i": 92, "ok": false, "gold": "1503", "out": "The answer is N.", "n_gen": 5}
+{"i": 93, "ok": false, "gold": "1082", "out": "The answer is N.", "n_gen": 5}
+{"i": 94, "ok": false, "gold": "1550", "out": "10", "n_gen": 2}
+{"i": 95, "ok": false, "gold": "1295", "out": "The answer is N.", "n_gen": 5}
+{"i": 96, "ok": false, "gold": "1409", "out": "The answer is N.", "n_gen": 5}
+{"i": 97, "ok": false, "gold": "1221", "out": "The answer is N.", "n_gen": 5}
+{"i": 98, "ok": false, "gold": "1082", "out": "The answer is 11.", "n_gen": 7}
+{"i": 99, "ok": false, "gold": "1138", "out": "The answer is N. 33, 36, 60, 17, 40, 81, 99, 67, 14, 52, 51, 62, 25, 12, 82, 33, 74, 91, 21, 33, 37, 38, 32, 48.", "n_gen": 101}

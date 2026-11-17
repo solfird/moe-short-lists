@@ -1,0 +1,300 @@
+{"i": 0, "ok": false, "gold": "126", "out": "63 * 2 = 1", "n_gen": 8}
+{"i": 1, "ok": false, "gold": "147", "out": "75 + 72 = ", "n_gen": 8}
+{"i": 2, "ok": false, "gold": "119", "out": "48 + 71 = ", "n_gen": 8}
+{"i": 3, "ok": false, "gold": "111", "out": "The answer is 74.", "n_gen": 7}
+{"i": 4, "ok": false, "gold": "49", "out": "27 + 22 = ", "n_gen": 8}
+{"i": 5, "ok": false, "gold": "168", "out": "42 * 4 = 4", "n_gen": 8}
+{"i": 6, "ok": false, "gold": "116", "out": "19 + 97 = ", "n_gen": 8}
+{"i": 7, "ok": false, "gold": "103", "out": "81 + 22", "n_gen": 6}
+{"i": 8, "ok": false, "gold": "138", "out": "50 + 88 = ", "n_gen": 8}
+{"i": 9, "ok": false, "gold": "324", "out": "36 * 9", "n_gen": 5}
+{"i": 10, "ok": false, "gold": "119", "out": "76 + 43 = ", "n_gen": 8}
+{"i": 11, "ok": false, "gold": "91", "out": "80 + 11 = ", "n_gen": 8}
+{"i": 12, "ok": false, "gold": "156", "out": "61 + 95 = ", "n_gen": 8}
+{"i": 13, "ok": false, "gold": "792", "out": "88 * 9 = 1", "n_gen": 8}
+{"i": 14, "ok": false, "gold": "260", "out": "52 * 5 = 1", "n_gen": 8}
+{"i": 15, "ok": false, "gold": "90", "out": "36", "n_gen": 2}
+{"i": 16, "ok": false, "gold": "190", "out": "38 * 5 = 1", "n_gen": 8}
+{"i": 17, "ok": false, "gold": "252", "out": "The is 28 * 9", "n_gen": 8}
+{"i": 18, "ok": false, "gold": "125", "out": "50 + 75", "n_gen": 6}
+{"i": 19, "ok": false, "gold": "216", "out": "72 * 3 = 2", "n_gen": 8}
+{"i": 20, "ok": false, "gold": "72", "out": "47 + 25 = ", "n_gen": 8}
+{"i": 21, "ok": false, "gold": "395", "out": "79", "n_gen": 2}
+{"i": 22, "ok": false, "gold": "522", "out": "87 * 6 = 1", "n_gen": 8}
+{"i": 23, "ok": false, "gold": "145", "out": "86 + 59 = ", "n_gen": 8}
+{"i": 24, "ok": false, "gold": "87", "out": "40 + 47 = ", "n_gen": 8}
+{"i": 25, "ok": false, "gold": "47", "out": "33 + 14 = ", "n_gen": 8}
+{"i": 26, "ok": false, "gold": "564", "out": "94 * 6 is a fraction", "n_gen": 8}
+{"i": 27, "ok": false, "gold": "117", "out": "The answer is 21.", "n_gen": 7}
+{"i": 28, "ok": false, "gold": "58", "out": "29 * 2 = 2", "n_gen": 8}
+{"i": 29, "ok": false, "gold": "792", "out": "99 * 8 = 1", "n_gen": 8}
+{"i": 30, "ok": false, "gold": "462", "out": "77 * 6 = 7", "n_gen": 8}
+{"i": 31, "ok": false, "gold": "200", "out": "40 * 5 = 4", "n_gen": 8}
+{"i": 32, "ok": false, "gold": "680", "out": "85 * 8 = 5", "n_gen": 8}
+{"i": 33, "ok": false, "gold": "603", "out": "67 * 9", "n_gen": 5}
+{"i": 34, "ok": false, "gold": "693", "out": "The number is 997.", "n_gen": 8}
+{"i": 35, "ok": false, "gold": "112", "out": "88 + 24 = ", "n_gen": 8}
+{"i": 36, "ok": false, "gold": "142", "out": "The result is 90 + ", "n_gen": 8}
+{"i": 37, "ok": false, "gold": "82", "out": "41", "n_gen": 2}
+{"i": 38, "ok": false, "gold": "120", "out": "24 * 5 = 2", "n_gen": 8}
+{"i": 39, "ok": false, "gold": "83", "out": "31 + 52 = ", "n_gen": 8}
+{"i": 40, "ok": false, "gold": "39", "out": "17 + 22 = ", "n_gen": 8}
+{"i": 41, "ok": false, "gold": "495", "out": "99 * 5 = 9", "n_gen": 8}
+{"i": 42, "ok": false, "gold": "174", "out": "104", "n_gen": 3}
+{"i": 43, "ok": false, "gold": "234", "out": "78 * 3 = 1", "n_gen": 8}
+{"i": 44, "ok": false, "gold": "125", "out": "123", "n_gen": 3}
+{"i": 45, "ok": false, "gold": "249", "out": "The answer is 83.", "n_gen": 7}
+{"i": 46, "ok": false, "gold": "81", "out": "The answer is 91.", "n_gen": 7}
+{"i": 47, "ok": false, "gold": "46", "out": "34", "n_gen": 2}
+{"i": 48, "ok": false, "gold": "99", "out": "33", "n_gen": 2}
+{"i": 49, "ok": false, "gold": "113", "out": "17 + 96 = ", "n_gen": 8}
+{"i": 50, "ok": false, "gold": "153", "out": "64 + 89 = ", "n_gen": 8}
+{"i": 51, "ok": false, "gold": "61", "out": "43 + 18 = ", "n_gen": 8}
+{"i": 52, "ok": false, "gold": "140", "out": "114", "n_gen": 3}
+{"i": 53, "ok": false, "gold": "50", "out": "The is 33 + 1", "n_gen": 8}
+{"i": 54, "ok": false, "gold": "45", "out": "15 * 3 = 1", "n_gen": 8}
+{"i": 55, "ok": false, "gold": "300", "out": "60 * 5 = 1", "n_gen": 8}
+{"i": 56, "ok": false, "gold": "152", "out": "70 + 82 = ", "n_gen": 8}
+{"i": 57, "ok": false, "gold": "132", "out": "The answer is 112.", "n_gen": 8}
+{"i": 58, "ok": false, "gold": "68", "out": "17 * 4 = 1", "n_gen": 8}
+{"i": 59, "ok": false, "gold": "318", "out": "53 * 6 = 5", "n_gen": 8}
+{"i": 60, "ok": false, "gold": "161", "out": "66 + 95 = ", "n_gen": 8}
+{"i": 61, "ok": false, "gold": "167", "out": "70 + 97 = ", "n_gen": 8}
+{"i": 62, "ok": false, "gold": "157", "out": "82 + 75 = ", "n_gen": 8}
+{"i": 63, "ok": false, "gold": "651", "out": "93 * 7 = 9", "n_gen": 8}
+{"i": 64, "ok": false, "gold": "136", "out": "94 + 42 = ", "n_gen": 8}
+{"i": 65, "ok": false, "gold": "109", "out": "98 + 11 = ", "n_gen": 8}
+{"i": 66, "ok": false, "gold": "72", "out": "74", "n_gen": 2}
+{"i": 67, "ok": false, "gold": "474", "out": "79 * 6 = 7", "n_gen": 8}
+{"i": 68, "ok": false, "gold": "126", "out": "71 + 55 = ", "n_gen": 8}
+{"i": 69, "ok": false, "gold": "672", "out": "96 * 7 = 1", "n_gen": 8}
+{"i": 70, "ok": false, "gold": "364", "out": "91 * 4 = 9", "n_gen": 8}
+{"i": 71, "ok": false, "gold": "472", "out": "The answer is 59.", "n_gen": 7}
+{"i": 72, "ok": false, "gold": "40", "out": "20", "n_gen": 2}
+{"i": 73, "ok": false, "gold": "693", "out": "99 * 7 = 7", "n_gen": 8}
+{"i": 74, "ok": false, "gold": "129", "out": "38 + 91", "n_gen": 6}
+{"i": 75, "ok": false, "gold": "178", "out": "96 + 82 = ", "n_gen": 8}
+{"i": 76, "ok": false, "gold": "112", "out": "14 * 8 = 1", "n_gen": 8}
+{"i": 77, "ok": false, "gold": "656", "out": "82 * 8 = 1", "n_gen": 8}
+{"i": 78, "ok": false, "gold": "60", "out": "15 * 4 = 1", "n_gen": 8}
+{"i": 79, "ok": false, "gold": "142", "out": "43 + 99 = ", "n_gen": 8}
+{"i": 80, "ok": false, "gold": "149", "out": "77", "n_gen": 2}
+{"i": 81, "ok": false, "gold": "174", "out": "The calculation is simple: 87", "n_gen": 8}
+{"i": 82, "ok": false, "gold": "511", "out": "73 * 7 = 7", "n_gen": 8}
+{"i": 83, "ok": false, "gold": "85", "out": "The answer is 70.", "n_gen": 7}
+{"i": 84, "ok": false, "gold": "315", "out": "63 * 5 = 3", "n_gen": 8}
+{"i": 85, "ok": false, "gold": "273", "out": "91 * 3", "n_gen": 5}
+{"i": 86, "ok": false, "gold": "52", "out": "5520", "n_gen": 4}
+{"i": 87, "ok": false, "gold": "159", "out": "130", "n_gen": 3}
+{"i": 88, "ok": false, "gold": "48", "out": "37 + 11 = ", "n_gen": 8}
+{"i": 89, "ok": true, "gold": "30", "out": "30", "n_gen": 2}
+{"i": 90, "ok": false, "gold": "180", "out": "87 + 93 = ", "n_gen": 8}
+{"i": 91, "ok": false, "gold": "93", "out": "48 + 45 = ", "n_gen": 8}
+{"i": 92, "ok": false, "gold": "99", "out": "333", "n_gen": 3}
+{"i": 93, "ok": false, "gold": "150", "out": "170", "n_gen": 3}
+{"i": 94, "ok": false, "gold": "112", "out": "The answer is 105.", "n_gen": 8}
+{"i": 95, "ok": false, "gold": "144", "out": "24 * 6 = 1", "n_gen": 8}
+{"i": 96, "ok": false, "gold": "169", "out": "76 + 93 = ", "n_gen": 8}
+{"i": 97, "ok": false, "gold": "96", "out": "24 * 4 = 9", "n_gen": 8}
+{"i": 98, "ok": false, "gold": "27", "out": "12 + 15 = ", "n_gen": 8}
+{"i": 99, "ok": false, "gold": "140", "out": "160", "n_gen": 3}
+{"i": 100, "ok": false, "gold": "112", "out": "The answer is 56 * ", "n_gen": 8}
+{"i": 101, "ok": false, "gold": "891", "out": "99 is the number only.", "n_gen": 7}
+{"i": 102, "ok": false, "gold": "544", "out": "68", "n_gen": 2}
+{"i": 103, "ok": false, "gold": "110", "out": "78 + 32 = ", "n_gen": 8}
+{"i": 104, "ok": false, "gold": "132", "out": "85 + 47 = ", "n_gen": 8}
+{"i": 105, "ok": false, "gold": "73", "out": "The answer is 29.", "n_gen": 7}
+{"i": 106, "ok": false, "gold": "78", "out": "18", "n_gen": 2}
+{"i": 107, "ok": false, "gold": "103", "out": "89 + 14 = ", "n_gen": 8}
+{"i": 108, "ok": false, "gold": "59", "out": "30 + 29 = ", "n_gen": 8}
+{"i": 109, "ok": false, "gold": "329", "out": "47 * 7 = 4", "n_gen": 8}
+{"i": 110, "ok": false, "gold": "106", "out": "The answer is 86.", "n_gen": 7}
+{"i": 111, "ok": false, "gold": "111", "out": "131", "n_gen": 3}
+{"i": 112, "ok": false, "gold": "196", "out": "494", "n_gen": 3}
+{"i": 113, "ok": false, "gold": "114", "out": "19 * 6 = 1", "n_gen": 8}
+{"i": 114, "ok": false, "gold": "100", "out": "The answer is 52 + ", "n_gen": 8}
+{"i": 115, "ok": false, "gold": "103", "out": "22 + 81 = ", "n_gen": 8}
+{"i": 116, "ok": false, "gold": "490", "out": "70 * 7 = 7", "n_gen": 8}
+{"i": 117, "ok": false, "gold": "159", "out": "3", "n_gen": 1}
+{"i": 118, "ok": false, "gold": "172", "out": "99 + 73 = ", "n_gen": 8}
+{"i": 119, "ok": false, "gold": "100", "out": "The answer is 52.", "n_gen": 7}
+{"i": 120, "ok": false, "gold": "116", "out": "29 * 4 = 2", "n_gen": 8}
+{"i": 121, "ok": false, "gold": "174", "out": "58 * 3 = 5", "n_gen": 8}
+{"i": 122, "ok": true, "gold": "55", "out": "55", "n_gen": 2}
+{"i": 123, "ok": false, "gold": "136", "out": "17 * 8 = 1", "n_gen": 8}
+{"i": 124, "ok": false, "gold": "141", "out": "60 + 81 is ", "n_gen": 8}
+{"i": 125, "ok": false, "gold": "603", "out": "The number is 67.", "n_gen": 7}
+{"i": 126, "ok": false, "gold": "480", "out": "96 * 5 = 3", "n_gen": 8}
+{"i": 127, "ok": false, "gold": "95", "out": "The answer is 57 + ", "n_gen": 8}
+{"i": 128, "ok": false, "gold": "172", "out": "43 * 4 = 4", "n_gen": 8}
+{"i": 129, "ok": false, "gold": "79", "out": "56", "n_gen": 2}
+{"i": 130, "ok": false, "gold": "112", "out": "130", "n_gen": 3}
+{"i": 131, "ok": false, "gold": "335", "out": "67 * 5 = 1", "n_gen": 8}
+{"i": 132, "ok": false, "gold": "102", "out": "60 + 42 = ", "n_gen": 8}
+{"i": 133, "ok": false, "gold": "52", "out": "37", "n_gen": 2}
+{"i": 134, "ok": false, "gold": "115", "out": "23 * 5 = 2", "n_gen": 8}
+{"i": 135, "ok": false, "gold": "135", "out": "1111", "n_gen": 4}
+{"i": 136, "ok": false, "gold": "207", "out": "23 * 9 = 2", "n_gen": 8}
+{"i": 137, "ok": false, "gold": "152", "out": "61 + 91 = ", "n_gen": 8}
+{"i": 138, "ok": false, "gold": "684", "out": "76 * 9 = 7", "n_gen": 8}
+{"i": 139, "ok": false, "gold": "459", "out": "51 * 9 = 5", "n_gen": 8}
+{"i": 140, "ok": false, "gold": "455", "out": "91 * 5 is 8", "n_gen": 8}
+{"i": 141, "ok": false, "gold": "76", "out": "38 * 2 = 4", "n_gen": 8}
+{"i": 142, "ok": false, "gold": "101", "out": "56", "n_gen": 2}
+{"i": 143, "ok": false, "gold": "70", "out": "The answer is 12.", "n_gen": 7}
+{"i": 144, "ok": false, "gold": "232", "out": "29 * 8 = 1", "n_gen": 8}
+{"i": 145, "ok": false, "gold": "210", "out": "2100", "n_gen": 4}
+{"i": 146, "ok": false, "gold": "152", "out": "76 * 2 = 4", "n_gen": 8}
+{"i": 147, "ok": false, "gold": "41", "out": "26 + 15 = ", "n_gen": 8}
+{"i": 148, "ok": false, "gold": "119", "out": "69", "n_gen": 2}
+{"i": 149, "ok": false, "gold": "261", "out": "29", "n_gen": 2}
+{"i": 150, "ok": false, "gold": "592", "out": "74 * 8 = 7", "n_gen": 8}
+{"i": 151, "ok": false, "gold": "148", "out": "The answer is 74.", "n_gen": 7}
+{"i": 152, "ok": false, "gold": "288", "out": "3316", "n_gen": 4}
+{"i": 153, "ok": false, "gold": "216", "out": "30", "n_gen": 2}
+{"i": 154, "ok": false, "gold": "688", "out": "86 * 8 = 8", "n_gen": 8}
+{"i": 155, "ok": false, "gold": "568", "out": "71 * 8 = 7", "n_gen": 8}
+{"i": 156, "ok": false, "gold": "78", "out": "39 * 2 is 3", "n_gen": 8}
+{"i": 157, "ok": false, "gold": "40", "out": "10 * 4", "n_gen": 5}
+{"i": 158, "ok": false, "gold": "124", "out": "660", "n_gen": 3}
+{"i": 159, "ok": false, "gold": "116", "out": "73 + 43 = ", "n_gen": 8}
+{"i": 160, "ok": false, "gold": "384", "out": "48 * 8 = 3", "n_gen": 8}
+{"i": 161, "ok": false, "gold": "76", "out": "The is 59 + 1", "n_gen": 8}
+{"i": 162, "ok": false, "gold": "66", "out": "26 + 40 = ", "n_gen": 8}
+{"i": 163, "ok": false, "gold": "69", "out": "The number is 52.", "n_gen": 7}
+{"i": 164, "ok": false, "gold": "568", "out": "2568", "n_gen": 4}
+{"i": 165, "ok": false, "gold": "107", "out": "87 + 20 = ", "n_gen": 8}
+{"i": 166, "ok": false, "gold": "203", "out": "29 * 7 = 2", "n_gen": 8}
+{"i": 167, "ok": false, "gold": "157", "out": "The answer is 88 + ", "n_gen": 8}
+{"i": 168, "ok": false, "gold": "38", "out": "16 + 22 = ", "n_gen": 8}
+{"i": 169, "ok": false, "gold": "41", "out": "29 + 12 = ", "n_gen": 8}
+{"i": 170, "ok": false, "gold": "115", "out": "The is 89 + 2", "n_gen": 8}
+{"i": 171, "ok": false, "gold": "161", "out": "23 * 7 is 1", "n_gen": 8}
+{"i": 172, "ok": false, "gold": "96", "out": "72 + 24", "n_gen": 6}
+{"i": 173, "ok": false, "gold": "792", "out": "34", "n_gen": 2}
+{"i": 174, "ok": false, "gold": "159", "out": "The answer is 53.", "n_gen": 7}
+{"i": 175, "ok": false, "gold": "534", "out": "89 * 6 = 8", "n_gen": 8}
+{"i": 176, "ok": false, "gold": "208", "out": "26 * 8 = 2", "n_gen": 8}
+{"i": 177, "ok": false, "gold": "291", "out": "33", "n_gen": 2}
+{"i": 178, "ok": false, "gold": "68", "out": "34 * 2", "n_gen": 5}
+{"i": 179, "ok": false, "gold": "462", "out": "66 * 7 = 4", "n_gen": 8}
+{"i": 180, "ok": false, "gold": "476", "out": "68 * 7 = 6", "n_gen": 8}
+{"i": 181, "ok": false, "gold": "38", "out": "19 * 2 is 4", "n_gen": 8}
+{"i": 182, "ok": false, "gold": "135", "out": "15 * 9 = 1", "n_gen": 8}
+{"i": 183, "ok": false, "gold": "89", "out": "13 + 76 = ", "n_gen": 8}
+{"i": 184, "ok": false, "gold": "415", "out": "13", "n_gen": 2}
+{"i": 185, "ok": false, "gold": "164", "out": "90 + 74 = ", "n_gen": 8}
+{"i": 186, "ok": false, "gold": "378", "out": "63 * 6 = 1", "n_gen": 8}
+{"i": 187, "ok": false, "gold": "224", "out": "286", "n_gen": 3}
+{"i": 188, "ok": false, "gold": "192", "out": "64 * 3 = 6", "n_gen": 8}
+{"i": 189, "ok": false, "gold": "189", "out": "363", "n_gen": 3}
+{"i": 190, "ok": false, "gold": "42", "out": "The number is 29 + ", "n_gen": 8}
+{"i": 191, "ok": false, "gold": "520", "out": "The is 65 * 8", "n_gen": 8}
+{"i": 192, "ok": false, "gold": "93", "out": "51", "n_gen": 2}
+{"i": 193, "ok": false, "gold": "44", "out": "20", "n_gen": 2}
+{"i": 194, "ok": false, "gold": "67", "out": "13 + 54 = ", "n_gen": 8}
+{"i": 195, "ok": false, "gold": "50", "out": "11 + 39 = ", "n_gen": 8}
+{"i": 196, "ok": false, "gold": "76", "out": "The answer is 19 * ", "n_gen": 8}
+{"i": 197, "ok": false, "gold": "130", "out": "The answer is 36 + ", "n_gen": 8}
+{"i": 198, "ok": false, "gold": "50", "out": "25 * 2 = 5", "n_gen": 8}
+{"i": 199, "ok": false, "gold": "111", "out": "98 + 13 = ", "n_gen": 8}
+{"i": 200, "ok": false, "gold": "156", "out": "39 * 4 is 3", "n_gen": 8}
+{"i": 201, "ok": false, "gold": "95", "out": "The answer is 24 + ", "n_gen": 8}
+{"i": 202, "ok": false, "gold": "69", "out": "The answer is 1.13", "n_gen": 8}
+{"i": 203, "ok": false, "gold": "92", "out": "36 + 56 = ", "n_gen": 8}
+{"i": 204, "ok": false, "gold": "94", "out": "47", "n_gen": 2}
+{"i": 205, "ok": false, "gold": "560", "out": "The product of 80 and ", "n_gen": 8}
+{"i": 206, "ok": false, "gold": "43", "out": "23", "n_gen": 2}
+{"i": 207, "ok": false, "gold": "196", "out": "The answer is 49.", "n_gen": 7}
+{"i": 208, "ok": false, "gold": "54", "out": "28 + 26 = ", "n_gen": 8}
+{"i": 209, "ok": false, "gold": "250", "out": "50 * 5? Reply with", "n_gen": 8}
+{"i": 210, "ok": false, "gold": "80", "out": "33 + 47 = ", "n_gen": 8}
+{"i": 211, "ok": false, "gold": "109", "out": "94 + 15 = ", "n_gen": 8}
+{"i": 212, "ok": false, "gold": "172", "out": "86 * 2 = 8", "n_gen": 8}
+{"i": 213, "ok": false, "gold": "118", "out": "99 + 19 = ", "n_gen": 8}
+{"i": 214, "ok": false, "gold": "128", "out": "48 + 80 = ", "n_gen": 8}
+{"i": 215, "ok": false, "gold": "113", "out": "28 + 85 = ", "n_gen": 8}
+{"i": 216, "ok": false, "gold": "146", "out": "115", "n_gen": 3}
+{"i": 217, "ok": false, "gold": "156", "out": "66 + 90: ", "n_gen": 8}
+{"i": 218, "ok": false, "gold": "94", "out": "The answer is 40.", "n_gen": 7}
+{"i": 219, "ok": false, "gold": "74", "out": "The answer is 11 + ", "n_gen": 8}
+{"i": 220, "ok": false, "gold": "459", "out": "51 * 9 is 5", "n_gen": 8}
+{"i": 221, "ok": false, "gold": "117", "out": "47 + 70 = ", "n_gen": 8}
+{"i": 222, "ok": false, "gold": "56", "out": "33 + 23", "n_gen": 6}
+{"i": 223, "ok": false, "gold": "168", "out": "The is 81 + 8", "n_gen": 8}
+{"i": 224, "ok": false, "gold": "891", "out": "99 * 9 is 9", "n_gen": 8}
+{"i": 225, "ok": false, "gold": "264", "out": "33 * 8 = 3", "n_gen": 8}
+{"i": 226, "ok": false, "gold": "109", "out": "The answer is 12.", "n_gen": 7}
+{"i": 227, "ok": false, "gold": "104", "out": "76 + 28 = ", "n_gen": 8}
+{"i": 228, "ok": false, "gold": "181", "out": "The question is asking me to add ", "n_gen": 8}
+{"i": 229, "ok": false, "gold": "83", "out": "The is 36 + 4", "n_gen": 8}
+{"i": 230, "ok": false, "gold": "166", "out": "100", "n_gen": 3}
+{"i": 231, "ok": false, "gold": "50", "out": "10 * 5 = 5", "n_gen": 8}
+{"i": 232, "ok": false, "gold": "138", "out": "90 + 48 = ", "n_gen": 8}
+{"i": 233, "ok": false, "gold": "232", "out": "29 * 8 = 2", "n_gen": 8}
+{"i": 234, "ok": false, "gold": "210", "out": "70 * 3 = 2", "n_gen": 8}
+{"i": 235, "ok": false, "gold": "312", "out": "39 * 8 = 3", "n_gen": 8}
+{"i": 236, "ok": false, "gold": "37", "out": "12 + 25", "n_gen": 6}
+{"i": 237, "ok": false, "gold": "110", "out": "95 + 15 = ", "n_gen": 8}
+{"i": 238, "ok": false, "gold": "137", "out": "100", "n_gen": 3}
+{"i": 239, "ok": false, "gold": "540", "out": "60 * 9 = 5", "n_gen": 8}
+{"i": 240, "ok": false, "gold": "97", "out": "91", "n_gen": 2}
+{"i": 241, "ok": false, "gold": "131", "out": "100", "n_gen": 3}
+{"i": 242, "ok": false, "gold": "42", "out": "14 * 3 is 1", "n_gen": 8}
+{"i": 243, "ok": false, "gold": "343", "out": "49 * 7? Reply with", "n_gen": 8}
+{"i": 244, "ok": false, "gold": "71", "out": "41 + 30 = ", "n_gen": 8}
+{"i": 245, "ok": false, "gold": "93", "out": "47", "n_gen": 2}
+{"i": 246, "ok": false, "gold": "415", "out": "835", "n_gen": 3}
+{"i": 247, "ok": false, "gold": "496", "out": "498", "n_gen": 3}
+{"i": 248, "ok": false, "gold": "270", "out": "45 * 6 is equal to", "n_gen": 8}
+{"i": 249, "ok": false, "gold": "172", "out": "82 + 90 = ", "n_gen": 8}
+{"i": 250, "ok": false, "gold": "124", "out": "25 + 99 = ", "n_gen": 8}
+{"i": 251, "ok": false, "gold": "146", "out": "61 + 85 = ", "n_gen": 8}
+{"i": 252, "ok": false, "gold": "176", "out": "81 + 95 = ", "n_gen": 8}
+{"i": 253, "ok": false, "gold": "160", "out": "90 + 70 = ", "n_gen": 8}
+{"i": 254, "ok": false, "gold": "333", "out": "343", "n_gen": 3}
+{"i": 255, "ok": false, "gold": "124", "out": "74 + 50 = ", "n_gen": 8}
+{"i": 256, "ok": false, "gold": "83", "out": "17 + 66 = ", "n_gen": 8}
+{"i": 257, "ok": false, "gold": "89", "out": "73 + 16 = ", "n_gen": 8}
+{"i": 258, "ok": false, "gold": "74", "out": "37 * 2 = 7", "n_gen": 8}
+{"i": 259, "ok": false, "gold": "71", "out": "61", "n_gen": 2}
+{"i": 260, "ok": true, "gold": "54", "out": "54", "n_gen": 2}
+{"i": 261, "ok": false, "gold": "760", "out": "The answer is 95.", "n_gen": 7}
+{"i": 262, "ok": false, "gold": "39", "out": "15 + 24 = ", "n_gen": 8}
+{"i": 263, "ok": false, "gold": "264", "out": "44 * 6 = 4", "n_gen": 8}
+{"i": 264, "ok": false, "gold": "156", "out": "39 * 4", "n_gen": 5}
+{"i": 265, "ok": false, "gold": "230", "out": "46 * 5 = 4", "n_gen": 8}
+{"i": 266, "ok": false, "gold": "120", "out": "68 + 52 = ", "n_gen": 8}
+{"i": 267, "ok": false, "gold": "115", "out": "52 + 63 = ", "n_gen": 8}
+{"i": 268, "ok": false, "gold": "776", "out": "97 * 8 = 1", "n_gen": 8}
+{"i": 269, "ok": false, "gold": "105", "out": "28 + 77 = ", "n_gen": 8}
+{"i": 270, "ok": false, "gold": "69", "out": "36 + 33 = ", "n_gen": 8}
+{"i": 271, "ok": false, "gold": "123", "out": "59 + 64 = ", "n_gen": 8}
+{"i": 272, "ok": false, "gold": "295", "out": "59 * 5 = 5", "n_gen": 8}
+{"i": 273, "ok": false, "gold": "330", "out": "66 * 5 equals 6", "n_gen": 8}
+{"i": 274, "ok": false, "gold": "128", "out": "The answer is 16.", "n_gen": 7}
+{"i": 275, "ok": false, "gold": "111", "out": "91 + 20 = ", "n_gen": 8}
+{"i": 276, "ok": false, "gold": "112", "out": "The answer is 56.", "n_gen": 7}
+{"i": 277, "ok": false, "gold": "384", "out": "The result of this calculation is 9", "n_gen": 8}
+{"i": 278, "ok": false, "gold": "136", "out": "The answer is 48 + ", "n_gen": 8}
+{"i": 279, "ok": false, "gold": "121", "out": "The number is 75.", "n_gen": 7}
+{"i": 280, "ok": false, "gold": "440", "out": "100", "n_gen": 3}
+{"i": 281, "ok": false, "gold": "189", "out": "The answer is 90.", "n_gen": 7}
+{"i": 282, "ok": false, "gold": "744", "out": "93 * 8 = 7", "n_gen": 8}
+{"i": 283, "ok": false, "gold": "432", "out": "72 * 6 = 1", "n_gen": 8}
+{"i": 284, "ok": false, "gold": "259", "out": "37", "n_gen": 2}
+{"i": 285, "ok": false, "gold": "31", "out": "15 + 16 = ", "n_gen": 8}
+{"i": 286, "ok": false, "gold": "57", "out": "10 + 47 = ", "n_gen": 8}
+{"i": 287, "ok": false, "gold": "81", "out": "27 * 3 = 2", "n_gen": 8}
+{"i": 288, "ok": false, "gold": "485", "out": "97 * 5 = 4", "n_gen": 8}
+{"i": 289, "ok": false, "gold": "300", "out": "The answer is 60.", "n_gen": 7}
+{"i": 290, "ok": false, "gold": "140", "out": "53 + 87 = ", "n_gen": 8}
+{"i": 291, "ok": false, "gold": "70", "out": "72", "n_gen": 2}
+{"i": 292, "ok": false, "gold": "119", "out": "68 + 51 = ", "n_gen": 8}
+{"i": 293, "ok": false, "gold": "91", "out": "151", "n_gen": 3}
+{"i": 294, "ok": false, "gold": "56", "out": "The answer is 62.", "n_gen": 7}
+{"i": 295, "ok": false, "gold": "270", "out": "54", "n_gen": 2}
+{"i": 296, "ok": false, "gold": "252", "out": "42 * 6", "n_gen": 5}
+{"i": 297, "ok": false, "gold": "101", "out": "59 + 42 = ", "n_gen": 8}
+{"i": 298, "ok": false, "gold": "55", "out": "40 + 15 = ", "n_gen": 8}
+{"i": 299, "ok": false, "gold": "99", "out": "80 + 19 = ", "n_gen": 8}

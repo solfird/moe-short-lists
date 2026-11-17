@@ -1,0 +1,6 @@
+{
+ "k": 16,
+ "across_tasks_same_type": 0.3652960153318121,
+ "across_types_same_task": 0.18152553139038508,
+ "split_half_same_task": 0.7352843085781571
+}

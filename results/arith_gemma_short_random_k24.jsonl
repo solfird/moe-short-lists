@@ -1,0 +1,300 @@
+{"i": 0, "ok": false, "gold": "126", "out": "\n\n\n\n|\n\n", "n_gen": 4}
+{"i": 1, "ok": false, "gold": "147", "out": "\n```\n{\n  \"7", "n_gen": 8}
+{"i": 2, "ok": false, "gold": "119", "out": "\n\n-\n\n-\n\n-\n\n-", "n_gen": 8}
+{"i": 3, "ok": false, "gold": "111", "out": " (In the context of the user'", "n_gen": 8}
+{"i": 4, "ok": false, "gold": "49", "out": "================", "n_gen": 8}
+{"i": 5, "ok": false, "gold": "168", "out": "\n\nThe number of 42 *", "n_gen": 8}
+{"i": 6, "ok": false, "gold": "116", "out": "\n***thought*\n...**", "n_gen": 8}
+{"i": 7, "ok": false, "gold": "103", "out": "W: 81 + 2", "n_gen": 8}
+{"i": 8, "ok": false, "gold": "138", "out": "\n\nIn this matter,\nThe number", "n_gen": 8}
+{"i": 9, "ok": false, "gold": "324", "out": "A single, 1. 1", "n_gen": 8}
+{"i": 10, "ok": false, "gold": "119", "out": "***\n\n***\n\n", "n_gen": 8}
+{"i": 11, "ok": false, "gold": "91", "out": "|\n    {\n    {\n", "n_gen": 8}
+{"i": 12, "ok": false, "gold": "156", "out": "61 + 95 = ", "n_gen": 8}
+{"i": 13, "ok": false, "gold": "792", "out": "    **If the 88-", "n_gen": 8}
+{"i": 14, "ok": false, "gold": "260", "out": ">\n[the much much]\n", "n_gen": 8}
+{"i": 15, "ok": false, "gold": "90", "out": "**_______", "n_gen": 8}
+{"i": 16, "ok": false, "gold": "190", "out": " de-\n[4:20", "n_gen": 8}
+{"i": 17, "ok": false, "gold": "252", "out": "\nA mathematically identical thing.\n\n***", "n_gen": 8}
+{"i": 18, "ok": false, "gold": "125", "out": "\n{\n    \n    \n    ", "n_gen": 8}
+{"i": 19, "ok": false, "gold": "216", "out": "_The_number_only_The", "n_gen": 8}
+{"i": 20, "ok": false, "gold": "72", "out": "\n**What is 47 +", "n_gen": 8}
+{"i": 21, "ok": false, "gold": "395", "out": " **5**\n\n**5**\n\n", "n_gen": 8}
+{"i": 22, "ok": false, "gold": "522", "out": "\n\n[thoughtful own \nThe", "n_gen": 8}
+{"i": 23, "ok": false, "gold": "145", "out": "\nA single-step-through-", "n_gen": 8}
+{"i": 24, "ok": false, "gold": "87", "out": "\n", "n_gen": 1}
+{"i": 25, "ok": false, "gold": "47", "out": "({2-pi={x-s", "n_gen": 8}
+{"i": 26, "ok": false, "gold": "564", "out": "\n(The user provided the number only", "n_gen": 8}
+{"i": 27, "ok": false, "gold": "117", "out": "2", "n_gen": 1}
+{"i": 28, "ok": false, "gold": "58", "out": "29*2?\n9-", "n_gen": 8}
+{"i": 29, "ok": false, "gold": "792", "out": "_", "n_gen": 1}
+{"i": 30, "ok": false, "gold": "462", "out": "-\n-\n-\n-\n", "n_gen": 8}
+{"i": 31, "ok": false, "gold": "200", "out": "\n1>>>\n$[40\\", "n_gen": 8}
+{"i": 32, "ok": false, "gold": "680", "out": "\n        {      }\n        {", "n_gen": 8}
+{"i": 33, "ok": false, "gold": "603", "out": "\n\n###\n\n###\n\n###\n\n###", "n_gen": 8}
+{"i": 34, "ok": false, "gold": "693", "out": "\nWait, 3 much.\n", "n_gen": 8}
+{"i": 35, "ok": false, "gold": "112", "out": "\"The true best idea is 8", "n_gen": 8}
+{"i": 36, "ok": false, "gold": "142", "out": "Zing_Z_Z_Z", "n_gen": 8}
+{"i": 37, "ok": false, "gold": "82", "out": "_ | _ _ _ _ _ _", "n_gen": 8}
+{"i": 38, "ok": false, "gold": "120", "out": "\n{\n}\n{\n{", "n_gen": 8}
+{"i": 39, "ok": false, "gold": "83", "out": "\n*\n*\n*\n*", "n_gen": 8}
+{"i": 40, "ok": false, "gold": "39", "out": "e\n--\n-\n-\n", "n_gen": 8}
+{"i": 41, "ok": false, "gold": "495", "out": "The user's text is 9", "n_gen": 8}
+{"i": 42, "ok": false, "gold": "174", "out": "# \n# \n# ", "n_gen": 8}
+{"i": 43, "ok": false, "gold": "234", "out": "\n\nA true bit of thought, the", "n_gen": 8}
+{"i": 44, "ok": false, "gold": "125", "out": "{\n    }\n    }\n", "n_gen": 8}
+{"i": 45, "ok": false, "gold": "249", "out": "* * * * *\n* *", "n_gen": 8}
+{"i": 46, "ok": false, "gold": "81", "out": "\n[The own message]\n[", "n_gen": 8}
+{"i": 47, "ok": false, "gold": "46", "out": "\n(\n)\n-\n-", "n_gen": 8}
+{"i": 48, "ok": false, "gold": "99", "out": "* world* own*\n* *", "n_gen": 8}
+{"i": 49, "ok": false, "gold": "113", "out": "```\n```\n```\n```\n", "n_gen": 8}
+{"i": 50, "ok": false, "gold": "153", "out": "Everything else.\nThe number only.", "n_gen": 8}
+{"i": 51, "ok": false, "gold": "61", "out": "---\n```\n    <br>", "n_gen": 8}
+{"i": 52, "ok": false, "gold": "140", "out": "_\n\n_\n\n_\n\n_\n\n", "n_gen": 8}
+{"i": 53, "ok": false, "gold": "50", "out": "________", "n_gen": 8}
+{"i": 54, "ok": false, "gold": "45", "out": "If you'print nothing, the ", "n_gen": 8}
+{"i": 55, "ok": false, "gold": "300", "out": "The number only.\nThe number only", "n_gen": 8}
+{"i": 56, "ok": false, "gold": "152", "out": "\n\n    [   {_}\n\n", "n_gen": 8}
+{"i": 57, "ok": false, "gold": "132", "out": "\n96 + 36 =", "n_gen": 8}
+{"i": 58, "ok": false, "gold": "68", "out": "I am much happy!\n    -", "n_gen": 8}
+{"i": 59, "ok": false, "gold": "318", "out": "\n|\n\ufffd\n\ufffd\n\n", "n_gen": 8}
+{"i": 60, "ok": false, "gold": "161", "out": "exp own much much much.", "n_gen": 6}
+{"i": 61, "ok": false, "gold": "167", "out": "(A-7-9-7", "n_gen": 8}
+{"i": 62, "ok": false, "gold": "157", "out": "|\n|\n|\n|\n", "n_gen": 8}
+{"i": 63, "ok": false, "gold": "651", "out": "\n$\n$\n$\n$", "n_gen": 8}
+{"i": 64, "ok": false, "gold": "136", "out": "\n    <thought>\n    The", "n_gen": 8}
+{"i": 65, "ok": false, "gold": "109", "out": " ______ ______\n<channel|> ______\n\n______\n\n", "n_gen": 8}
+{"i": 66, "ok": false, "gold": "72", "out": "_", "n_gen": 1}
+{"i": 67, "ok": false, "gold": "474", "out": "A number only.", "n_gen": 4}
+{"i": 68, "ok": false, "gold": "126", "out": "The user'text is:\n\"", "n_gen": 8}
+{"i": 69, "ok": false, "gold": "672", "out": "\n-\n-\n-\n-", "n_gen": 8}
+{"i": 70, "ok": false, "gold": "364", "out": "\n*\n*\n*\n*", "n_gen": 8}
+{"i": 71, "ok": false, "gold": "472", "out": "n\n```javascript-\n-\n", "n_gen": 8}
+{"i": 72, "ok": false, "gold": "40", "out": " The number of the question is 2", "n_gen": 8}
+{"i": 73, "ok": false, "gold": "693", "out": "9 7? Reply with the number", "n_gen": 8}
+{"i": 74, "ok": false, "gold": "129", "out": "{000}", "n_gen": 5}
+{"i": 75, "ok": false, "gold": "178", "out": "\n    A quick thought:\n    ", "n_gen": 8}
+{"i": 76, "ok": false, "gold": "112", "out": "_\n**\"No, to you", "n_gen": 8}
+{"i": 77, "ok": false, "gold": "656", "out": "\n82 * 8?\n", "n_gen": 8}
+{"i": 78, "ok": false, "gold": "60", "out": "15 * 4 = 2", "n_gen": 8}
+{"i": 79, "ok": false, "gold": "142", "out": "", "n_gen": 0}
+{"i": 80, "ok": false, "gold": "149", "out": "________", "n_gen": 8}
+{"i": 81, "ok": false, "gold": "174", "out": "\n*   1.  *   ", "n_gen": 8}
+{"i": 82, "ok": false, "gold": "511", "out": "*: * * * * * * *", "n_gen": 8}
+{"i": 83, "ok": false, "gold": "85", "out": "\n| $ \\times \\text                ", "n_gen": 8}
+{"i": 84, "ok": false, "gold": "315", "out": "\nThe number is 7.\n", "n_gen": 8}
+{"i": 85, "ok": false, "gold": "273", "out": "The problem is \"The number\" (", "n_gen": 8}
+{"i": 86, "ok": false, "gold": "52", "out": "|\n|\n|\n|\n", "n_gen": 8}
+{"i": 87, "ok": false, "gold": "159", "out": "\nThe result of 96 +", "n_gen": 8}
+{"i": 88, "ok": false, "gold": "48", "out": "\nAnhe\nAthe\nA", "n_gen": 8}
+{"i": 89, "ok": false, "gold": "30", "out": "10 * 3 = 2", "n_gen": 8}
+{"i": 90, "ok": false, "gold": "180", "out": "</body>>, 87 + 9", "n_gen": 8}
+{"i": 91, "ok": false, "gold": "93", "out": "_\n_\n_\n_\n", "n_gen": 8}
+{"i": 92, "ok": false, "gold": "99", "out": "\n*\n*\n*\n*", "n_gen": 8}
+{"i": 93, "ok": false, "gold": "150", "out": "_e5_o___", "n_gen": 8}
+{"i": 94, "ok": false, "gold": "112", "out": "*   *   *   *   ", "n_gen": 8}
+{"i": 95, "ok": false, "gold": "144", "out": "*<channel|>\n\n*\n\n*\n\n*", "n_gen": 8}
+{"i": 96, "ok": false, "gold": "169", "out": "<\n\n=[\n\n\n]", "n_gen": 8}
+{"i": 97, "ok": false, "gold": "96", "out": "", "n_gen": 0}
+{"i": 98, "ok": false, "gold": "27", "out": "\nW What is 12 +", "n_gen": 8}
+{"i": 99, "ok": false, "gold": "140", "out": "___\n__\n_", "n_gen": 8}
+{"i": 100, "ok": false, "gold": "112", "out": "* 2.\n* 2", "n_gen": 8}
+{"i": 101, "ok": false, "gold": "891", "out": "--\n\n*   2nd.\n\n", "n_gen": 8}
+{"i": 102, "ok": false, "gold": "544", "out": "\n**10**\n**2", "n_gen": 8}
+{"i": 103, "ok": false, "gold": "110", "out": "    \ufffd    \ufffd    \ufffd    \ufffd", "n_gen": 8}
+{"i": 104, "ok": false, "gold": "132", "out": "\n", "n_gen": 1}
+{"i": 105, "ok": false, "gold": "73", "out": "n\n44s\n29", "n_gen": 8}
+{"i": 106, "ok": false, "gold": "78", "out": "-_the-end-is-", "n_gen": 8}
+{"i": 107, "ok": false, "gold": "103", "out": "\nThe user's question is \"", "n_gen": 8}
+{"i": 108, "ok": false, "gold": "59", "out": "thought\n<>\n>\n>", "n_gen": 8}
+{"i": 109, "ok": false, "gold": "329", "out": "\nThe user'thought: \"Reply", "n_gen": 8}
+{"i": 110, "ok": false, "gold": "106", "out": "[80 + 26]", "n_gen": 8}
+{"i": 111, "ok": false, "gold": "111", "out": "What is 72 + 5", "n_gen": 8}
+{"i": 112, "ok": false, "gold": "196", "out": "", "n_gen": 0}
+{"i": 113, "ok": false, "gold": "114", "out": "\nDear\nWhat is 19", "n_gen": 8}
+{"i": 114, "ok": false, "gold": "100", "out": "<p>\u2260\ufe0f\u2265\ufe0f\n", "n_gen": 8}
+{"i": 115, "ok": false, "gold": "103", "out": "**The fact that your question is too", "n_gen": 8}
+{"i": 116, "ok": false, "gold": "490", "out": "5ly-\n5ly-\n", "n_gen": 8}
+{"i": 117, "ok": false, "gold": "159", "out": "43*3</\u0635\u01a1</", "n_gen": 8}
+{"i": 118, "ok": false, "gold": "172", "out": "\n|\n    -\n      -", "n_gen": 8}
+{"i": 119, "ok": false, "gold": "100", "out": "**88 + 52**", "n_gen": 8}
+{"i": 120, "ok": false, "gold": "116", "out": "\n*29 * 4?", "n_gen": 8}
+{"i": 121, "ok": false, "gold": "174", "out": "**8.0.0.1", "n_gen": 8}
+{"i": 122, "ok": false, "gold": "55", "out": "-", "n_gen": 1}
+{"i": 123, "ok": false, "gold": "136", "out": " FUEST\n================\u064b\n                                                       ", "n_gen": 8}
+{"i": 124, "ok": false, "gold": "141", "out": "\n    \n    \n    \n    ", "n_gen": 8}
+{"i": 125, "ok": false, "gold": "603", "out": "- much\n-\n-\n-", "n_gen": 8}
+{"i": 126, "ok": false, "gold": "480", "out": "-\n\n-\n\n-\n\n-\n\n", "n_gen": 8}
+{"i": 127, "ok": false, "gold": "95", "out": "3^7\ub3c4_3_7", "n_gen": 8}
+{"i": 128, "ok": false, "gold": "172", "out": "\nThe number only.\n\nThe number", "n_gen": 8}
+{"i": 129, "ok": false, "gold": "79", "out": "[A much of interest in the]", "n_gen": 8}
+{"i": 130, "ok": false, "gold": "112", "out": "#**\n#*\n#", "n_gen": 8}
+{"i": 131, "ok": false, "gold": "335", "out": "$ \\text' own ability to be", "n_gen": 8}
+{"i": 132, "ok": false, "gold": "102", "out": "n\n_thought_thought_thought", "n_gen": 8}
+{"i": 133, "ok": false, "gold": "52", "out": " enough \nI'm just ", "n_gen": 8}
+{"i": 134, "ok": false, "gold": "115", "out": " 23 * 5\n5", "n_gen": 8}
+{"i": 135, "ok": false, "gold": "135", "out": "\n\n-\n\n\n-\n\n", "n_gen": 8}
+{"i": 136, "ok": false, "gold": "207", "out": "\nThe number only.\n\nThe number", "n_gen": 8}
+{"i": 137, "ok": false, "gold": "152", "out": "\n\n[61+91=", "n_gen": 8}
+{"i": 138, "ok": false, "gold": "684", "out": "\n\n[76] * [9", "n_gen": 8}
+{"i": 139, "ok": false, "gold": "459", "out": "The number only is 51 *", "n_gen": 8}
+{"i": 140, "ok": false, "gold": "455", "out": "1-1-1-1-", "n_gen": 8}
+{"i": 141, "ok": false, "gold": "76", "out": "= even \n\n*\n*\n", "n_gen": 8}
+{"i": 142, "ok": false, "gold": "101", "out": "\n|\n    \n    \n    ", "n_gen": 8}
+{"i": 143, "ok": false, "gold": "70", "out": "Hopin own statements about the number only", "n_gen": 8}
+{"i": 144, "ok": false, "gold": "232", "out": "\n147.\n8.", "n_gen": 8}
+{"i": 145, "ok": false, "gold": "210", "out": "************************", "n_gen": 8}
+{"i": 146, "ok": false, "gold": "152", "out": "On page:\n1.\n2", "n_gen": 8}
+{"i": 147, "ok": false, "gold": "41", "out": "\n\nWemma, Vemma, V", "n_gen": 8}
+{"i": 148, "ok": false, "gold": "119", "out": "|\n^\n    \n|\n", "n_gen": 8}
+{"i": 149, "ok": false, "gold": "261", "out": "*the\\ {n-s-", "n_gen": 8}
+{"i": 150, "ok": false, "gold": "592", "out": "***\n\n***\n\n***\n\n***\n\n", "n_gen": 8}
+{"i": 151, "ok": false, "gold": "148", "out": "*20*", "n_gen": 4}
+{"i": 152, "ok": false, "gold": "288", "out": "\n    \n    \n    \n    ", "n_gen": 8}
+{"i": 153, "ok": false, "gold": "216", "out": "\ningate own number 4\n", "n_gen": 8}
+{"i": 154, "ok": false, "gold": "688", "out": "The number only.\n<br-", "n_gen": 8}
+{"i": 155, "ok": false, "gold": "568", "out": " own own- own- own- ", "n_gen": 8}
+{"i": 156, "ok": false, "gold": "78", "out": "The 39 * 2 is", "n_gen": 8}
+{"i": 157, "ok": false, "gold": "40", "out": "\nThe question is: 10", "n_gen": 8}
+{"i": 158, "ok": false, "gold": "124", "out": "\n\n\n\n\n\n\n\n\n\n-\n\n\n\n", "n_gen": 8}
+{"i": 159, "ok": false, "gold": "116", "out": "\n\nThe question is: \"What is", "n_gen": 8}
+{"i": 160, "ok": false, "gold": "384", "out": "8\n\n---", "n_gen": 3}
+{"i": 161, "ok": false, "gold": "76", "out": " **How is 5 + 1", "n_gen": 8}
+{"i": 162, "ok": false, "gold": "66", "out": "|\n[]\nCa Ca Ca Ca", "n_gen": 8}
+{"i": 163, "ok": false, "gold": "69", "out": "jem%% much much much much much much", "n_gen": 8}
+{"i": 164, "ok": false, "gold": "568", "out": "\nThe number only.\n\n(7", "n_gen": 8}
+{"i": 165, "ok": false, "gold": "107", "out": "**\n-**\n-**\n", "n_gen": 8}
+{"i": 166, "ok": false, "gold": "203", "out": "\n$29 \\times 7", "n_gen": 8}
+{"i": 167, "ok": false, "gold": "157", "out": "- 45\n- 4", "n_gen": 8}
+{"i": 168, "ok": false, "gold": "38", "out": "\n<channel|>```\n```\n```\n", "n_gen": 8}
+{"i": 169, "ok": false, "gold": "41", "out": "\n# 29\ufffd_2", "n_gen": 8}
+{"i": 170, "ok": false, "gold": "115", "out": "\n{\n    \n    \n    ", "n_gen": 8}
+{"i": 171, "ok": false, "gold": "161", "out": "To much a business,\n\n[1", "n_gen": 8}
+{"i": 172, "ok": false, "gold": "96", "out": "\n\u0442 \u0430 \n\u0442 \u0430 ", "n_gen": 8}
+{"i": 173, "ok": false, "gold": "792", "out": "[[pbt]] @[pbt", "n_gen": 8}
+{"i": 174, "ok": false, "gold": "159", "out": "\n-\nThe number only.\n", "n_gen": 8}
+{"i": 175, "ok": false, "gold": "534", "out": "_\n_\n_\n_\n", "n_gen": 8}
+{"i": 176, "ok": false, "gold": "208", "out": "|\n<i>-s-d-", "n_gen": 8}
+{"i": 177, "ok": false, "gold": "291", "out": "<#197844", "n_gen": 8}
+{"i": 178, "ok": false, "gold": "68", "out": "* 2?\n20 *", "n_gen": 8}
+{"i": 179, "ok": false, "gold": "462", "out": "**66 * 7**\n\n", "n_gen": 8}
+{"i": 180, "ok": false, "gold": "476", "out": "\n1\n\n-\nThe user", "n_gen": 8}
+{"i": 181, "ok": false, "gold": "38", "out": "\n<channel|>\n$19 * ", "n_gen": 8}
+{"i": 182, "ok": false, "gold": "135", "out": "**15%** (I'", "n_gen": 8}
+{"i": 183, "ok": false, "gold": "89", "out": "<\u03c0><>\n\n**[**", "n_gen": 8}
+{"i": 184, "ok": false, "gold": "415", "out": "\nThe prompt asks for a calculation:", "n_gen": 8}
+{"i": 185, "ok": false, "gold": "164", "out": "**90 + 74?", "n_gen": 8}
+{"i": 186, "ok": false, "gold": "378", "out": "\n<|channel>thought\n===\nThe number", "n_gen": 8}
+{"i": 187, "ok": false, "gold": "224", "out": "\n*   *   *   *", "n_gen": 8}
+{"i": 188, "ok": false, "gold": "192", "out": "        \n        \n        \n        \n", "n_gen": 8}
+{"i": 189, "ok": false, "gold": "189", "out": "* \n* \n* ", "n_gen": 8}
+{"i": 190, "ok": false, "gold": "42", "out": "\nThe number is 29 +", "n_gen": 8}
+{"i": 191, "ok": false, "gold": "520", "out": "\n", "n_gen": 1}
+{"i": 192, "ok": false, "gold": "93", "out": "5-4-2-p-", "n_gen": 8}
+{"i": 193, "ok": false, "gold": "44", "out": "[Important note: 19 +", "n_gen": 8}
+{"i": 194, "ok": false, "gold": "67", "out": "...\n\n...\n\n...\n\n...\n\n", "n_gen": 8}
+{"i": 195, "ok": false, "gold": "50", "out": "Thepi_is_the_number", "n_gen": 8}
+{"i": 196, "ok": false, "gold": "76", "out": "================\nThe user's input is", "n_gen": 8}
+{"i": 197, "ok": false, "gold": "130", "out": "_______", "n_gen": 4}
+{"i": 198, "ok": false, "gold": "50", "out": "A 25 * 2.", "n_gen": 8}
+{"i": 199, "ok": false, "gold": "111", "out": "\n\n<item<#*${nbsp", "n_gen": 8}
+{"i": 200, "ok": false, "gold": "156", "out": "\u308b\u0627\u062a\u0e39 (108)", "n_gen": 8}
+{"i": 201, "ok": false, "gold": "95", "out": "\n*\n{\u00ab\ufffd\u03b1\u0131", "n_gen": 8}
+{"i": 202, "ok": false, "gold": "69", "out": "{the_s_a_f", "n_gen": 8}
+{"i": 203, "ok": false, "gold": "92", "out": "                    \\\\    \\\\", "n_gen": 8}
+{"i": 204, "ok": false, "gold": "94", "out": "\n[#_#_#_", "n_gen": 8}
+{"i": 205, "ok": false, "gold": "560", "out": "\n<7]\n<7]", "n_gen": 8}
+{"i": 206, "ok": false, "gold": "43", "out": "-\n-\n-\n\n-\n\n", "n_gen": 8}
+{"i": 207, "ok": false, "gold": "196", "out": "The answer is 29.\n\n", "n_gen": 8}
+{"i": 208, "ok": false, "gold": "54", "out": "_Initial: 28 + ", "n_gen": 8}
+{"i": 209, "ok": false, "gold": "250", "out": ">\n|\n|\n|\n", "n_gen": 8}
+{"i": 210, "ok": false, "gold": "80", "out": "Reply with the number only.\n**", "n_gen": 8}
+{"i": 211, "ok": false, "gold": "109", "out": "94", "n_gen": 2}
+{"i": 212, "ok": false, "gold": "172", "out": "To the calculation:\nThe answer is", "n_gen": 8}
+{"i": 213, "ok": false, "gold": "118", "out": "|\n|\n|\n|\n", "n_gen": 8}
+{"i": 214, "ok": false, "gold": "128", "out": "The sum is 1. The number", "n_gen": 8}
+{"i": 215, "ok": false, "gold": "113", "out": "<>\n<>\n<>", "n_gen": 8}
+{"i": 216, "ok": false, "gold": "146", "out": "", "n_gen": 0}
+{"i": 217, "ok": false, "gold": "156", "out": "\nH's's's", "n_gen": 8}
+{"i": 218, "ok": false, "gold": "94", "out": "_|__\n_|__\n", "n_gen": 8}
+{"i": 219, "ok": false, "gold": "74", "out": "\n**The only** own evenca", "n_gen": 8}
+{"i": 220, "ok": false, "gold": "459", "out": "\n    ***\n    ***\n    ", "n_gen": 8}
+{"i": 221, "ok": false, "gold": "117", "out": "|\n>\n>\n<\n", "n_gen": 8}
+{"i": 222, "ok": false, "gold": "56", "out": "**No matter**\n\n**No matter", "n_gen": 8}
+{"i": 223, "ok": false, "gold": "168", "out": "**What is 81 + ", "n_gen": 8}
+{"i": 224, "ok": false, "gold": "891", "out": "\n\n<channel|>\n\n\n\n\n\n\n\n\n\n\n\n", "n_gen": 8}
+{"i": 225, "ok": false, "gold": "264", "out": "\\p\\p\\p\\p", "n_gen": 8}
+{"i": 226, "ok": false, "gold": "109", "out": " much better English better\n\n\n\n- much", "n_gen": 8}
+{"i": 227, "ok": false, "gold": "104", "out": "-1\n|\n|\n|", "n_gen": 8}
+{"i": 228, "ok": false, "gold": "181", "out": "<!---->\n```\n```\n```", "n_gen": 8}
+{"i": 229, "ok": false, "gold": "83", "out": "\nthought\ns\n", "n_gen": 5}
+{"i": 230, "ok": false, "gold": "166", "out": "333.30e4", "n_gen": 8}
+{"i": 231, "ok": false, "gold": "50", "out": "To much much...\n[10", "n_gen": 8}
+{"i": 232, "ok": false, "gold": "138", "out": "-48\n-48\n", "n_gen": 8}
+{"i": 233, "ok": false, "gold": "232", "out": "\n|\n\n|\n\n|\n\n|", "n_gen": 8}
+{"i": 234, "ok": false, "gold": "210", "out": "\nThe number only.\nThe number", "n_gen": 8}
+{"i": 235, "ok": false, "gold": "312", "out": "911is muchat muchat", "n_gen": 8}
+{"i": 236, "ok": false, "gold": "37", "out": "\n*The number only.*\n*", "n_gen": 8}
+{"i": 237, "ok": false, "gold": "110", "out": " much unique\n- much unique\n-", "n_gen": 8}
+{"i": 238, "ok": false, "gold": "137", "out": "\n    \n    \n    \n    ", "n_gen": 8}
+{"i": 239, "ok": false, "gold": "540", "out": "\n        \n\n            \n        \n", "n_gen": 8}
+{"i": 240, "ok": false, "gold": "97", "out": "To many things can be a different number", "n_gen": 8}
+{"i": 241, "ok": false, "gold": "131", "out": "In some, the-\n-ed", "n_gen": 8}
+{"i": 242, "ok": false, "gold": "42", "out": "\n14 * 3? Reply", "n_gen": 8}
+{"i": 243, "ok": false, "gold": "343", "out": "\n|\n------\n|\n|", "n_gen": 8}
+{"i": 244, "ok": false, "gold": "71", "out": "== 41 + 30", "n_gen": 8}
+{"i": 245, "ok": false, "gold": "93", "out": "", "n_gen": 0}
+{"i": 246, "ok": false, "gold": "415", "out": "\n\t\n\n\t\n\n\t", "n_gen": 8}
+{"i": 247, "ok": false, "gold": "496", "out": "The number of 62 * ", "n_gen": 8}
+{"i": 248, "ok": false, "gold": "270", "out": "\n{\n$\n$\n$", "n_gen": 8}
+{"i": 249, "ok": false, "gold": "172", "out": "\n\nIf you's 82", "n_gen": 8}
+{"i": 250, "ok": false, "gold": "124", "out": "\n{ own_ own_ }\n", "n_gen": 8}
+{"i": 251, "ok": false, "gold": "146", "out": "\u305f.\n-\n-\n{", "n_gen": 8}
+{"i": 252, "ok": false, "gold": "176", "out": "\n    ' even longer '\n    ", "n_gen": 8}
+{"i": 253, "ok": false, "gold": "160", "out": "1. **What is 90", "n_gen": 8}
+{"i": 254, "ok": false, "gold": "333", "out": "[[ 37 ]] [[ 9", "n_gen": 8}
+{"i": 255, "ok": false, "gold": "124", "out": "\n    The number is 79", "n_gen": 8}
+{"i": 256, "ok": false, "gold": "83", "out": "- 101010", "n_gen": 8}
+{"i": 257, "ok": false, "gold": "89", "out": "\n<|channel>\n```\n  |\n", "n_gen": 8}
+{"i": 258, "ok": false, "gold": "74", "out": "thought\ns\ns\ns\n", "n_gen": 8}
+{"i": 259, "ok": false, "gold": "71", "out": "\n\"\"\"\n\"\"\n\"\"\n\"\"", "n_gen": 8}
+{"i": 260, "ok": false, "gold": "54", "out": "_3_", "n_gen": 3}
+{"i": 261, "ok": false, "gold": "760", "out": "1.\n^|2.\n", "n_gen": 8}
+{"i": 262, "ok": false, "gold": "39", "out": "thought\n[]\n<\n\n\n", "n_gen": 8}
+{"i": 263, "ok": false, "gold": "264", "out": "\n- **The answer is 4", "n_gen": 8}
+{"i": 264, "ok": false, "gold": "156", "out": "\n<p>\n*\n*", "n_gen": 8}
+{"i": 265, "ok": false, "gold": "230", "out": "12.\n\n                               m.\n\n", "n_gen": 8}
+{"i": 266, "ok": false, "gold": "120", "out": "[-1-\n-1-", "n_gen": 8}
+{"i": 267, "ok": false, "gold": "115", "out": "*   ************", "n_gen": 8}
+{"i": 268, "ok": false, "gold": "776", "out": "\n-\n-\n-\n-", "n_gen": 8}
+{"i": 269, "ok": false, "gold": "105", "out": "\n- (no one-p-", "n_gen": 8}
+{"i": 270, "ok": false, "gold": "69", "out": "_", "n_gen": 1}
+{"i": 271, "ok": false, "gold": "123", "out": "        165\n        64", "n_gen": 8}
+{"i": 272, "ok": false, "gold": "295", "out": "[<--[<--[<", "n_gen": 8}
+{"i": 273, "ok": false, "gold": "330", "out": "\n---\n---\n---\n---", "n_gen": 8}
+{"i": 274, "ok": false, "gold": "128", "out": "**99**", "n_gen": 4}
+{"i": 275, "ok": false, "gold": "111", "out": "den-f-s-k-", "n_gen": 8}
+{"i": 276, "ok": false, "gold": "112", "out": "<#56><#2\n", "n_gen": 8}
+{"i": 277, "ok": false, "gold": "384", "out": "_ _ _ _ _ _ _ _", "n_gen": 8}
+{"i": 278, "ok": false, "gold": "136", "out": "==48.==88.", "n_gen": 8}
+{"i": 279, "ok": false, "gold": "121", "out": "\n\n*\n\n*\n\n*\n\n*", "n_gen": 8}
+{"i": 280, "ok": false, "gold": "440", "out": "# 2\n# 2\n", "n_gen": 8}
+{"i": 281, "ok": false, "gold": "189", "out": "The'number\nThe'number\n", "n_gen": 8}
+{"i": 282, "ok": false, "gold": "744", "out": "Like much the 93 * ", "n_gen": 8}
+{"i": 283, "ok": false, "gold": "432", "out": "\n\n***\n\n***\n\n***\n\n***", "n_gen": 8}
+{"i": 284, "ok": false, "gold": "259", "out": "\n\n\ub4e0\u0e40\u0e1b\u0e47\u0e19 7*7?", "n_gen": 8}
+{"i": 285, "ok": false, "gold": "31", "out": "\n\nWhat is 15 + ", "n_gen": 8}
+{"i": 286, "ok": false, "gold": "57", "out": "|\n----------------|\n|\n|", "n_gen": 8}
+{"i": 287, "ok": false, "gold": "81", "out": " much longer than you'd like to", "n_gen": 8}
+{"i": 288, "ok": false, "gold": "485", "out": "\n\nThe own of the number is ", "n_gen": 8}
+{"i": 289, "ok": false, "gold": "300", "out": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", "n_gen": 8}
+{"i": 290, "ok": false, "gold": "140", "out": "Herely own owns enough to the", "n_gen": 8}
+{"i": 291, "ok": false, "gold": "70", "out": "\nYou's own to the number", "n_gen": 8}
+{"i": 292, "ok": false, "gold": "119", "out": "\n\n_______", "n_gen": 8}
+{"i": 293, "ok": false, "gold": "91", "out": "[", "n_gen": 1}
+{"i": 294, "ok": false, "gold": "56", "out": "", "n_gen": 0}
+{"i": 295, "ok": false, "gold": "270", "out": "[245]\u2260[2", "n_gen": 8}
+{"i": 296, "ok": false, "gold": "252", "out": "\n    *   \n    \n    ", "n_gen": 8}
+{"i": 297, "ok": false, "gold": "101", "out": "_sya_and_the_", "n_gen": 8}
+{"i": 298, "ok": false, "gold": "55", "out": "The following text is a mathematical problem.", "n_gen": 8}
+{"i": 299, "ok": false, "gold": "99", "out": "So carefully, so much of the...", "n_gen": 8}

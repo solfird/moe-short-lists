@@ -1,0 +1,37 @@
+[project]
+name = "moe-short-lists"
+version = "1.0.0"
+description = "Running a frozen Mixture-of-Experts model on a short list of experts: code, data and scripts of Solfird AI Technical Report 2026-02."
+requires-python = ">=3.12"
+dependencies = [
+    "mlx==0.32.4",
+    "mlx-lm==0.32.2",
+    "datasets==5.1.0",
+    "rouge-score==0.1.2",
+    "numpy==2.5.4",
+]
+
+[project.optional-dependencies]
+dev = ["pytest==9.1.1", "ruff==0.17.3"]
+figures = ["matplotlib==3.9.2"]
+
+[tool.pytest.ini_options]
+testpaths = ["code/tests"]
+pythonpath = ["code", "analysis"]
+addopts = "-m 'not slow and not data'"
+markers = [
+    "slow: loads a real model",
+    "data: loads a Hugging Face dataset (network or local cache)",
+]
+
+[tool.ruff]
+line-length = 120
+src = ["code", "analysis"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP", "SIM"]
+
+[tool.ruff.lint.per-file-ignores]
+"analysis/*.py" = ["E402"]
+"code/jury.py" = ["E402"]
+"code/final.py" = ["E402"]

@@ -1,0 +1,200 @@
+{"task": "classify", "i": 0, "out": "N/A", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 475, "n_gen": 3, "gen_ids": [236797, 236786, 236776], "prompt_ids_len": 475}
+{"task": "classify", "i": 1, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 698, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 698}
+{"task": "classify", "i": 2, "out": "Sci/Tech", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 770, "n_gen": 3, "gen_ids": [75948, 236786, 29235], "prompt_ids_len": 770}
+{"task": "classify", "i": 3, "out": "World", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 695, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 695}
+{"task": "classify", "i": 4, "out": "World", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 697, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 697}
+{"task": "classify", "i": 5, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 765, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 765}
+{"task": "classify", "i": 6, "out": "Sci/Tech", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 557, "n_gen": 3, "gen_ids": [75948, 236786, 29235], "prompt_ids_len": 557}
+{"task": "classify", "i": 7, "out": "Business", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 676, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 676}
+{"task": "classify", "i": 8, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 708, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 708}
+{"task": "classify", "i": 9, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 717, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 717}
+{"task": "classify", "i": 10, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 753, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 753}
+{"task": "classify", "i": 11, "out": "Sci/Tech", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 707, "n_gen": 3, "gen_ids": [75948, 236786, 29235], "prompt_ids_len": 707}
+{"task": "classify", "i": 12, "out": "World", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 710, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 710}
+{"task": "classify", "i": 13, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 724, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 724}
+{"task": "classify", "i": 14, "out": "Business", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 593, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 593}
+{"task": "classify", "i": 15, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 703, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 703}
+{"task": "classify", "i": 16, "out": "Business", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 455, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 455}
+{"task": "classify", "i": 17, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 693, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 693}
+{"task": "classify", "i": 18, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 347, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 347}
+{"task": "classify", "i": 19, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 728, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 728}
+{"task": "classify", "i": 20, "out": "Business", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 525, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 525}
+{"task": "classify", "i": 21, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 375, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 375}
+{"task": "classify", "i": 22, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 729, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 729}
+{"task": "classify", "i": 23, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 727, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 727}
+{"task": "classify", "i": 24, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 532, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 532}
+{"task": "classify", "i": 25, "out": "World", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 633, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 633}
+{"task": "classify", "i": 26, "out": "World", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 708, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 708}
+{"task": "classify", "i": 27, "out": "Business", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 737, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 737}
+{"task": "classify", "i": 28, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 784, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 784}
+{"task": "classify", "i": 29, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 706, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 706}
+{"task": "classify", "i": 30, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 376, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 376}
+{"task": "classify", "i": 31, "out": "Sci/Tech", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 475, "n_gen": 3, "gen_ids": [75948, 236786, 29235], "prompt_ids_len": 475}
+{"task": "classify", "i": 32, "out": "Business", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 715, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 715}
+{"task": "classify", "i": 33, "out": "World", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 694, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 694}
+{"task": "classify", "i": 34, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 653, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 653}
+{"task": "classify", "i": 35, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 735, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 735}
+{"task": "classify", "i": 36, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 381, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 381}
+{"task": "classify", "i": 37, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 633, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 633}
+{"task": "classify", "i": 38, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 299, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 299}
+{"task": "classify", "i": 39, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 634, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 634}
+{"task": "classify", "i": 40, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 601, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 601}
+{"task": "classify", "i": 41, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 764, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 764}
+{"task": "classify", "i": 42, "out": "Business", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 691, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 691}
+{"task": "classify", "i": 43, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 334, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 334}
+{"task": "classify", "i": 44, "out": "Sci/Tech", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 592, "n_gen": 3, "gen_ids": [75948, 236786, 29235], "prompt_ids_len": 592}
+{"task": "classify", "i": 45, "out": "World", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 504, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 504}
+{"task": "classify", "i": 46, "out": "Sci/Tech", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 753, "n_gen": 3, "gen_ids": [75948, 236786, 29235], "prompt_ids_len": 753}
+{"task": "classify", "i": 47, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 512, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 512}
+{"task": "classify", "i": 48, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 793, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 793}
+{"task": "classify", "i": 49, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 731, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 731}
+{"task": "classify", "i": 50, "out": "Business", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 602, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 602}
+{"task": "classify", "i": 51, "out": "Sci/Tech", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 730, "n_gen": 3, "gen_ids": [75948, 236786, 29235], "prompt_ids_len": 730}
+{"task": "classify", "i": 52, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 708, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 708}
+{"task": "classify", "i": 53, "out": "World", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 773, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 773}
+{"task": "classify", "i": 54, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 686, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 686}
+{"task": "classify", "i": 55, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 708, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 708}
+{"task": "classify", "i": 56, "out": "Sci/Tech", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 730, "n_gen": 3, "gen_ids": [75948, 236786, 29235], "prompt_ids_len": 730}
+{"task": "classify", "i": 57, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 684, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 684}
+{"task": "classify", "i": 58, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 438, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 438}
+{"task": "classify", "i": 59, "out": "Business", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 736, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 736}
+{"task": "classify", "i": 60, "out": "Business", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 439, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 439}
+{"task": "classify", "i": 61, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 813, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 813}
+{"task": "classify", "i": 62, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 279, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 279}
+{"task": "classify", "i": 63, "out": "World", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 708, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 708}
+{"task": "classify", "i": 64, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 625, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 625}
+{"task": "classify", "i": 65, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 712, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 712}
+{"task": "classify", "i": 66, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 689, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 689}
+{"task": "classify", "i": 67, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 691, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 691}
+{"task": "classify", "i": 68, "out": "World", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 764, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 764}
+{"task": "classify", "i": 69, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 458, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 458}
+{"task": "classify", "i": 70, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 443, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 443}
+{"task": "classify", "i": 71, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 576, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 576}
+{"task": "classify", "i": 72, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 480, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 480}
+{"task": "classify", "i": 73, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 711, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 711}
+{"task": "classify", "i": 74, "out": "Sci/Tech", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 923, "n_gen": 3, "gen_ids": [75948, 236786, 29235], "prompt_ids_len": 923}
+{"task": "classify", "i": 75, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 247, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 247}
+{"task": "classify", "i": 76, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 749, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 749}
+{"task": "classify", "i": 77, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 736, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 736}
+{"task": "classify", "i": 78, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 305, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 305}
+{"task": "classify", "i": 79, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 756, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 756}
+{"task": "classify", "i": 80, "out": "World", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 779, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 779}
+{"task": "classify", "i": 81, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 655, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 655}
+{"task": "classify", "i": 82, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 707, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 707}
+{"task": "classify", "i": 83, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 508, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 508}
+{"task": "classify", "i": 84, "out": "Business", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 725, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 725}
+{"task": "classify", "i": 85, "out": "World", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 731, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 731}
+{"task": "classify", "i": 86, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 747, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 747}
+{"task": "classify", "i": 87, "out": "Sci/Tech", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 713, "n_gen": 3, "gen_ids": [75948, 236786, 29235], "prompt_ids_len": 713}
+{"task": "classify", "i": 88, "out": "World\n\nSports", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 639, "n_gen": 3, "gen_ids": [14447, 108, 45417], "prompt_ids_len": 639}
+{"task": "classify", "i": 89, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 517, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 517}
+{"task": "classify", "i": 90, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 783, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 783}
+{"task": "classify", "i": 91, "out": "World", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 721, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 721}
+{"task": "classify", "i": 92, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 722, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 722}
+{"task": "classify", "i": 93, "out": "Sports", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 605, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 605}
+{"task": "classify", "i": 94, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 414, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 414}
+{"task": "classify", "i": 95, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 555, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 555}
+{"task": "classify", "i": 96, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 683, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 683}
+{"task": "classify", "i": 97, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 763, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 763}
+{"task": "classify", "i": 98, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 676, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 676}
+{"task": "classify", "i": 99, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 312, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 312}
+{"task": "classify", "i": 100, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 715, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 715}
+{"task": "classify", "i": 101, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 816, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 816}
+{"task": "classify", "i": 102, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 521, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 521}
+{"task": "classify", "i": 103, "out": "Sci/Tech", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 633, "n_gen": 3, "gen_ids": [75948, 236786, 29235], "prompt_ids_len": 633}
+{"task": "classify", "i": 104, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 718, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 718}
+{"task": "classify", "i": 105, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 434, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 434}
+{"task": "classify", "i": 106, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 481, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 481}
+{"task": "classify", "i": 107, "out": "World", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 547, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 547}
+{"task": "classify", "i": 108, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 602, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 602}
+{"task": "classify", "i": 109, "out": "Sports", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 342, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 342}
+{"task": "classify", "i": 110, "out": "Sci/Tech", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 773, "n_gen": 3, "gen_ids": [75948, 236786, 29235], "prompt_ids_len": 773}
+{"task": "classify", "i": 111, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 416, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 416}
+{"task": "classify", "i": 112, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 362, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 362}
+{"task": "classify", "i": 113, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 391, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 391}
+{"task": "classify", "i": 114, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 686, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 686}
+{"task": "classify", "i": 115, "out": "Sports", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 512, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 512}
+{"task": "classify", "i": 116, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 766, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 766}
+{"task": "classify", "i": 117, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 777, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 777}
+{"task": "classify", "i": 118, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 500, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 500}
+{"task": "classify", "i": 119, "out": "Sports", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 608, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 608}
+{"task": "classify", "i": 120, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 387, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 387}
+{"task": "classify", "i": 121, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 676, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 676}
+{"task": "classify", "i": 122, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 784, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 784}
+{"task": "classify", "i": 123, "out": "Sports", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 741, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 741}
+{"task": "classify", "i": 124, "out": "Business", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 510, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 510}
+{"task": "classify", "i": 125, "out": "Sci/Tech", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 461, "n_gen": 3, "gen_ids": [75948, 236786, 29235], "prompt_ids_len": 461}
+{"task": "classify", "i": 126, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 335, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 335}
+{"task": "classify", "i": 127, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 740, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 740}
+{"task": "classify", "i": 128, "out": "World", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 237, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 237}
+{"task": "classify", "i": 129, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 334, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 334}
+{"task": "classify", "i": 130, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 621, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 621}
+{"task": "classify", "i": 131, "out": "Sci/Tech", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 797, "n_gen": 3, "gen_ids": [75948, 236786, 29235], "prompt_ids_len": 797}
+{"task": "classify", "i": 132, "out": "Sports", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 537, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 537}
+{"task": "classify", "i": 133, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 765, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 765}
+{"task": "classify", "i": 134, "out": "Business", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 609, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 609}
+{"task": "classify", "i": 135, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 253, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 253}
+{"task": "classify", "i": 136, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 650, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 650}
+{"task": "classify", "i": 137, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 484, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 484}
+{"task": "classify", "i": 138, "out": "Sci/Tech", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 768, "n_gen": 3, "gen_ids": [75948, 236786, 29235], "prompt_ids_len": 768}
+{"task": "classify", "i": 139, "out": "Sports", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 374, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 374}
+{"task": "classify", "i": 140, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 539, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 539}
+{"task": "classify", "i": 141, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 611, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 611}
+{"task": "classify", "i": 142, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 589, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 589}
+{"task": "classify", "i": 143, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 804, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 804}
+{"task": "classify", "i": 144, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 520, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 520}
+{"task": "classify", "i": 145, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 575, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 575}
+{"task": "classify", "i": 146, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 570, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 570}
+{"task": "classify", "i": 147, "out": "Sports", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 528, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 528}
+{"task": "classify", "i": 148, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 678, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 678}
+{"task": "classify", "i": 149, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 773, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 773}
+{"task": "classify", "i": 150, "out": "Business", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 808, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 808}
+{"task": "classify", "i": 151, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 508, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 508}
+{"task": "classify", "i": 152, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 683, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 683}
+{"task": "classify", "i": 153, "out": "Sports", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 641, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 641}
+{"task": "classify", "i": 154, "out": "Sci/Tech", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 724, "n_gen": 3, "gen_ids": [75948, 236786, 29235], "prompt_ids_len": 724}
+{"task": "classify", "i": 155, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 733, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 733}
+{"task": "classify", "i": 156, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 462, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 462}
+{"task": "classify", "i": 157, "out": "World", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 359, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 359}
+{"task": "classify", "i": 158, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 838, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 838}
+{"task": "classify", "i": 159, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 689, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 689}
+{"task": "classify", "i": 160, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 483, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 483}
+{"task": "classify", "i": 161, "out": "Sci/Tech", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 756, "n_gen": 3, "gen_ids": [75948, 236786, 29235], "prompt_ids_len": 756}
+{"task": "classify", "i": 162, "out": "Sports", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 684, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 684}
+{"task": "classify", "i": 163, "out": "Sports", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 643, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 643}
+{"task": "classify", "i": 164, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 675, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 675}
+{"task": "classify", "i": 165, "out": "Business", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 734, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 734}
+{"task": "classify", "i": 166, "out": "Sci/Tech", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 756, "n_gen": 3, "gen_ids": [75948, 236786, 29235], "prompt_ids_len": 756}
+{"task": "classify", "i": 167, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 486, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 486}
+{"task": "classify", "i": 168, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 786, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 786}
+{"task": "classify", "i": 169, "out": "Sports", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 687, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 687}
+{"task": "classify", "i": 170, "out": "Sports", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 724, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 724}
+{"task": "classify", "i": 171, "out": "Sci/Tech", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 412, "n_gen": 3, "gen_ids": [75948, 236786, 29235], "prompt_ids_len": 412}
+{"task": "classify", "i": 172, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 451, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 451}
+{"task": "classify", "i": 173, "out": "Sci/Tech", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 740, "n_gen": 3, "gen_ids": [75948, 236786, 29235], "prompt_ids_len": 740}
+{"task": "classify", "i": 174, "out": "Sci/Tech", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 547, "n_gen": 3, "gen_ids": [75948, 236786, 29235], "prompt_ids_len": 547}
+{"task": "classify", "i": 175, "out": "Business", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 490, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 490}
+{"task": "classify", "i": 176, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 751, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 751}
+{"task": "classify", "i": 177, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 815, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 815}
+{"task": "classify", "i": 178, "out": "Business", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 576, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 576}
+{"task": "classify", "i": 179, "out": "Sci/Tech", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 728, "n_gen": 3, "gen_ids": [75948, 236786, 29235], "prompt_ids_len": 728}
+{"task": "classify", "i": 180, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 413, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 413}
+{"task": "classify", "i": 181, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 714, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 714}
+{"task": "classify", "i": 182, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 774, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 774}
+{"task": "classify", "i": 183, "out": "Sports", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 737, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 737}
+{"task": "classify", "i": 184, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 469, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 469}
+{"task": "classify", "i": 185, "out": "Sci/Tech", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 474, "n_gen": 3, "gen_ids": [75948, 236786, 29235], "prompt_ids_len": 474}
+{"task": "classify", "i": 186, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 334, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 334}
+{"task": "classify", "i": 187, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 787, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 787}
+{"task": "classify", "i": 188, "out": "Sports", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 758, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 758}
+{"task": "classify", "i": 189, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 800, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 800}
+{"task": "classify", "i": 190, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 477, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 477}
+{"task": "classify", "i": 191, "out": "World", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 801, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 801}
+{"task": "classify", "i": 192, "out": "Business", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 439, "n_gen": 1, "gen_ids": [17844], "prompt_ids_len": 439}
+{"task": "classify", "i": 193, "out": "Sports", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 649, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 649}
+{"task": "classify", "i": 194, "out": "Sports", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 600, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 600}
+{"task": "classify", "i": 195, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 623, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 623}
+{"task": "classify", "i": 196, "out": "Sports", "ref_scores": {"cls_acc": 0.0}, "n_prompt": 872, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 872}
+{"task": "classify", "i": 197, "out": "Sports", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 755, "n_gen": 1, "gen_ids": [45417], "prompt_ids_len": 755}
+{"task": "classify", "i": 198, "out": "Sci/Tech", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 813, "n_gen": 3, "gen_ids": [75948, 236786, 29235], "prompt_ids_len": 813}
+{"task": "classify", "i": 199, "out": "World", "ref_scores": {"cls_acc": 1.0}, "n_prompt": 726, "n_gen": 1, "gen_ids": [14447], "prompt_ids_len": 726}

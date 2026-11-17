@@ -1,0 +1,4 @@
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2786.54it/s]
+gemma_head64_short_n300_k16_s32.jsonl: 1286s, k=16 of 128
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 6029.19it/s]
+qwen36_head64_short_n300_k32_s32.jsonl: 401s, k=32 of 256

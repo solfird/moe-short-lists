@@ -1,0 +1,16 @@
+{
+ "model": "mlx-community/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-4bit",
+ "snapshot": "55ac8c89261109b36c04371cd3f479a4594208c8",
+ "mlx": "0.32.4",
+ "mlx_lm": "0.32.2",
+ "python": "3.13.15",
+ "git_commit": "37bac39e2b4f283c5aeda04312e456e18ef5d29c",
+ "git_dirty": false,
+ "start": "2026-10-30T05:14:25+01:00",
+ "task": "summarize",
+ "frac": 0.25,
+ "k": 32,
+ "s": 32,
+ "n": 300,
+ "source": "nemotron_short_n300_k0_s32.jsonl"
+}

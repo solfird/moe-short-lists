@@ -1,0 +1,6 @@
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2778.60it/s]
+gemma_ceiling_short_n300_k12_s32.jsonl: 1588s, k=12 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 1606.46it/s]
+nemotron_ceiling_short_n300_k12_s32.jsonl: 1234s, k=12 of 128
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 2863.66it/s]
+qwen36_ceiling_short_n300_k16_s32.jsonl: 972s, k=16 of 256

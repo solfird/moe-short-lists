@@ -1,0 +1,71 @@
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 1680.95it/s]
+gemma_short_n300_k16_s16.jsonl: 1426s, k=16 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 1559.57it/s]
+gemma_short_n300_k24_s16.jsonl: 1342s, k=24 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2615.72it/s]
+gemma_short_n300_k32_s16.jsonl: 1234s, k=32 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 1637.70it/s]
+gemma_short_n300_k48_s16.jsonl: 1172s, k=48 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 4619.28it/s]
+gemma_short_n300_k64_s16.jsonl: 1131s, k=64 of 128
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 3164.72it/s]
+qwen36_short_n300_k16_s16.jsonl: 690s, k=16 of 256
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 2576.46it/s]
+qwen36_short_n300_k32_s16.jsonl: 724s, k=32 of 256
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 2496.31it/s]
+qwen36_short_n300_k48_s16.jsonl: 843s, k=48 of 256
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 1124.10it/s]
+qwen36_short_n300_k64_s16.jsonl: 910s, k=64 of 256
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 1219.32it/s]
+qwen36_short_n300_k96_s16.jsonl: 908s, k=96 of 256
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 1301.85it/s]
+qwen36_short_n300_k128_s16.jsonl: 949s, k=128 of 256
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 988.92it/s]
+nemotron_short_n300_k8_s16.jsonl: 1074s, k=8 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2164.58it/s]
+nemotron_short_n300_k16_s16.jsonl: 1048s, k=16 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2389.51it/s]
+nemotron_short_n300_k24_s16.jsonl: 984s, k=24 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 1892.14it/s]
+nemotron_short_n300_k32_s16.jsonl: 959s, k=32 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 4032.60it/s]
+nemotron_short_n300_k48_s16.jsonl: 904s, k=48 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2180.10it/s]
+nemotron_short_n300_k64_s16.jsonl: 900s, k=64 of 128
+Fetching 14 files:   0%|          | 0/14 [00:00<?, ?it/s]Fetching 14 files: 100%|██████████| 14/14 [00:00<00:00, 2468.69it/s]
+qwen_short_n300_k8_s16.jsonl: 1279s, k=8 of 128
+Fetching 14 files:   0%|          | 0/14 [00:00<?, ?it/s]Fetching 14 files: 100%|██████████| 14/14 [00:00<00:00, 2265.09it/s]
+qwen_short_n300_k16_s16.jsonl: 1250s, k=16 of 128
+Fetching 14 files:   0%|          | 0/14 [00:00<?, ?it/s]Fetching 14 files: 100%|██████████| 14/14 [00:00<00:00, 3122.09it/s]
+qwen_short_n300_k24_s16.jsonl: 1265s, k=24 of 128
+Fetching 14 files:   0%|          | 0/14 [00:00<?, ?it/s]Fetching 14 files: 100%|██████████| 14/14 [00:00<00:00, 2273.16it/s]
+qwen_short_n300_k32_s16.jsonl: 1268s, k=32 of 128
+Fetching 14 files:   0%|          | 0/14 [00:00<?, ?it/s]Fetching 14 files: 100%|██████████| 14/14 [00:00<00:00, 1952.53it/s]
+qwen_short_n300_k48_s16.jsonl: 1169s, k=48 of 128
+Fetching 14 files:   0%|          | 0/14 [00:00<?, ?it/s]Fetching 14 files: 100%|██████████| 14/14 [00:00<00:00, 3070.82it/s]
+qwen_short_n300_k64_s16.jsonl: 1138s, k=64 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2167.94it/s]
+gemma_short_n300_k8_s8.jsonl: 1502s, k=8 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 1807.03it/s]
+gemma_short_n300_k16_s8.jsonl: 1378s, k=16 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 2075.57it/s]
+gemma_short_n300_k24_s8.jsonl: 1277s, k=24 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 1980.97it/s]
+gemma_short_n300_k32_s8.jsonl: 1192s, k=32 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 1970.45it/s]
+gemma_short_n300_k48_s8.jsonl: 1132s, k=48 of 128
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 1907.98it/s]
+gemma_short_n300_k64_s8.jsonl: 1091s, k=64 of 128
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 2347.03it/s]
+qwen36_short_n300_k16_s8.jsonl: 645s, k=16 of 256
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 2159.19it/s]
+qwen36_short_n300_k32_s8.jsonl: 684s, k=32 of 256
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 1982.75it/s]
+qwen36_short_n300_k48_s8.jsonl: 889s, k=48 of 256
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 2766.45it/s]
+qwen36_short_n300_k64_s8.jsonl: 953s, k=64 of 256
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 2325.60it/s]
+qwen36_short_n300_k96_s8.jsonl: 963s, k=96 of 256
+Fetching 15 files:   0%|          | 0/15 [00:00<?, ?it/s]Fetching 15 files: 100%|██████████| 15/15 [00:00<00:00, 2528.72it/s]
+<python>/lib/python3.13/multiprocessing/resource_tracker.py:479: UserWarning: resource_tracker: There appear to be 1 leaked semaphore objects to clean up at shutdown: {'/mp-4as12sif'}
+  warnings.warn(
